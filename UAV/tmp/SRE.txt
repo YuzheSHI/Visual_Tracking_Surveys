@@ -1,0 +1,7928 @@
+1_CSK, 1_bike1: 1/12
+fps: 216.7308
+1_CSK, 1_bike1: 2/12
+fps: 223.3188
+1_CSK, 1_bike1: 3/12
+fps: 214.6303
+1_CSK, 1_bike1: 4/12
+fps: 213.3586
+1_CSK, 1_bike1: 5/12
+fps: 233.4775
+1_CSK, 1_bike1: 6/12
+fps: 244.6236
+1_CSK, 1_bike1: 7/12
+fps: 241.9086
+1_CSK, 1_bike1: 8/12
+fps: 239.9553
+1_CSK, 1_bike1: 9/12
+fps: 322.8622
+1_CSK, 1_bike1: 10/12
+fps: 192.9446
+1_CSK, 1_bike1: 11/12
+fps: 231.8204
+1_CSK, 1_bike1: 12/12
+fps: 120.4955
+2_KCF_LinearHog, 1_bike1: 1/12
+fps: 138.3349
+2_KCF_LinearHog, 1_bike1: 2/12
+fps: 138.8128
+2_KCF_LinearHog, 1_bike1: 3/12
+fps: 140.4705
+2_KCF_LinearHog, 1_bike1: 4/12
+fps: 145.222
+2_KCF_LinearHog, 1_bike1: 5/12
+fps: 159.284
+2_KCF_LinearHog, 1_bike1: 6/12
+fps: 159.0241
+2_KCF_LinearHog, 1_bike1: 7/12
+fps: 162.211
+2_KCF_LinearHog, 1_bike1: 8/12
+fps: 162.1984
+2_KCF_LinearHog, 1_bike1: 9/12
+fps: 298.6334
+2_KCF_LinearHog, 1_bike1: 10/12
+fps: 225.1426
+2_KCF_LinearHog, 1_bike1: 11/12
+fps: 160.4538
+2_KCF_LinearHog, 1_bike1: 12/12
+fps: 131.6591
+3_DSST, 1_bike1: 1/12
+fps: 20.9302
+3_DSST, 1_bike1: 2/12
+fps: 21.5395
+3_DSST, 1_bike1: 3/12
+fps: 19.8271
+3_DSST, 1_bike1: 4/12
+fps: 20.5144
+3_DSST, 1_bike1: 5/12
+fps: 10.4262
+3_DSST, 1_bike1: 6/12
+fps: 13.3157
+3_DSST, 1_bike1: 7/12
+fps: 19.7255
+3_DSST, 1_bike1: 8/12
+fps: 2.4996
+3_DSST, 1_bike1: 9/12
+fps: 38.6142
+3_DSST, 1_bike1: 10/12
+fps: 27.1814
+3_DSST, 1_bike1: 11/12
+fps: 20.7004
+3_DSST, 1_bike1: 12/12
+fps: 14.2229
+4_KCF_GaussHog, 1_bike1: 1/12
+fps: 86.4568
+4_KCF_GaussHog, 1_bike1: 2/12
+fps: 83.2239
+4_KCF_GaussHog, 1_bike1: 3/12
+fps: 86.0763
+4_KCF_GaussHog, 1_bike1: 4/12
+fps: 86.6856
+4_KCF_GaussHog, 1_bike1: 5/12
+fps: 104.5923
+4_KCF_GaussHog, 1_bike1: 6/12
+fps: 102.9462
+4_KCF_GaussHog, 1_bike1: 7/12
+fps: 105.0834
+4_KCF_GaussHog, 1_bike1: 8/12
+fps: 105.0883
+4_KCF_GaussHog, 1_bike1: 9/12
+fps: 184.5894
+4_KCF_GaussHog, 1_bike1: 10/12
+fps: 136.7313
+4_KCF_GaussHog, 1_bike1: 11/12
+fps: 104.8723
+4_KCF_GaussHog, 1_bike1: 12/12
+fps: 83.7851
+5_KCF_LinearGray, 1_bike1: 1/12
+fps: 260.5622
+5_KCF_LinearGray, 1_bike1: 2/12
+fps: 251.4813
+5_KCF_LinearGray, 1_bike1: 3/12
+fps: 278.426
+5_KCF_LinearGray, 1_bike1: 4/12
+fps: 260.2757
+5_KCF_LinearGray, 1_bike1: 5/12
+fps: 239.8974
+5_KCF_LinearGray, 1_bike1: 6/12
+fps: 228.2579
+5_KCF_LinearGray, 1_bike1: 7/12
+fps: 235.8069
+5_KCF_LinearGray, 1_bike1: 8/12
+fps: 229.174
+5_KCF_LinearGray, 1_bike1: 9/12
+fps: 317.5601
+5_KCF_LinearGray, 1_bike1: 10/12
+fps: 258.4778
+5_KCF_LinearGray, 1_bike1: 11/12
+fps: 236.0842
+5_KCF_LinearGray, 1_bike1: 12/12
+fps: 245.8791
+6_SAMF, 1_bike1: 1/12
+fps: 7.7348
+6_SAMF, 1_bike1: 2/12
+fps: 7.7531
+6_SAMF, 1_bike1: 3/12
+fps: 7.6621
+6_SAMF, 1_bike1: 4/12
+fps: 7.6375
+6_SAMF, 1_bike1: 5/12
+fps: 7.5116
+6_SAMF, 1_bike1: 6/12
+fps: 7.451
+6_SAMF, 1_bike1: 7/12
+fps: 7.4402
+6_SAMF, 1_bike1: 8/12
+fps: 7.4068
+6_SAMF, 1_bike1: 9/12
+fps: 10.2977
+6_SAMF, 1_bike1: 10/12
+fps: 8.8357
+6_SAMF, 1_bike1: 11/12
+fps: 7.3369
+6_SAMF, 1_bike1: 12/12
+fps: 6.4778
+7_SRDCF, 1_bike1: 1/12
+fps: 7.5399
+7_SRDCF, 1_bike1: 2/12
+fps: 7.7126
+7_SRDCF, 1_bike1: 3/12
+fps: 8.0558
+7_SRDCF, 1_bike1: 4/12
+fps: 7.6725
+7_SRDCF, 1_bike1: 5/12
+fps: 7.657
+7_SRDCF, 1_bike1: 6/12
+fps: 7.7747
+7_SRDCF, 1_bike1: 7/12
+fps: 7.218
+7_SRDCF, 1_bike1: 8/12
+fps: 7.2392
+7_SRDCF, 1_bike1: 9/12
+fps: 7.9824
+7_SRDCF, 1_bike1: 10/12
+fps: 7.9229
+7_SRDCF, 1_bike1: 11/12
+fps: 7.792
+7_SRDCF, 1_bike1: 12/12
+fps: 7.9139
+1_CSK, 2_bike2: 1/12
+fps: 2586.5053
+1_CSK, 2_bike2: 2/12
+fps: 2855.2693
+1_CSK, 2_bike2: 3/12
+fps: 2857.6744
+1_CSK, 2_bike2: 4/12
+fps: 2920.4404
+1_CSK, 2_bike2: 5/12
+fps: 2751.408
+1_CSK, 2_bike2: 6/12
+fps: 2862.3633
+1_CSK, 2_bike2: 7/12
+fps: 2852.5152
+1_CSK, 2_bike2: 8/12
+fps: 2658.2832
+1_CSK, 2_bike2: 9/12
+fps: 3742.7581
+1_CSK, 2_bike2: 10/12
+fps: 3229.4611
+1_CSK, 2_bike2: 11/12
+fps: 2620.3315
+1_CSK, 2_bike2: 12/12
+fps: 2306.4347
+2_KCF_LinearHog, 2_bike2: 1/12
+fps: 1864.2565
+2_KCF_LinearHog, 2_bike2: 2/12
+fps: 1891.9113
+2_KCF_LinearHog, 2_bike2: 3/12
+fps: 1908.1796
+2_KCF_LinearHog, 2_bike2: 4/12
+fps: 1866.3139
+2_KCF_LinearHog, 2_bike2: 5/12
+fps: 1830.7439
+2_KCF_LinearHog, 2_bike2: 6/12
+fps: 1866.5911
+2_KCF_LinearHog, 2_bike2: 7/12
+fps: 1812.5145
+2_KCF_LinearHog, 2_bike2: 8/12
+fps: 1745.5422
+2_KCF_LinearHog, 2_bike2: 9/12
+fps: 2423.0368
+2_KCF_LinearHog, 2_bike2: 10/12
+fps: 2116.4467
+2_KCF_LinearHog, 2_bike2: 11/12
+fps: 1798.6957
+2_KCF_LinearHog, 2_bike2: 12/12
+fps: 1669.187
+3_DSST, 2_bike2: 1/12
+fps: 193.158
+3_DSST, 2_bike2: 2/12
+fps: 202.3808
+3_DSST, 2_bike2: 3/12
+fps: 194.694
+3_DSST, 2_bike2: 4/12
+fps: 198.007
+3_DSST, 2_bike2: 5/12
+fps: 185.7937
+3_DSST, 2_bike2: 6/12
+fps: 186.7097
+3_DSST, 2_bike2: 7/12
+fps: 183.2979
+3_DSST, 2_bike2: 8/12
+fps: 185.2202
+3_DSST, 2_bike2: 9/12
+fps: 223.0592
+3_DSST, 2_bike2: 10/12
+fps: 216.6621
+3_DSST, 2_bike2: 11/12
+fps: 189.1428
+3_DSST, 2_bike2: 12/12
+fps: 188.1258
+4_KCF_GaussHog, 2_bike2: 1/12
+fps: 1444.5922
+4_KCF_GaussHog, 2_bike2: 2/12
+fps: 1485.09
+4_KCF_GaussHog, 2_bike2: 3/12
+fps: 1519.2182
+4_KCF_GaussHog, 2_bike2: 4/12
+fps: 1488.5559
+4_KCF_GaussHog, 2_bike2: 5/12
+fps: 1461.4281
+4_KCF_GaussHog, 2_bike2: 6/12
+fps: 1409.7936
+4_KCF_GaussHog, 2_bike2: 7/12
+fps: 1497.2208
+4_KCF_GaussHog, 2_bike2: 8/12
+fps: 1431.9339
+4_KCF_GaussHog, 2_bike2: 9/12
+fps: 1747.3182
+4_KCF_GaussHog, 2_bike2: 10/12
+fps: 1490.1443
+4_KCF_GaussHog, 2_bike2: 11/12
+fps: 1443.5966
+4_KCF_GaussHog, 2_bike2: 12/12
+fps: 1020.2839
+5_KCF_LinearGray, 2_bike2: 1/12
+fps: 2646.4902
+5_KCF_LinearGray, 2_bike2: 2/12
+fps: 2544.6698
+5_KCF_LinearGray, 2_bike2: 3/12
+fps: 2494.7443
+5_KCF_LinearGray, 2_bike2: 4/12
+fps: 2596.5489
+5_KCF_LinearGray, 2_bike2: 5/12
+fps: 2361.502
+5_KCF_LinearGray, 2_bike2: 6/12
+fps: 2504.7218
+5_KCF_LinearGray, 2_bike2: 7/12
+fps: 2528.5664
+5_KCF_LinearGray, 2_bike2: 8/12
+fps: 2571.0048
+5_KCF_LinearGray, 2_bike2: 9/12
+fps: 3137.3394
+5_KCF_LinearGray, 2_bike2: 10/12
+fps: 2863.5787
+5_KCF_LinearGray, 2_bike2: 11/12
+fps: 2522.8678
+5_KCF_LinearGray, 2_bike2: 12/12
+fps: 2478.4647
+6_SAMF, 2_bike2: 1/12
+fps: 20.3566
+6_SAMF, 2_bike2: 2/12
+fps: 20.4764
+6_SAMF, 2_bike2: 3/12
+fps: 20.5321
+6_SAMF, 2_bike2: 4/12
+fps: 20.4779
+6_SAMF, 2_bike2: 5/12
+fps: 20.2471
+6_SAMF, 2_bike2: 6/12
+fps: 20.2818
+6_SAMF, 2_bike2: 7/12
+fps: 20.1604
+6_SAMF, 2_bike2: 8/12
+fps: 20.2546
+6_SAMF, 2_bike2: 9/12
+fps: 21.1559
+6_SAMF, 2_bike2: 10/12
+fps: 20.4988
+6_SAMF, 2_bike2: 11/12
+fps: 20.1447
+6_SAMF, 2_bike2: 12/12
+fps: 19.9104
+7_SRDCF, 2_bike2: 1/12
+fps: 35.574
+7_SRDCF, 2_bike2: 2/12
+fps: 35.7233
+7_SRDCF, 2_bike2: 3/12
+fps: 37.0601
+7_SRDCF, 2_bike2: 4/12
+fps: 35.9358
+7_SRDCF, 2_bike2: 5/12
+fps: 31.188
+7_SRDCF, 2_bike2: 6/12
+fps: 30.898
+7_SRDCF, 2_bike2: 7/12
+fps: 31.1439
+7_SRDCF, 2_bike2: 8/12
+fps: 31.5286
+7_SRDCF, 2_bike2: 9/12
+fps: 49.3366
+7_SRDCF, 2_bike2: 10/12
+fps: 39.5398
+7_SRDCF, 2_bike2: 11/12
+fps: 31.8132
+7_SRDCF, 2_bike2: 12/12
+fps: 24.7914
+1_CSK, 3_bike3: 1/12
+fps: 2404.4468
+1_CSK, 3_bike3: 2/12
+fps: 2515.5114
+1_CSK, 3_bike3: 3/12
+fps: 2587.9793
+1_CSK, 3_bike3: 4/12
+fps: 2629.8049
+1_CSK, 3_bike3: 5/12
+fps: 2237.0556
+1_CSK, 3_bike3: 6/12
+fps: 2287.9547
+1_CSK, 3_bike3: 7/12
+fps: 2224.6312
+1_CSK, 3_bike3: 8/12
+fps: 1985.4462
+1_CSK, 3_bike3: 9/12
+fps: 3250.6775
+1_CSK, 3_bike3: 10/12
+fps: 2827.072
+1_CSK, 3_bike3: 11/12
+fps: 2226.3355
+1_CSK, 3_bike3: 12/12
+fps: 2280.2075
+2_KCF_LinearHog, 3_bike3: 1/12
+fps: 1846.4031
+2_KCF_LinearHog, 3_bike3: 2/12
+fps: 1881.6924
+2_KCF_LinearHog, 3_bike3: 3/12
+fps: 1804.302
+2_KCF_LinearHog, 3_bike3: 4/12
+fps: 1911.6407
+2_KCF_LinearHog, 3_bike3: 5/12
+fps: 1915.641
+2_KCF_LinearHog, 3_bike3: 6/12
+fps: 1932.8459
+2_KCF_LinearHog, 3_bike3: 7/12
+fps: 1882.6005
+2_KCF_LinearHog, 3_bike3: 8/12
+fps: 1831.0604
+2_KCF_LinearHog, 3_bike3: 9/12
+fps: 2197.7576
+2_KCF_LinearHog, 3_bike3: 10/12
+fps: 1986.6851
+2_KCF_LinearHog, 3_bike3: 11/12
+fps: 1964.797
+2_KCF_LinearHog, 3_bike3: 12/12
+fps: 1633.5184
+3_DSST, 3_bike3: 1/12
+fps: 189.8185
+3_DSST, 3_bike3: 2/12
+fps: 202.5705
+3_DSST, 3_bike3: 3/12
+fps: 196.7406
+3_DSST, 3_bike3: 4/12
+fps: 191.5798
+3_DSST, 3_bike3: 5/12
+fps: 186.0789
+3_DSST, 3_bike3: 6/12
+fps: 187.3542
+3_DSST, 3_bike3: 7/12
+fps: 185.6939
+3_DSST, 3_bike3: 8/12
+fps: 182.8502
+3_DSST, 3_bike3: 9/12
+fps: 226.3451
+3_DSST, 3_bike3: 10/12
+fps: 202.3052
+3_DSST, 3_bike3: 11/12
+fps: 181.9391
+3_DSST, 3_bike3: 12/12
+fps: 174.83
+4_KCF_GaussHog, 3_bike3: 1/12
+fps: 1440.5099
+4_KCF_GaussHog, 3_bike3: 2/12
+fps: 1418.7604
+4_KCF_GaussHog, 3_bike3: 3/12
+fps: 1401.5757
+4_KCF_GaussHog, 3_bike3: 4/12
+fps: 1384.4039
+4_KCF_GaussHog, 3_bike3: 5/12
+fps: 1400.0892
+4_KCF_GaussHog, 3_bike3: 6/12
+fps: 1441.114
+4_KCF_GaussHog, 3_bike3: 7/12
+fps: 1484.3153
+4_KCF_GaussHog, 3_bike3: 8/12
+fps: 1404.3213
+4_KCF_GaussHog, 3_bike3: 9/12
+fps: 1676.2675
+4_KCF_GaussHog, 3_bike3: 10/12
+fps: 1511.9507
+4_KCF_GaussHog, 3_bike3: 11/12
+fps: 1468.3242
+4_KCF_GaussHog, 3_bike3: 12/12
+fps: 980.8763
+5_KCF_LinearGray, 3_bike3: 1/12
+fps: 2686.6209
+5_KCF_LinearGray, 3_bike3: 2/12
+fps: 2775.0184
+5_KCF_LinearGray, 3_bike3: 3/12
+fps: 2458.4254
+5_KCF_LinearGray, 3_bike3: 4/12
+fps: 2408.727
+5_KCF_LinearGray, 3_bike3: 5/12
+fps: 1971.1475
+5_KCF_LinearGray, 3_bike3: 6/12
+fps: 2013.8598
+5_KCF_LinearGray, 3_bike3: 7/12
+fps: 1918.2124
+5_KCF_LinearGray, 3_bike3: 8/12
+fps: 1975.1577
+5_KCF_LinearGray, 3_bike3: 9/12
+fps: 2660.1137
+5_KCF_LinearGray, 3_bike3: 10/12
+fps: 2392.6882
+5_KCF_LinearGray, 3_bike3: 11/12
+fps: 1985.519
+5_KCF_LinearGray, 3_bike3: 12/12
+fps: 2120.2936
+6_SAMF, 3_bike3: 1/12
+fps: 20.2497
+6_SAMF, 3_bike3: 2/12
+fps: 20.2028
+6_SAMF, 3_bike3: 3/12
+fps: 20.2093
+6_SAMF, 3_bike3: 4/12
+fps: 20.1628
+6_SAMF, 3_bike3: 5/12
+fps: 20.0798
+6_SAMF, 3_bike3: 6/12
+fps: 20.1594
+6_SAMF, 3_bike3: 7/12
+fps: 20.0236
+6_SAMF, 3_bike3: 8/12
+fps: 20.107
+6_SAMF, 3_bike3: 9/12
+fps: 20.6124
+6_SAMF, 3_bike3: 10/12
+fps: 20.5244
+6_SAMF, 3_bike3: 11/12
+fps: 20.0236
+6_SAMF, 3_bike3: 12/12
+fps: 19.5637
+7_SRDCF, 3_bike3: 1/12
+fps: 31.1331
+7_SRDCF, 3_bike3: 2/12
+fps: 31.5016
+7_SRDCF, 3_bike3: 3/12
+fps: 31.6384
+7_SRDCF, 3_bike3: 4/12
+fps: 31.1057
+7_SRDCF, 3_bike3: 5/12
+fps: 25.9493
+7_SRDCF, 3_bike3: 6/12
+fps: 26.1888
+7_SRDCF, 3_bike3: 7/12
+fps: 26.2538
+7_SRDCF, 3_bike3: 8/12
+fps: 26.2097
+7_SRDCF, 3_bike3: 9/12
+fps: 45.9698
+7_SRDCF, 3_bike3: 10/12
+fps: 37.3922
+7_SRDCF, 3_bike3: 11/12
+fps: 26.2894
+7_SRDCF, 3_bike3: 12/12
+fps: 23.3436
+1_CSK, 4_bird1_1: 1/12
+fps: 189.8487
+1_CSK, 4_bird1_1: 2/12
+fps: 215.4104
+1_CSK, 4_bird1_1: 3/12
+fps: 201.6476
+1_CSK, 4_bird1_1: 4/12
+fps: 206.8729
+1_CSK, 4_bird1_1: 5/12
+fps: 424.6505
+1_CSK, 4_bird1_1: 6/12
+fps: 413.7793
+1_CSK, 4_bird1_1: 7/12
+fps: 406.4779
+1_CSK, 4_bird1_1: 8/12
+fps: 422.5117
+1_CSK, 4_bird1_1: 9/12
+fps: 512.2235
+1_CSK, 4_bird1_1: 10/12
+fps: 224.4392
+1_CSK, 4_bird1_1: 11/12
+fps: 397.0122
+1_CSK, 4_bird1_1: 12/12
+fps: 407.0823
+2_KCF_LinearHog, 4_bird1_1: 1/12
+fps: 411.4136
+2_KCF_LinearHog, 4_bird1_1: 2/12
+fps: 410.8917
+2_KCF_LinearHog, 4_bird1_1: 3/12
+fps: 433.254
+2_KCF_LinearHog, 4_bird1_1: 4/12
+fps: 416.1609
+2_KCF_LinearHog, 4_bird1_1: 5/12
+fps: 371.1511
+2_KCF_LinearHog, 4_bird1_1: 6/12
+fps: 360.8522
+2_KCF_LinearHog, 4_bird1_1: 7/12
+fps: 352.0284
+2_KCF_LinearHog, 4_bird1_1: 8/12
+fps: 376.408
+2_KCF_LinearHog, 4_bird1_1: 9/12
+fps: 499.328
+2_KCF_LinearHog, 4_bird1_1: 10/12
+fps: 449.4182
+2_KCF_LinearHog, 4_bird1_1: 11/12
+fps: 345.9441
+2_KCF_LinearHog, 4_bird1_1: 12/12
+fps: 276.4662
+3_DSST, 4_bird1_1: 1/12
+fps: 44.4554
+3_DSST, 4_bird1_1: 2/12
+fps: 42.7766
+3_DSST, 4_bird1_1: 3/12
+fps: 42.9047
+3_DSST, 4_bird1_1: 4/12
+fps: 43.3925
+3_DSST, 4_bird1_1: 5/12
+fps: 45.0483
+3_DSST, 4_bird1_1: 6/12
+fps: 45.9144
+3_DSST, 4_bird1_1: 7/12
+fps: 39.8628
+3_DSST, 4_bird1_1: 8/12
+fps: 44.6228
+3_DSST, 4_bird1_1: 9/12
+fps: 66.0242
+3_DSST, 4_bird1_1: 10/12
+fps: 49.5472
+3_DSST, 4_bird1_1: 11/12
+fps: 40.9088
+3_DSST, 4_bird1_1: 12/12
+fps: 37.0389
+4_KCF_GaussHog, 4_bird1_1: 1/12
+fps: 227.5956
+4_KCF_GaussHog, 4_bird1_1: 2/12
+fps: 223.5865
+4_KCF_GaussHog, 4_bird1_1: 3/12
+fps: 227.6685
+4_KCF_GaussHog, 4_bird1_1: 4/12
+fps: 227.9027
+4_KCF_GaussHog, 4_bird1_1: 5/12
+fps: 210.4248
+4_KCF_GaussHog, 4_bird1_1: 6/12
+fps: 208.9788
+4_KCF_GaussHog, 4_bird1_1: 7/12
+fps: 210.1978
+4_KCF_GaussHog, 4_bird1_1: 8/12
+fps: 214.1491
+4_KCF_GaussHog, 4_bird1_1: 9/12
+fps: 259.4696
+4_KCF_GaussHog, 4_bird1_1: 10/12
+fps: 253.4245
+4_KCF_GaussHog, 4_bird1_1: 11/12
+fps: 203.4804
+4_KCF_GaussHog, 4_bird1_1: 12/12
+fps: 138.6938
+5_KCF_LinearGray, 4_bird1_1: 1/12
+fps: 506.4832
+5_KCF_LinearGray, 4_bird1_1: 2/12
+fps: 522.7078
+5_KCF_LinearGray, 4_bird1_1: 3/12
+fps: 539.981
+5_KCF_LinearGray, 4_bird1_1: 4/12
+fps: 464.871
+5_KCF_LinearGray, 4_bird1_1: 5/12
+fps: 704.245
+5_KCF_LinearGray, 4_bird1_1: 6/12
+fps: 645.2534
+5_KCF_LinearGray, 4_bird1_1: 7/12
+fps: 637.6731
+5_KCF_LinearGray, 4_bird1_1: 8/12
+fps: 668.6488
+5_KCF_LinearGray, 4_bird1_1: 9/12
+fps: 783.954
+5_KCF_LinearGray, 4_bird1_1: 10/12
+fps: 553.8032
+5_KCF_LinearGray, 4_bird1_1: 11/12
+fps: 625.0185
+5_KCF_LinearGray, 4_bird1_1: 12/12
+fps: 636.1227
+6_SAMF, 4_bird1_1: 1/12
+fps: 12.5405
+6_SAMF, 4_bird1_1: 2/12
+fps: 12.4094
+6_SAMF, 4_bird1_1: 3/12
+fps: 12.42
+6_SAMF, 4_bird1_1: 4/12
+fps: 12.2123
+6_SAMF, 4_bird1_1: 5/12
+fps: 11.7112
+6_SAMF, 4_bird1_1: 6/12
+fps: 11.7576
+6_SAMF, 4_bird1_1: 7/12
+fps: 11.5685
+6_SAMF, 4_bird1_1: 8/12
+fps: 11.6286
+6_SAMF, 4_bird1_1: 9/12
+fps: 13.4533
+6_SAMF, 4_bird1_1: 10/12
+fps: 12.8641
+6_SAMF, 4_bird1_1: 11/12
+fps: 11.6259
+6_SAMF, 4_bird1_1: 12/12
+fps: 9.839
+7_SRDCF, 4_bird1_1: 1/12
+fps: 8.2797
+7_SRDCF, 4_bird1_1: 2/12
+fps: 8.5646
+7_SRDCF, 4_bird1_1: 3/12
+fps: 8.1971
+7_SRDCF, 4_bird1_1: 4/12
+fps: 8.6574
+7_SRDCF, 4_bird1_1: 5/12
+fps: 8.625
+7_SRDCF, 4_bird1_1: 6/12
+fps: 8.2052
+7_SRDCF, 4_bird1_1: 7/12
+fps: 8.7806
+7_SRDCF, 4_bird1_1: 8/12
+fps: 8.7587
+7_SRDCF, 4_bird1_1: 9/12
+fps: 11.296
+7_SRDCF, 4_bird1_1: 10/12
+fps: 8.6599
+7_SRDCF, 4_bird1_1: 11/12
+fps: 8.3548
+7_SRDCF, 4_bird1_1: 12/12
+fps: 8.2283
+1_CSK, 5_bird1_2: 1/12
+fps: 494.6813
+1_CSK, 5_bird1_2: 2/12
+fps: 544.1888
+1_CSK, 5_bird1_2: 3/12
+fps: 520.06
+1_CSK, 5_bird1_2: 4/12
+fps: 517.4174
+1_CSK, 5_bird1_2: 5/12
+fps: 339.0373
+1_CSK, 5_bird1_2: 6/12
+fps: 341.7663
+1_CSK, 5_bird1_2: 7/12
+fps: 339.4209
+1_CSK, 5_bird1_2: 8/12
+fps: 354.6717
+1_CSK, 5_bird1_2: 9/12
+fps: 847.1788
+1_CSK, 5_bird1_2: 10/12
+fps: 514.6014
+1_CSK, 5_bird1_2: 11/12
+fps: 339.2076
+1_CSK, 5_bird1_2: 12/12
+fps: 306.7934
+2_KCF_LinearHog, 5_bird1_2: 1/12
+fps: 527.194
+2_KCF_LinearHog, 5_bird1_2: 2/12
+fps: 509.1919
+2_KCF_LinearHog, 5_bird1_2: 3/12
+fps: 527.0165
+2_KCF_LinearHog, 5_bird1_2: 4/12
+fps: 514.164
+2_KCF_LinearHog, 5_bird1_2: 5/12
+fps: 473.0175
+2_KCF_LinearHog, 5_bird1_2: 6/12
+fps: 491.7528
+2_KCF_LinearHog, 5_bird1_2: 7/12
+fps: 468.994
+2_KCF_LinearHog, 5_bird1_2: 8/12
+fps: 465.8273
+2_KCF_LinearHog, 5_bird1_2: 9/12
+fps: 610.0074
+2_KCF_LinearHog, 5_bird1_2: 10/12
+fps: 644.0678
+2_KCF_LinearHog, 5_bird1_2: 11/12
+fps: 466.2626
+2_KCF_LinearHog, 5_bird1_2: 12/12
+fps: 410.7299
+3_DSST, 5_bird1_2: 1/12
+fps: 71.0412
+3_DSST, 5_bird1_2: 2/12
+fps: 67.3704
+3_DSST, 5_bird1_2: 3/12
+fps: 65.9204
+3_DSST, 5_bird1_2: 4/12
+fps: 71.8617
+3_DSST, 5_bird1_2: 5/12
+fps: 58.1607
+3_DSST, 5_bird1_2: 6/12
+fps: 57.07
+3_DSST, 5_bird1_2: 7/12
+fps: 56.2052
+3_DSST, 5_bird1_2: 8/12
+fps: 56.7079
+3_DSST, 5_bird1_2: 9/12
+fps: 83.6141
+3_DSST, 5_bird1_2: 10/12
+fps: 69.7724
+3_DSST, 5_bird1_2: 11/12
+fps: 59.2083
+3_DSST, 5_bird1_2: 12/12
+fps: 51.1862
+4_KCF_GaussHog, 5_bird1_2: 1/12
+fps: 271.1425
+4_KCF_GaussHog, 5_bird1_2: 2/12
+fps: 272.8984
+4_KCF_GaussHog, 5_bird1_2: 3/12
+fps: 267.5283
+4_KCF_GaussHog, 5_bird1_2: 4/12
+fps: 268.5225
+4_KCF_GaussHog, 5_bird1_2: 5/12
+fps: 261.4602
+4_KCF_GaussHog, 5_bird1_2: 6/12
+fps: 260.7221
+4_KCF_GaussHog, 5_bird1_2: 7/12
+fps: 260.1819
+4_KCF_GaussHog, 5_bird1_2: 8/12
+fps: 258.6576
+4_KCF_GaussHog, 5_bird1_2: 9/12
+fps: 322.7438
+4_KCF_GaussHog, 5_bird1_2: 10/12
+fps: 345.654
+4_KCF_GaussHog, 5_bird1_2: 11/12
+fps: 269.6117
+4_KCF_GaussHog, 5_bird1_2: 12/12
+fps: 222.5993
+5_KCF_LinearGray, 5_bird1_2: 1/12
+fps: 726.6075
+5_KCF_LinearGray, 5_bird1_2: 2/12
+fps: 721.0996
+5_KCF_LinearGray, 5_bird1_2: 3/12
+fps: 728.397
+5_KCF_LinearGray, 5_bird1_2: 4/12
+fps: 707.9642
+5_KCF_LinearGray, 5_bird1_2: 5/12
+fps: 798.8827
+5_KCF_LinearGray, 5_bird1_2: 6/12
+fps: 820.1952
+5_KCF_LinearGray, 5_bird1_2: 7/12
+fps: 797.1109
+5_KCF_LinearGray, 5_bird1_2: 8/12
+fps: 797.5413
+5_KCF_LinearGray, 5_bird1_2: 9/12
+fps: 1071.4585
+5_KCF_LinearGray, 5_bird1_2: 10/12
+fps: 515.0059
+5_KCF_LinearGray, 5_bird1_2: 11/12
+fps: 781.1337
+5_KCF_LinearGray, 5_bird1_2: 12/12
+fps: 742.0065
+6_SAMF, 5_bird1_2: 1/12
+fps: 13.2691
+6_SAMF, 5_bird1_2: 2/12
+fps: 12.9218
+6_SAMF, 5_bird1_2: 3/12
+fps: 13.4101
+6_SAMF, 5_bird1_2: 4/12
+fps: 13.2633
+6_SAMF, 5_bird1_2: 5/12
+fps: 13.1619
+6_SAMF, 5_bird1_2: 6/12
+fps: 13.2327
+6_SAMF, 5_bird1_2: 7/12
+fps: 13.1057
+6_SAMF, 5_bird1_2: 8/12
+fps: 13.1698
+6_SAMF, 5_bird1_2: 9/12
+fps: 14.8298
+6_SAMF, 5_bird1_2: 10/12
+fps: 14.3859
+6_SAMF, 5_bird1_2: 11/12
+fps: 13.1502
+6_SAMF, 5_bird1_2: 12/12
+fps: 12.1529
+7_SRDCF, 5_bird1_2: 1/12
+fps: 9.922
+7_SRDCF, 5_bird1_2: 2/12
+fps: 9.8858
+7_SRDCF, 5_bird1_2: 3/12
+fps: 9.8048
+7_SRDCF, 5_bird1_2: 4/12
+fps: 9.8391
+7_SRDCF, 5_bird1_2: 5/12
+fps: 8.381
+7_SRDCF, 5_bird1_2: 6/12
+fps: 8.8485
+7_SRDCF, 5_bird1_2: 7/12
+fps: 8.2308
+7_SRDCF, 5_bird1_2: 8/12
+fps: 8.5421
+7_SRDCF, 5_bird1_2: 9/12
+fps: 16.9654
+7_SRDCF, 5_bird1_2: 10/12
+fps: 13.6499
+7_SRDCF, 5_bird1_2: 11/12
+fps: 8.7692
+7_SRDCF, 5_bird1_2: 12/12
+fps: 8.54
+1_CSK, 6_bird1_3: 1/12
+fps: 235.5279
+1_CSK, 6_bird1_3: 2/12
+fps: 234.9995
+1_CSK, 6_bird1_3: 3/12
+fps: 231.7029
+1_CSK, 6_bird1_3: 4/12
+fps: 227.1197
+1_CSK, 6_bird1_3: 5/12
+fps: 375.0752
+1_CSK, 6_bird1_3: 6/12
+fps: 373.1765
+1_CSK, 6_bird1_3: 7/12
+fps: 394.8254
+1_CSK, 6_bird1_3: 8/12
+fps: 363.1811
+1_CSK, 6_bird1_3: 9/12
+fps: 620.9285
+1_CSK, 6_bird1_3: 10/12
+fps: 384.6794
+1_CSK, 6_bird1_3: 11/12
+fps: 349.4357
+1_CSK, 6_bird1_3: 12/12
+fps: 343.0343
+2_KCF_LinearHog, 6_bird1_3: 1/12
+fps: 407.9338
+2_KCF_LinearHog, 6_bird1_3: 2/12
+fps: 408.0329
+2_KCF_LinearHog, 6_bird1_3: 3/12
+fps: 411.9391
+2_KCF_LinearHog, 6_bird1_3: 4/12
+fps: 421.4104
+2_KCF_LinearHog, 6_bird1_3: 5/12
+fps: 403.8738
+2_KCF_LinearHog, 6_bird1_3: 6/12
+fps: 398.0857
+2_KCF_LinearHog, 6_bird1_3: 7/12
+fps: 342.6175
+2_KCF_LinearHog, 6_bird1_3: 8/12
+fps: 343.427
+2_KCF_LinearHog, 6_bird1_3: 9/12
+fps: 434.6664
+2_KCF_LinearHog, 6_bird1_3: 10/12
+fps: 453.9865
+2_KCF_LinearHog, 6_bird1_3: 11/12
+fps: 325.8614
+2_KCF_LinearHog, 6_bird1_3: 12/12
+fps: 299.5227
+3_DSST, 6_bird1_3: 1/12
+fps: 46.8487
+3_DSST, 6_bird1_3: 2/12
+fps: 46.223
+3_DSST, 6_bird1_3: 3/12
+fps: 50.5764
+3_DSST, 6_bird1_3: 4/12
+fps: 50.7077
+3_DSST, 6_bird1_3: 5/12
+fps: 45.8384
+3_DSST, 6_bird1_3: 6/12
+fps: 45.1944
+3_DSST, 6_bird1_3: 7/12
+fps: 51.077
+3_DSST, 6_bird1_3: 8/12
+fps: 49.3916
+3_DSST, 6_bird1_3: 9/12
+fps: 64.0805
+3_DSST, 6_bird1_3: 10/12
+fps: 53.7797
+3_DSST, 6_bird1_3: 11/12
+fps: 48.9276
+3_DSST, 6_bird1_3: 12/12
+fps: 42.9655
+4_KCF_GaussHog, 6_bird1_3: 1/12
+fps: 221.3597
+4_KCF_GaussHog, 6_bird1_3: 2/12
+fps: 229.858
+4_KCF_GaussHog, 6_bird1_3: 3/12
+fps: 226.6444
+4_KCF_GaussHog, 6_bird1_3: 4/12
+fps: 235.7419
+4_KCF_GaussHog, 6_bird1_3: 5/12
+fps: 243.4967
+4_KCF_GaussHog, 6_bird1_3: 6/12
+fps: 243.5447
+4_KCF_GaussHog, 6_bird1_3: 7/12
+fps: 213.987
+4_KCF_GaussHog, 6_bird1_3: 8/12
+fps: 212.0966
+4_KCF_GaussHog, 6_bird1_3: 9/12
+fps: 220.7195
+4_KCF_GaussHog, 6_bird1_3: 10/12
+fps: 275.5166
+4_KCF_GaussHog, 6_bird1_3: 11/12
+fps: 220.5137
+4_KCF_GaussHog, 6_bird1_3: 12/12
+fps: 191.3337
+5_KCF_LinearGray, 6_bird1_3: 1/12
+fps: 503.5212
+5_KCF_LinearGray, 6_bird1_3: 2/12
+fps: 512.3925
+5_KCF_LinearGray, 6_bird1_3: 3/12
+fps: 520.3662
+5_KCF_LinearGray, 6_bird1_3: 4/12
+fps: 510.2516
+5_KCF_LinearGray, 6_bird1_3: 5/12
+fps: 447.4178
+5_KCF_LinearGray, 6_bird1_3: 6/12
+fps: 441.6185
+5_KCF_LinearGray, 6_bird1_3: 7/12
+fps: 513.1667
+5_KCF_LinearGray, 6_bird1_3: 8/12
+fps: 498.6033
+5_KCF_LinearGray, 6_bird1_3: 9/12
+fps: 885.3942
+5_KCF_LinearGray, 6_bird1_3: 10/12
+fps: 594.9912
+5_KCF_LinearGray, 6_bird1_3: 11/12
+fps: 497.396
+5_KCF_LinearGray, 6_bird1_3: 12/12
+fps: 639.1391
+6_SAMF, 6_bird1_3: 1/12
+fps: 12.1517
+6_SAMF, 6_bird1_3: 2/12
+fps: 11.9358
+6_SAMF, 6_bird1_3: 3/12
+fps: 11.6789
+6_SAMF, 6_bird1_3: 4/12
+fps: 11.6141
+6_SAMF, 6_bird1_3: 5/12
+fps: 11.3335
+6_SAMF, 6_bird1_3: 6/12
+fps: 10.9722
+6_SAMF, 6_bird1_3: 7/12
+fps: 10.8564
+6_SAMF, 6_bird1_3: 8/12
+fps: 10.7632
+6_SAMF, 6_bird1_3: 9/12
+fps: 12.5867
+6_SAMF, 6_bird1_3: 10/12
+fps: 13.3358
+6_SAMF, 6_bird1_3: 11/12
+fps: 11.916
+6_SAMF, 6_bird1_3: 12/12
+fps: 11.2507
+7_SRDCF, 6_bird1_3: 1/12
+fps: 8.5901
+7_SRDCF, 6_bird1_3: 2/12
+fps: 8.6639
+7_SRDCF, 6_bird1_3: 3/12
+fps: 9.1435
+7_SRDCF, 6_bird1_3: 4/12
+fps: 8.9911
+7_SRDCF, 6_bird1_3: 5/12
+fps: 8.7865
+7_SRDCF, 6_bird1_3: 6/12
+fps: 9.0353
+7_SRDCF, 6_bird1_3: 7/12
+fps: 8.0571
+7_SRDCF, 6_bird1_3: 8/12
+fps: 8.7752
+7_SRDCF, 6_bird1_3: 9/12
+fps: 15.9283
+7_SRDCF, 6_bird1_3: 10/12
+fps: 11.9928
+7_SRDCF, 6_bird1_3: 11/12
+fps: 8.6113
+7_SRDCF, 6_bird1_3: 12/12
+fps: 8.6736
+1_CSK, 7_boat1: 1/12
+fps: 107.3901
+1_CSK, 7_boat1: 2/12
+fps: 108.5718
+1_CSK, 7_boat1: 3/12
+fps: 106.4506
+1_CSK, 7_boat1: 4/12
+fps: 106.4506
+1_CSK, 7_boat1: 5/12
+fps: 132.0588
+1_CSK, 7_boat1: 6/12
+fps: 133.2729
+1_CSK, 7_boat1: 7/12
+fps: 130.8267
+1_CSK, 7_boat1: 8/12
+fps: 127.5529
+1_CSK, 7_boat1: 9/12
+fps: 162.4704
+1_CSK, 7_boat1: 10/12
+fps: 205.7491
+1_CSK, 7_boat1: 11/12
+fps: 134.3469
+1_CSK, 7_boat1: 12/12
+fps: 73.2054
+2_KCF_LinearHog, 7_boat1: 1/12
+fps: 115.2934
+2_KCF_LinearHog, 7_boat1: 2/12
+fps: 119.3454
+2_KCF_LinearHog, 7_boat1: 3/12
+fps: 115.6363
+2_KCF_LinearHog, 7_boat1: 4/12
+fps: 116.3905
+2_KCF_LinearHog, 7_boat1: 5/12
+fps: 62.4839
+2_KCF_LinearHog, 7_boat1: 6/12
+fps: 63.5718
+2_KCF_LinearHog, 7_boat1: 7/12
+fps: 64.231
+2_KCF_LinearHog, 7_boat1: 8/12
+fps: 63.0685
+2_KCF_LinearHog, 7_boat1: 9/12
+fps: 139.4665
+2_KCF_LinearHog, 7_boat1: 10/12
+fps: 97.0062
+2_KCF_LinearHog, 7_boat1: 11/12
+fps: 62.064
+2_KCF_LinearHog, 7_boat1: 12/12
+fps: 76.2928
+3_DSST, 7_boat1: 1/12
+fps: 3.3532
+3_DSST, 7_boat1: 2/12
+fps: 3.3417
+3_DSST, 7_boat1: 3/12
+fps: 3.3354
+3_DSST, 7_boat1: 4/12
+fps: 3.3148
+3_DSST, 7_boat1: 5/12
+fps: 3.143
+3_DSST, 7_boat1: 6/12
+fps: 3.0974
+3_DSST, 7_boat1: 7/12
+fps: 3.1242
+3_DSST, 7_boat1: 8/12
+fps: 3.0665
+3_DSST, 7_boat1: 9/12
+fps: 5.9601
+3_DSST, 7_boat1: 10/12
+fps: 3.4739
+3_DSST, 7_boat1: 11/12
+fps: 3.0681
+3_DSST, 7_boat1: 12/12
+fps: 1.9723
+4_KCF_GaussHog, 7_boat1: 1/12
+fps: 69.6891
+4_KCF_GaussHog, 7_boat1: 2/12
+fps: 68.7701
+4_KCF_GaussHog, 7_boat1: 3/12
+fps: 69.2144
+4_KCF_GaussHog, 7_boat1: 4/12
+fps: 70.2793
+4_KCF_GaussHog, 7_boat1: 5/12
+fps: 31.3152
+4_KCF_GaussHog, 7_boat1: 6/12
+fps: 30.846
+4_KCF_GaussHog, 7_boat1: 7/12
+fps: 31.0134
+4_KCF_GaussHog, 7_boat1: 8/12
+fps: 31.0853
+4_KCF_GaussHog, 7_boat1: 9/12
+fps: 76.3468
+4_KCF_GaussHog, 7_boat1: 10/12
+fps: 51.0775
+4_KCF_GaussHog, 7_boat1: 11/12
+fps: 31.2297
+4_KCF_GaussHog, 7_boat1: 12/12
+fps: 40.1112
+5_KCF_LinearGray, 7_boat1: 1/12
+fps: 149.1457
+5_KCF_LinearGray, 7_boat1: 2/12
+fps: 147.0753
+5_KCF_LinearGray, 7_boat1: 3/12
+fps: 152.8671
+5_KCF_LinearGray, 7_boat1: 4/12
+fps: 152.9042
+5_KCF_LinearGray, 7_boat1: 5/12
+fps: 122.0022
+5_KCF_LinearGray, 7_boat1: 6/12
+fps: 122.3112
+5_KCF_LinearGray, 7_boat1: 7/12
+fps: 121.4757
+5_KCF_LinearGray, 7_boat1: 8/12
+fps: 121.0957
+5_KCF_LinearGray, 7_boat1: 9/12
+fps: 171.4735
+5_KCF_LinearGray, 7_boat1: 10/12
+fps: 234.4167
+5_KCF_LinearGray, 7_boat1: 11/12
+fps: 120.4658
+5_KCF_LinearGray, 7_boat1: 12/12
+fps: 116.477
+6_SAMF, 7_boat1: 1/12
+fps: 7.1721
+6_SAMF, 7_boat1: 2/12
+fps: 7.2136
+6_SAMF, 7_boat1: 3/12
+fps: 7.3053
+6_SAMF, 7_boat1: 4/12
+fps: 7.1965
+6_SAMF, 7_boat1: 5/12
+fps: 4.4122
+6_SAMF, 7_boat1: 6/12
+fps: 4.3956
+6_SAMF, 7_boat1: 7/12
+fps: 4.4013
+6_SAMF, 7_boat1: 8/12
+fps: 4.4313
+6_SAMF, 7_boat1: 9/12
+fps: 8.4766
+6_SAMF, 7_boat1: 10/12
+fps: 6.5049
+6_SAMF, 7_boat1: 11/12
+fps: 4.428
+6_SAMF, 7_boat1: 12/12
+fps: 4.7117
+7_SRDCF, 7_boat1: 1/12
+fps: 7.1953
+7_SRDCF, 7_boat1: 2/12
+fps: 7.2812
+7_SRDCF, 7_boat1: 3/12
+fps: 7.3887
+7_SRDCF, 7_boat1: 4/12
+fps: 7.2087
+7_SRDCF, 7_boat1: 5/12
+fps: 7.098
+7_SRDCF, 7_boat1: 6/12
+fps: 7.1751
+7_SRDCF, 7_boat1: 7/12
+fps: 7.0256
+7_SRDCF, 7_boat1: 8/12
+fps: 7.0358
+7_SRDCF, 7_boat1: 9/12
+fps: 7.6755
+7_SRDCF, 7_boat1: 10/12
+fps: 7.4351
+7_SRDCF, 7_boat1: 11/12
+fps: 6.9951
+7_SRDCF, 7_boat1: 12/12
+fps: 6.8268
+1_CSK, 8_boat2: 1/12
+fps: 413.2665
+1_CSK, 8_boat2: 2/12
+fps: 415.9312
+1_CSK, 8_boat2: 3/12
+fps: 396.7972
+1_CSK, 8_boat2: 4/12
+fps: 395.6715
+1_CSK, 8_boat2: 5/12
+fps: 385.9583
+1_CSK, 8_boat2: 6/12
+fps: 385.2158
+1_CSK, 8_boat2: 7/12
+fps: 371.2203
+1_CSK, 8_boat2: 8/12
+fps: 383.0681
+1_CSK, 8_boat2: 9/12
+fps: 136.7499
+1_CSK, 8_boat2: 10/12
+fps: 249.2843
+1_CSK, 8_boat2: 11/12
+fps: 384.1259
+1_CSK, 8_boat2: 12/12
+fps: 264.8829
+2_KCF_LinearHog, 8_boat2: 1/12
+fps: 258.9527
+2_KCF_LinearHog, 8_boat2: 2/12
+fps: 256.688
+2_KCF_LinearHog, 8_boat2: 3/12
+fps: 251.8326
+2_KCF_LinearHog, 8_boat2: 4/12
+fps: 253.4058
+2_KCF_LinearHog, 8_boat2: 5/12
+fps: 271.2352
+2_KCF_LinearHog, 8_boat2: 6/12
+fps: 274.6626
+2_KCF_LinearHog, 8_boat2: 7/12
+fps: 278.6479
+2_KCF_LinearHog, 8_boat2: 8/12
+fps: 269.4628
+2_KCF_LinearHog, 8_boat2: 9/12
+fps: 148.0407
+2_KCF_LinearHog, 8_boat2: 10/12
+fps: 390.728
+2_KCF_LinearHog, 8_boat2: 11/12
+fps: 276.845
+2_KCF_LinearHog, 8_boat2: 12/12
+fps: 225.4097
+3_DSST, 8_boat2: 1/12
+fps: 12.2631
+3_DSST, 8_boat2: 2/12
+fps: 12.4669
+3_DSST, 8_boat2: 3/12
+fps: 12.2649
+3_DSST, 8_boat2: 4/12
+fps: 12.2803
+3_DSST, 8_boat2: 5/12
+fps: 9.1327
+3_DSST, 8_boat2: 6/12
+fps: 9.055
+3_DSST, 8_boat2: 7/12
+fps: 9.106
+3_DSST, 8_boat2: 8/12
+fps: 9.1325
+3_DSST, 8_boat2: 9/12
+fps: 14.6559
+3_DSST, 8_boat2: 10/12
+fps: 13.8698
+3_DSST, 8_boat2: 11/12
+fps: 9.0056
+3_DSST, 8_boat2: 12/12
+fps: 7.4813
+4_KCF_GaussHog, 8_boat2: 1/12
+fps: 133.8922
+4_KCF_GaussHog, 8_boat2: 2/12
+fps: 136.5186
+4_KCF_GaussHog, 8_boat2: 3/12
+fps: 135.1466
+4_KCF_GaussHog, 8_boat2: 4/12
+fps: 137.4732
+4_KCF_GaussHog, 8_boat2: 5/12
+fps: 129.8935
+4_KCF_GaussHog, 8_boat2: 6/12
+fps: 134.911
+4_KCF_GaussHog, 8_boat2: 7/12
+fps: 136.0357
+4_KCF_GaussHog, 8_boat2: 8/12
+fps: 131.5016
+4_KCF_GaussHog, 8_boat2: 9/12
+fps: 90.9374
+4_KCF_GaussHog, 8_boat2: 10/12
+fps: 224.5613
+4_KCF_GaussHog, 8_boat2: 11/12
+fps: 134.3634
+4_KCF_GaussHog, 8_boat2: 12/12
+fps: 115.8225
+5_KCF_LinearGray, 8_boat2: 1/12
+fps: 388.807
+5_KCF_LinearGray, 8_boat2: 2/12
+fps: 414.6509
+5_KCF_LinearGray, 8_boat2: 3/12
+fps: 404.0774
+5_KCF_LinearGray, 8_boat2: 4/12
+fps: 410.395
+5_KCF_LinearGray, 8_boat2: 5/12
+fps: 556.3819
+5_KCF_LinearGray, 8_boat2: 6/12
+fps: 560.6868
+5_KCF_LinearGray, 8_boat2: 7/12
+fps: 531.6151
+5_KCF_LinearGray, 8_boat2: 8/12
+fps: 580.8429
+5_KCF_LinearGray, 8_boat2: 9/12
+fps: 186.8393
+5_KCF_LinearGray, 8_boat2: 10/12
+fps: 543.5533
+5_KCF_LinearGray, 8_boat2: 11/12
+fps: 523.2235
+5_KCF_LinearGray, 8_boat2: 12/12
+fps: 298.3516
+6_SAMF, 8_boat2: 1/12
+fps: 13.8613
+6_SAMF, 8_boat2: 2/12
+fps: 13.8316
+6_SAMF, 8_boat2: 3/12
+fps: 13.7238
+6_SAMF, 8_boat2: 4/12
+fps: 13.8522
+6_SAMF, 8_boat2: 5/12
+fps: 13.1234
+6_SAMF, 8_boat2: 6/12
+fps: 13.1794
+6_SAMF, 8_boat2: 7/12
+fps: 13.0854
+6_SAMF, 8_boat2: 8/12
+fps: 13.0606
+6_SAMF, 8_boat2: 9/12
+fps: 6.9204
+6_SAMF, 8_boat2: 10/12
+fps: 19.0759
+6_SAMF, 8_boat2: 11/12
+fps: 13.1267
+6_SAMF, 8_boat2: 12/12
+fps: 11.4986
+7_SRDCF, 8_boat2: 1/12
+fps: 6.0978
+7_SRDCF, 8_boat2: 2/12
+fps: 6.1694
+7_SRDCF, 8_boat2: 3/12
+fps: 6.2176
+7_SRDCF, 8_boat2: 4/12
+fps: 6.195
+7_SRDCF, 8_boat2: 5/12
+fps: 6.0177
+7_SRDCF, 8_boat2: 6/12
+fps: 6.0015
+7_SRDCF, 8_boat2: 7/12
+fps: 6.0908
+7_SRDCF, 8_boat2: 8/12
+fps: 6.0449
+7_SRDCF, 8_boat2: 9/12
+fps: 6.5423
+7_SRDCF, 8_boat2: 10/12
+fps: 6.4344
+7_SRDCF, 8_boat2: 11/12
+fps: 6.0311
+7_SRDCF, 8_boat2: 12/12
+fps: 5.8308
+1_CSK, 9_boat3: 1/12
+fps: 381.1798
+1_CSK, 9_boat3: 2/12
+fps: 388.699
+1_CSK, 9_boat3: 3/12
+fps: 391.7631
+1_CSK, 9_boat3: 4/12
+fps: 381.6398
+1_CSK, 9_boat3: 5/12
+fps: 348.5538
+1_CSK, 9_boat3: 6/12
+fps: 349.3539
+1_CSK, 9_boat3: 7/12
+fps: 344.3221
+1_CSK, 9_boat3: 8/12
+fps: 349.555
+1_CSK, 9_boat3: 9/12
+fps: 198.276
+1_CSK, 9_boat3: 10/12
+fps: 198.2127
+1_CSK, 9_boat3: 11/12
+fps: 347.1508
+1_CSK, 9_boat3: 12/12
+fps: 231.0367
+2_KCF_LinearHog, 9_boat3: 1/12
+fps: 229.7744
+2_KCF_LinearHog, 9_boat3: 2/12
+fps: 230.1545
+2_KCF_LinearHog, 9_boat3: 3/12
+fps: 232.7705
+2_KCF_LinearHog, 9_boat3: 4/12
+fps: 232.6091
+2_KCF_LinearHog, 9_boat3: 5/12
+fps: 245.9587
+2_KCF_LinearHog, 9_boat3: 6/12
+fps: 237.9051
+2_KCF_LinearHog, 9_boat3: 7/12
+fps: 240.116
+2_KCF_LinearHog, 9_boat3: 8/12
+fps: 243.4375
+2_KCF_LinearHog, 9_boat3: 9/12
+fps: 404.5696
+2_KCF_LinearHog, 9_boat3: 10/12
+fps: 362.7978
+2_KCF_LinearHog, 9_boat3: 11/12
+fps: 243.785
+2_KCF_LinearHog, 9_boat3: 12/12
+fps: 223.7715
+3_DSST, 9_boat3: 1/12
+fps: 10.8001
+3_DSST, 9_boat3: 2/12
+fps: 11.371
+3_DSST, 9_boat3: 3/12
+fps: 11.0634
+3_DSST, 9_boat3: 4/12
+fps: 11.4315
+3_DSST, 9_boat3: 5/12
+fps: 7.5309
+3_DSST, 9_boat3: 6/12
+fps: 7.7049
+3_DSST, 9_boat3: 7/12
+fps: 7.6718
+3_DSST, 9_boat3: 8/12
+fps: 7.7547
+3_DSST, 9_boat3: 9/12
+fps: 13.2432
+3_DSST, 9_boat3: 10/12
+fps: 12.0296
+3_DSST, 9_boat3: 11/12
+fps: 7.6271
+3_DSST, 9_boat3: 12/12
+fps: 6.903
+4_KCF_GaussHog, 9_boat3: 1/12
+fps: 124.2567
+4_KCF_GaussHog, 9_boat3: 2/12
+fps: 125.5623
+4_KCF_GaussHog, 9_boat3: 3/12
+fps: 125.7683
+4_KCF_GaussHog, 9_boat3: 4/12
+fps: 127.3413
+4_KCF_GaussHog, 9_boat3: 5/12
+fps: 125.8864
+4_KCF_GaussHog, 9_boat3: 6/12
+fps: 127.7684
+4_KCF_GaussHog, 9_boat3: 7/12
+fps: 129.3752
+4_KCF_GaussHog, 9_boat3: 8/12
+fps: 128.1638
+4_KCF_GaussHog, 9_boat3: 9/12
+fps: 215.7882
+4_KCF_GaussHog, 9_boat3: 10/12
+fps: 196.4048
+4_KCF_GaussHog, 9_boat3: 11/12
+fps: 128.7673
+4_KCF_GaussHog, 9_boat3: 12/12
+fps: 129.8567
+5_KCF_LinearGray, 9_boat3: 1/12
+fps: 537.4984
+5_KCF_LinearGray, 9_boat3: 2/12
+fps: 543.4039
+5_KCF_LinearGray, 9_boat3: 3/12
+fps: 524.1157
+5_KCF_LinearGray, 9_boat3: 4/12
+fps: 524.9335
+5_KCF_LinearGray, 9_boat3: 5/12
+fps: 459.6676
+5_KCF_LinearGray, 9_boat3: 6/12
+fps: 467.8033
+5_KCF_LinearGray, 9_boat3: 7/12
+fps: 465.3017
+5_KCF_LinearGray, 9_boat3: 8/12
+fps: 449.8834
+5_KCF_LinearGray, 9_boat3: 9/12
+fps: 586.9741
+5_KCF_LinearGray, 9_boat3: 10/12
+fps: 448.8505
+5_KCF_LinearGray, 9_boat3: 11/12
+fps: 471.4691
+5_KCF_LinearGray, 9_boat3: 12/12
+fps: 286.0691
+6_SAMF, 9_boat3: 1/12
+fps: 12.8727
+6_SAMF, 9_boat3: 2/12
+fps: 12.6482
+6_SAMF, 9_boat3: 3/12
+fps: 12.7001
+6_SAMF, 9_boat3: 4/12
+fps: 12.778
+6_SAMF, 9_boat3: 5/12
+fps: 12.2405
+6_SAMF, 9_boat3: 6/12
+fps: 12.32
+6_SAMF, 9_boat3: 7/12
+fps: 12.2981
+6_SAMF, 9_boat3: 8/12
+fps: 12.2821
+6_SAMF, 9_boat3: 9/12
+fps: 18.1646
+6_SAMF, 9_boat3: 10/12
+fps: 17.3461
+6_SAMF, 9_boat3: 11/12
+fps: 12.3261
+6_SAMF, 9_boat3: 12/12
+fps: 11.9893
+7_SRDCF, 9_boat3: 1/12
+fps: 5.9357
+7_SRDCF, 9_boat3: 2/12
+fps: 6.3671
+7_SRDCF, 9_boat3: 3/12
+fps: 6.1326
+7_SRDCF, 9_boat3: 4/12
+fps: 6.319
+7_SRDCF, 9_boat3: 5/12
+fps: 5.7723
+7_SRDCF, 9_boat3: 6/12
+fps: 6.091
+7_SRDCF, 9_boat3: 7/12
+fps: 5.9539
+7_SRDCF, 9_boat3: 8/12
+fps: 6.1747
+7_SRDCF, 9_boat3: 9/12
+fps: 6.6093
+7_SRDCF, 9_boat3: 10/12
+fps: 6.356
+7_SRDCF, 9_boat3: 11/12
+fps: 5.7692
+7_SRDCF, 9_boat3: 12/12
+fps: 5.7442
+1_CSK, 10_boat4: 1/12
+fps: 152.6758
+1_CSK, 10_boat4: 2/12
+fps: 161.7663
+1_CSK, 10_boat4: 3/12
+fps: 160.8842
+1_CSK, 10_boat4: 4/12
+fps: 157.9004
+1_CSK, 10_boat4: 5/12
+fps: 215.5874
+1_CSK, 10_boat4: 6/12
+fps: 214.3995
+1_CSK, 10_boat4: 7/12
+fps: 214.0493
+1_CSK, 10_boat4: 8/12
+fps: 213.1961
+1_CSK, 10_boat4: 9/12
+fps: 288.8228
+1_CSK, 10_boat4: 10/12
+fps: 164.5485
+1_CSK, 10_boat4: 11/12
+fps: 212.1383
+1_CSK, 10_boat4: 12/12
+fps: 304.6078
+2_KCF_LinearHog, 10_boat4: 1/12
+fps: 143.0634
+2_KCF_LinearHog, 10_boat4: 2/12
+fps: 141.1441
+2_KCF_LinearHog, 10_boat4: 3/12
+fps: 140.1571
+2_KCF_LinearHog, 10_boat4: 4/12
+fps: 143.1797
+2_KCF_LinearHog, 10_boat4: 5/12
+fps: 147.0934
+2_KCF_LinearHog, 10_boat4: 6/12
+fps: 143.6232
+2_KCF_LinearHog, 10_boat4: 7/12
+fps: 146.1896
+2_KCF_LinearHog, 10_boat4: 8/12
+fps: 145.7911
+2_KCF_LinearHog, 10_boat4: 9/12
+fps: 180.3195
+2_KCF_LinearHog, 10_boat4: 10/12
+fps: 173.6456
+2_KCF_LinearHog, 10_boat4: 11/12
+fps: 142.9257
+2_KCF_LinearHog, 10_boat4: 12/12
+fps: 403.4311
+3_DSST, 10_boat4: 1/12
+fps: 14.7524
+3_DSST, 10_boat4: 2/12
+fps: 15.1769
+3_DSST, 10_boat4: 3/12
+fps: 14.6169
+3_DSST, 10_boat4: 4/12
+fps: 14.9068
+3_DSST, 10_boat4: 5/12
+fps: 17.424
+3_DSST, 10_boat4: 6/12
+fps: 18.1096
+3_DSST, 10_boat4: 7/12
+fps: 17.4312
+3_DSST, 10_boat4: 8/12
+fps: 17.3959
+3_DSST, 10_boat4: 9/12
+fps: 27.964
+3_DSST, 10_boat4: 10/12
+fps: 16.6715
+3_DSST, 10_boat4: 11/12
+fps: 17.8607
+3_DSST, 10_boat4: 12/12
+fps: 14.7862
+4_KCF_GaussHog, 10_boat4: 1/12
+fps: 78.6646
+4_KCF_GaussHog, 10_boat4: 2/12
+fps: 79.4141
+4_KCF_GaussHog, 10_boat4: 3/12
+fps: 79.4227
+4_KCF_GaussHog, 10_boat4: 4/12
+fps: 78.1394
+4_KCF_GaussHog, 10_boat4: 5/12
+fps: 88.7171
+4_KCF_GaussHog, 10_boat4: 6/12
+fps: 89.9536
+4_KCF_GaussHog, 10_boat4: 7/12
+fps: 88.558
+4_KCF_GaussHog, 10_boat4: 8/12
+fps: 90.0874
+4_KCF_GaussHog, 10_boat4: 9/12
+fps: 97.313
+4_KCF_GaussHog, 10_boat4: 10/12
+fps: 88.1468
+4_KCF_GaussHog, 10_boat4: 11/12
+fps: 91.1319
+4_KCF_GaussHog, 10_boat4: 12/12
+fps: 228.5116
+5_KCF_LinearGray, 10_boat4: 1/12
+fps: 208.2284
+5_KCF_LinearGray, 10_boat4: 2/12
+fps: 198.4871
+5_KCF_LinearGray, 10_boat4: 3/12
+fps: 194.8728
+5_KCF_LinearGray, 10_boat4: 4/12
+fps: 203.5663
+5_KCF_LinearGray, 10_boat4: 5/12
+fps: 287.4921
+5_KCF_LinearGray, 10_boat4: 6/12
+fps: 179.0774
+5_KCF_LinearGray, 10_boat4: 7/12
+fps: 271.4949
+5_KCF_LinearGray, 10_boat4: 8/12
+fps: 189.4919
+5_KCF_LinearGray, 10_boat4: 9/12
+fps: 395.1115
+5_KCF_LinearGray, 10_boat4: 10/12
+fps: 281.6518
+5_KCF_LinearGray, 10_boat4: 11/12
+fps: 183.4621
+5_KCF_LinearGray, 10_boat4: 12/12
+fps: 476.7973
+6_SAMF, 10_boat4: 1/12
+fps: 6.8802
+6_SAMF, 10_boat4: 2/12
+fps: 6.7607
+6_SAMF, 10_boat4: 3/12
+fps: 6.8061
+6_SAMF, 10_boat4: 4/12
+fps: 6.7097
+6_SAMF, 10_boat4: 5/12
+fps: 6.822
+6_SAMF, 10_boat4: 6/12
+fps: 6.4525
+6_SAMF, 10_boat4: 7/12
+fps: 6.8518
+6_SAMF, 10_boat4: 8/12
+fps: 6.8245
+6_SAMF, 10_boat4: 9/12
+fps: 7.9257
+6_SAMF, 10_boat4: 10/12
+fps: 7.4112
+6_SAMF, 10_boat4: 11/12
+fps: 6.8735
+6_SAMF, 10_boat4: 12/12
+fps: 18.5479
+7_SRDCF, 10_boat4: 1/12
+fps: 6.0176
+7_SRDCF, 10_boat4: 2/12
+fps: 6.3287
+7_SRDCF, 10_boat4: 3/12
+fps: 6.2223
+7_SRDCF, 10_boat4: 4/12
+fps: 5.8809
+7_SRDCF, 10_boat4: 5/12
+fps: 5.9781
+7_SRDCF, 10_boat4: 6/12
+fps: 5.7845
+7_SRDCF, 10_boat4: 7/12
+fps: 5.7039
+7_SRDCF, 10_boat4: 8/12
+fps: 5.6936
+7_SRDCF, 10_boat4: 9/12
+fps: 6.2151
+7_SRDCF, 10_boat4: 10/12
+fps: 6.295
+7_SRDCF, 10_boat4: 11/12
+fps: 6.122
+7_SRDCF, 10_boat4: 12/12
+fps: 5.9802
+1_CSK, 11_boat5: 1/12
+fps: 231.7055
+1_CSK, 11_boat5: 2/12
+fps: 219.3013
+1_CSK, 11_boat5: 3/12
+fps: 213.3106
+1_CSK, 11_boat5: 4/12
+fps: 220.61
+1_CSK, 11_boat5: 5/12
+fps: 118.8061
+1_CSK, 11_boat5: 6/12
+fps: 116.0744
+1_CSK, 11_boat5: 7/12
+fps: 121.7644
+1_CSK, 11_boat5: 8/12
+fps: 119.8818
+1_CSK, 11_boat5: 9/12
+fps: 387.0874
+1_CSK, 11_boat5: 10/12
+fps: 297.5486
+1_CSK, 11_boat5: 11/12
+fps: 120.5571
+1_CSK, 11_boat5: 12/12
+fps: 149.4047
+2_KCF_LinearHog, 11_boat5: 1/12
+fps: 201.6557
+2_KCF_LinearHog, 11_boat5: 2/12
+fps: 202.6244
+2_KCF_LinearHog, 11_boat5: 3/12
+fps: 197.0829
+2_KCF_LinearHog, 11_boat5: 4/12
+fps: 202.5969
+2_KCF_LinearHog, 11_boat5: 5/12
+fps: 185.6326
+2_KCF_LinearHog, 11_boat5: 6/12
+fps: 180.7351
+2_KCF_LinearHog, 11_boat5: 7/12
+fps: 171.9826
+2_KCF_LinearHog, 11_boat5: 8/12
+fps: 172.2936
+2_KCF_LinearHog, 11_boat5: 9/12
+fps: 273.251
+2_KCF_LinearHog, 11_boat5: 10/12
+fps: 238.3013
+2_KCF_LinearHog, 11_boat5: 11/12
+fps: 168.5941
+2_KCF_LinearHog, 11_boat5: 12/12
+fps: 142.7513
+3_DSST, 11_boat5: 1/12
+fps: 6.4775
+3_DSST, 11_boat5: 2/12
+fps: 5.7143
+3_DSST, 11_boat5: 3/12
+fps: 5.5928
+3_DSST, 11_boat5: 4/12
+fps: 5.5278
+3_DSST, 11_boat5: 5/12
+fps: 4.7997
+3_DSST, 11_boat5: 6/12
+fps: 4.8396
+3_DSST, 11_boat5: 7/12
+fps: 4.7886
+3_DSST, 11_boat5: 8/12
+fps: 4.7993
+3_DSST, 11_boat5: 9/12
+fps: 9.9118
+3_DSST, 11_boat5: 10/12
+fps: 9.0619
+3_DSST, 11_boat5: 11/12
+fps: 6.2852
+3_DSST, 11_boat5: 12/12
+fps: 4.5033
+4_KCF_GaussHog, 11_boat5: 1/12
+fps: 97.8315
+4_KCF_GaussHog, 11_boat5: 2/12
+fps: 96.7362
+4_KCF_GaussHog, 11_boat5: 3/12
+fps: 96.7588
+4_KCF_GaussHog, 11_boat5: 4/12
+fps: 96.9637
+4_KCF_GaussHog, 11_boat5: 5/12
+fps: 90.6987
+4_KCF_GaussHog, 11_boat5: 6/12
+fps: 96.8255
+4_KCF_GaussHog, 11_boat5: 7/12
+fps: 92.5698
+4_KCF_GaussHog, 11_boat5: 8/12
+fps: 97.2509
+4_KCF_GaussHog, 11_boat5: 9/12
+fps: 138.9825
+4_KCF_GaussHog, 11_boat5: 10/12
+fps: 114.2238
+4_KCF_GaussHog, 11_boat5: 11/12
+fps: 90.1537
+4_KCF_GaussHog, 11_boat5: 12/12
+fps: 77.2905
+5_KCF_LinearGray, 11_boat5: 1/12
+fps: 254.2032
+5_KCF_LinearGray, 11_boat5: 2/12
+fps: 220.1252
+5_KCF_LinearGray, 11_boat5: 3/12
+fps: 258.7004
+5_KCF_LinearGray, 11_boat5: 4/12
+fps: 265.3554
+5_KCF_LinearGray, 11_boat5: 5/12
+fps: 154.2599
+5_KCF_LinearGray, 11_boat5: 6/12
+fps: 161.0983
+5_KCF_LinearGray, 11_boat5: 7/12
+fps: 156.6129
+5_KCF_LinearGray, 11_boat5: 8/12
+fps: 160.0521
+5_KCF_LinearGray, 11_boat5: 9/12
+fps: 415.0878
+5_KCF_LinearGray, 11_boat5: 10/12
+fps: 347.4958
+5_KCF_LinearGray, 11_boat5: 11/12
+fps: 159.9744
+5_KCF_LinearGray, 11_boat5: 12/12
+fps: 189.0709
+6_SAMF, 11_boat5: 1/12
+fps: 9.514
+6_SAMF, 11_boat5: 2/12
+fps: 9.592
+6_SAMF, 11_boat5: 3/12
+fps: 9.4934
+6_SAMF, 11_boat5: 4/12
+fps: 8.9908
+6_SAMF, 11_boat5: 5/12
+fps: 8.5671
+6_SAMF, 11_boat5: 6/12
+fps: 8.651
+6_SAMF, 11_boat5: 7/12
+fps: 8.8625
+6_SAMF, 11_boat5: 8/12
+fps: 8.9199
+6_SAMF, 11_boat5: 9/12
+fps: 12.5952
+6_SAMF, 11_boat5: 10/12
+fps: 11.6727
+6_SAMF, 11_boat5: 11/12
+fps: 8.924
+6_SAMF, 11_boat5: 12/12
+fps: 7.9207
+7_SRDCF, 11_boat5: 1/12
+fps: 6.0791
+7_SRDCF, 11_boat5: 2/12
+fps: 6.0555
+7_SRDCF, 11_boat5: 3/12
+fps: 6.3933
+7_SRDCF, 11_boat5: 4/12
+fps: 6.0179
+7_SRDCF, 11_boat5: 5/12
+fps: 5.6868
+7_SRDCF, 11_boat5: 6/12
+fps: 5.4635
+7_SRDCF, 11_boat5: 7/12
+fps: 5.3768
+7_SRDCF, 11_boat5: 8/12
+fps: 5.3842
+7_SRDCF, 11_boat5: 9/12
+fps: 5.5951
+7_SRDCF, 11_boat5: 10/12
+fps: 6.0724
+7_SRDCF, 11_boat5: 11/12
+fps: 6.116
+7_SRDCF, 11_boat5: 12/12
+fps: 5.9872
+1_CSK, 12_boat6: 1/12
+fps: 1371.0949
+1_CSK, 12_boat6: 2/12
+fps: 1428.9746
+1_CSK, 12_boat6: 3/12
+fps: 1387.8281
+1_CSK, 12_boat6: 4/12
+fps: 1405.4777
+1_CSK, 12_boat6: 5/12
+fps: 1257.3253
+1_CSK, 12_boat6: 6/12
+fps: 1260.2957
+1_CSK, 12_boat6: 7/12
+fps: 1222.5997
+1_CSK, 12_boat6: 8/12
+fps: 1218.2203
+1_CSK, 12_boat6: 9/12
+fps: 1702.0719
+1_CSK, 12_boat6: 10/12
+fps: 1665.2875
+1_CSK, 12_boat6: 11/12
+fps: 1251.1482
+1_CSK, 12_boat6: 12/12
+fps: 1077.0441
+2_KCF_LinearHog, 12_boat6: 1/12
+fps: 909.3641
+2_KCF_LinearHog, 12_boat6: 2/12
+fps: 915.4052
+2_KCF_LinearHog, 12_boat6: 3/12
+fps: 926.1912
+2_KCF_LinearHog, 12_boat6: 4/12
+fps: 922.9281
+2_KCF_LinearHog, 12_boat6: 5/12
+fps: 817.5942
+2_KCF_LinearHog, 12_boat6: 6/12
+fps: 831.2483
+2_KCF_LinearHog, 12_boat6: 7/12
+fps: 813.3014
+2_KCF_LinearHog, 12_boat6: 8/12
+fps: 822.4289
+2_KCF_LinearHog, 12_boat6: 9/12
+fps: 1109.1592
+2_KCF_LinearHog, 12_boat6: 10/12
+fps: 1027.8896
+2_KCF_LinearHog, 12_boat6: 11/12
+fps: 829.8481
+2_KCF_LinearHog, 12_boat6: 12/12
+fps: 791.3446
+3_DSST, 12_boat6: 1/12
+fps: 114.3828
+3_DSST, 12_boat6: 2/12
+fps: 114.5754
+3_DSST, 12_boat6: 3/12
+fps: 113.7616
+3_DSST, 12_boat6: 4/12
+fps: 114.7139
+3_DSST, 12_boat6: 5/12
+fps: 98.9053
+3_DSST, 12_boat6: 6/12
+fps: 71.547
+3_DSST, 12_boat6: 7/12
+fps: 98.462
+3_DSST, 12_boat6: 8/12
+fps: 94.7862
+3_DSST, 12_boat6: 9/12
+fps: 133.4977
+3_DSST, 12_boat6: 10/12
+fps: 118.387
+3_DSST, 12_boat6: 11/12
+fps: 93.5854
+3_DSST, 12_boat6: 12/12
+fps: 73.5864
+4_KCF_GaussHog, 12_boat6: 1/12
+fps: 542.6119
+4_KCF_GaussHog, 12_boat6: 2/12
+fps: 548.8485
+4_KCF_GaussHog, 12_boat6: 3/12
+fps: 558.5193
+4_KCF_GaussHog, 12_boat6: 4/12
+fps: 559.8902
+4_KCF_GaussHog, 12_boat6: 5/12
+fps: 468.8844
+4_KCF_GaussHog, 12_boat6: 6/12
+fps: 473.7543
+4_KCF_GaussHog, 12_boat6: 7/12
+fps: 464.6609
+4_KCF_GaussHog, 12_boat6: 8/12
+fps: 470.1208
+4_KCF_GaussHog, 12_boat6: 9/12
+fps: 655.4953
+4_KCF_GaussHog, 12_boat6: 10/12
+fps: 621.4412
+4_KCF_GaussHog, 12_boat6: 11/12
+fps: 478.8084
+4_KCF_GaussHog, 12_boat6: 12/12
+fps: 465.4974
+5_KCF_LinearGray, 12_boat6: 1/12
+fps: 1041.2961
+5_KCF_LinearGray, 12_boat6: 2/12
+fps: 1063.477
+5_KCF_LinearGray, 12_boat6: 3/12
+fps: 1053.8553
+5_KCF_LinearGray, 12_boat6: 4/12
+fps: 1064.3193
+5_KCF_LinearGray, 12_boat6: 5/12
+fps: 1176.462
+5_KCF_LinearGray, 12_boat6: 6/12
+fps: 1171.6931
+5_KCF_LinearGray, 12_boat6: 7/12
+fps: 1181.6479
+5_KCF_LinearGray, 12_boat6: 8/12
+fps: 1177.977
+5_KCF_LinearGray, 12_boat6: 9/12
+fps: 1560.5796
+5_KCF_LinearGray, 12_boat6: 10/12
+fps: 1575.176
+5_KCF_LinearGray, 12_boat6: 11/12
+fps: 1161.3698
+5_KCF_LinearGray, 12_boat6: 12/12
+fps: 973.5591
+6_SAMF, 12_boat6: 1/12
+fps: 15.4785
+6_SAMF, 12_boat6: 2/12
+fps: 15.2777
+6_SAMF, 12_boat6: 3/12
+fps: 15.3711
+6_SAMF, 12_boat6: 4/12
+fps: 14.9376
+6_SAMF, 12_boat6: 5/12
+fps: 14.5035
+6_SAMF, 12_boat6: 6/12
+fps: 14.1197
+6_SAMF, 12_boat6: 7/12
+fps: 13.8786
+6_SAMF, 12_boat6: 8/12
+fps: 14.6791
+6_SAMF, 12_boat6: 9/12
+fps: 15.9109
+6_SAMF, 12_boat6: 10/12
+fps: 15.7487
+6_SAMF, 12_boat6: 11/12
+fps: 14.5715
+6_SAMF, 12_boat6: 12/12
+fps: 14.1668
+7_SRDCF, 12_boat6: 1/12
+fps: 18.1458
+7_SRDCF, 12_boat6: 2/12
+fps: 17.8627
+7_SRDCF, 12_boat6: 3/12
+fps: 18.2539
+7_SRDCF, 12_boat6: 4/12
+fps: 18.993
+7_SRDCF, 12_boat6: 5/12
+fps: 14.9623
+7_SRDCF, 12_boat6: 6/12
+fps: 14.1686
+7_SRDCF, 12_boat6: 7/12
+fps: 15.4439
+7_SRDCF, 12_boat6: 8/12
+fps: 14.7701
+7_SRDCF, 12_boat6: 9/12
+fps: 14.5038
+7_SRDCF, 12_boat6: 10/12
+fps: 11.057
+7_SRDCF, 12_boat6: 11/12
+fps: 14.7562
+7_SRDCF, 12_boat6: 12/12
+fps: 12.7491
+1_CSK, 13_boat7: 1/12
+fps: 115.4236
+1_CSK, 13_boat7: 2/12
+fps: 103.6592
+1_CSK, 13_boat7: 3/12
+fps: 102.3313
+1_CSK, 13_boat7: 4/12
+fps: 101.0344
+1_CSK, 13_boat7: 5/12
+fps: 341.4941
+1_CSK, 13_boat7: 6/12
+fps: 319.3477
+1_CSK, 13_boat7: 7/12
+fps: 343.2431
+1_CSK, 13_boat7: 8/12
+fps: 347.0817
+1_CSK, 13_boat7: 9/12
+fps: 168.8159
+1_CSK, 13_boat7: 10/12
+fps: 90.6276
+1_CSK, 13_boat7: 11/12
+fps: 352.7132
+1_CSK, 13_boat7: 12/12
+fps: 323.7192
+2_KCF_LinearHog, 13_boat7: 1/12
+fps: 284.0414
+2_KCF_LinearHog, 13_boat7: 2/12
+fps: 288.7302
+2_KCF_LinearHog, 13_boat7: 3/12
+fps: 283.7153
+2_KCF_LinearHog, 13_boat7: 4/12
+fps: 285.065
+2_KCF_LinearHog, 13_boat7: 5/12
+fps: 288.4159
+2_KCF_LinearHog, 13_boat7: 6/12
+fps: 284.0941
+2_KCF_LinearHog, 13_boat7: 7/12
+fps: 285.2737
+2_KCF_LinearHog, 13_boat7: 8/12
+fps: 287.3105
+2_KCF_LinearHog, 13_boat7: 9/12
+fps: 126.122
+2_KCF_LinearHog, 13_boat7: 10/12
+fps: 81.1161
+2_KCF_LinearHog, 13_boat7: 11/12
+fps: 269.6713
+2_KCF_LinearHog, 13_boat7: 12/12
+fps: 209.6593
+3_DSST, 13_boat7: 1/12
+fps: 8.2247
+3_DSST, 13_boat7: 2/12
+fps: 8.2533
+3_DSST, 13_boat7: 3/12
+fps: 8.202
+3_DSST, 13_boat7: 4/12
+fps: 7.4598
+3_DSST, 13_boat7: 5/12
+fps: 7.3686
+3_DSST, 13_boat7: 6/12
+fps: 9.1732
+3_DSST, 13_boat7: 7/12
+fps: 7.9128
+3_DSST, 13_boat7: 8/12
+fps: 8.7459
+3_DSST, 13_boat7: 9/12
+fps: 13.3473
+3_DSST, 13_boat7: 10/12
+fps: 8.7354
+3_DSST, 13_boat7: 11/12
+fps: 8.8243
+3_DSST, 13_boat7: 12/12
+fps: 5.4172
+4_KCF_GaussHog, 13_boat7: 1/12
+fps: 146.8758
+4_KCF_GaussHog, 13_boat7: 2/12
+fps: 146.3567
+4_KCF_GaussHog, 13_boat7: 3/12
+fps: 143.416
+4_KCF_GaussHog, 13_boat7: 4/12
+fps: 143.3406
+4_KCF_GaussHog, 13_boat7: 5/12
+fps: 136.9701
+4_KCF_GaussHog, 13_boat7: 6/12
+fps: 153.4848
+4_KCF_GaussHog, 13_boat7: 7/12
+fps: 151.1241
+4_KCF_GaussHog, 13_boat7: 8/12
+fps: 148.0318
+4_KCF_GaussHog, 13_boat7: 9/12
+fps: 61.3055
+4_KCF_GaussHog, 13_boat7: 10/12
+fps: 42.4895
+4_KCF_GaussHog, 13_boat7: 11/12
+fps: 148.2929
+4_KCF_GaussHog, 13_boat7: 12/12
+fps: 98.5394
+5_KCF_LinearGray, 13_boat7: 1/12
+fps: 359.3826
+5_KCF_LinearGray, 13_boat7: 2/12
+fps: 392.3519
+5_KCF_LinearGray, 13_boat7: 3/12
+fps: 376.7972
+5_KCF_LinearGray, 13_boat7: 4/12
+fps: 394.2119
+5_KCF_LinearGray, 13_boat7: 5/12
+fps: 457.127
+5_KCF_LinearGray, 13_boat7: 6/12
+fps: 280.2802
+5_KCF_LinearGray, 13_boat7: 7/12
+fps: 475.9304
+5_KCF_LinearGray, 13_boat7: 8/12
+fps: 288.853
+5_KCF_LinearGray, 13_boat7: 9/12
+fps: 228.8639
+5_KCF_LinearGray, 13_boat7: 10/12
+fps: 109.5958
+5_KCF_LinearGray, 13_boat7: 11/12
+fps: 298.9906
+5_KCF_LinearGray, 13_boat7: 12/12
+fps: 381.3309
+6_SAMF, 13_boat7: 1/12
+fps: 14.2624
+6_SAMF, 13_boat7: 2/12
+fps: 14.2352
+6_SAMF, 13_boat7: 3/12
+fps: 14.3091
+6_SAMF, 13_boat7: 4/12
+fps: 13.705
+6_SAMF, 13_boat7: 5/12
+fps: 13.0563
+6_SAMF, 13_boat7: 6/12
+fps: 13.1078
+6_SAMF, 13_boat7: 7/12
+fps: 13.3302
+6_SAMF, 13_boat7: 8/12
+fps: 13.37
+6_SAMF, 13_boat7: 9/12
+fps: 5.5031
+6_SAMF, 13_boat7: 10/12
+fps: 4.3203
+6_SAMF, 13_boat7: 11/12
+fps: 12.8215
+6_SAMF, 13_boat7: 12/12
+fps: 9.8726
+7_SRDCF, 13_boat7: 1/12
+fps: 5.6735
+7_SRDCF, 13_boat7: 2/12
+fps: 5.649
+7_SRDCF, 13_boat7: 3/12
+fps: 5.8459
+7_SRDCF, 13_boat7: 4/12
+fps: 5.983
+7_SRDCF, 13_boat7: 5/12
+fps: 5.7595
+7_SRDCF, 13_boat7: 6/12
+fps: 5.8553
+7_SRDCF, 13_boat7: 7/12
+fps: 5.7317
+7_SRDCF, 13_boat7: 8/12
+fps: 5.8458
+7_SRDCF, 13_boat7: 9/12
+fps: 6.0051
+7_SRDCF, 13_boat7: 10/12
+fps: 5.9311
+7_SRDCF, 13_boat7: 11/12
+fps: 5.7137
+7_SRDCF, 13_boat7: 12/12
+fps: 5.7618
+1_CSK, 14_boat8: 1/12
+fps: 2115.7452
+1_CSK, 14_boat8: 2/12
+fps: 2082.4973
+1_CSK, 14_boat8: 3/12
+fps: 2184.8337
+1_CSK, 14_boat8: 4/12
+fps: 2149.9639
+1_CSK, 14_boat8: 5/12
+fps: 1718.4286
+1_CSK, 14_boat8: 6/12
+fps: 1784.3188
+1_CSK, 14_boat8: 7/12
+fps: 1805.6775
+1_CSK, 14_boat8: 8/12
+fps: 1833.2272
+1_CSK, 14_boat8: 9/12
+fps: 2738.9811
+1_CSK, 14_boat8: 10/12
+fps: 2373.914
+1_CSK, 14_boat8: 11/12
+fps: 1887.2759
+1_CSK, 14_boat8: 12/12
+fps: 2010.9029
+2_KCF_LinearHog, 14_boat8: 1/12
+fps: 1587.7983
+2_KCF_LinearHog, 14_boat8: 2/12
+fps: 1599.2081
+2_KCF_LinearHog, 14_boat8: 3/12
+fps: 1489.7198
+2_KCF_LinearHog, 14_boat8: 4/12
+fps: 1524.3563
+2_KCF_LinearHog, 14_boat8: 5/12
+fps: 1380.8257
+2_KCF_LinearHog, 14_boat8: 6/12
+fps: 1407.6663
+2_KCF_LinearHog, 14_boat8: 7/12
+fps: 1461.9571
+2_KCF_LinearHog, 14_boat8: 8/12
+fps: 1412.9247
+2_KCF_LinearHog, 14_boat8: 9/12
+fps: 2154.8063
+2_KCF_LinearHog, 14_boat8: 10/12
+fps: 1845.3664
+2_KCF_LinearHog, 14_boat8: 11/12
+fps: 1510.4108
+2_KCF_LinearHog, 14_boat8: 12/12
+fps: 1510.8372
+3_DSST, 14_boat8: 1/12
+fps: 172.5942
+3_DSST, 14_boat8: 2/12
+fps: 170.4031
+3_DSST, 14_boat8: 3/12
+fps: 163.1441
+3_DSST, 14_boat8: 4/12
+fps: 159.7288
+3_DSST, 14_boat8: 5/12
+fps: 147.9126
+3_DSST, 14_boat8: 6/12
+fps: 150.1731
+3_DSST, 14_boat8: 7/12
+fps: 159.6115
+3_DSST, 14_boat8: 8/12
+fps: 164.8338
+3_DSST, 14_boat8: 9/12
+fps: 206.0752
+3_DSST, 14_boat8: 10/12
+fps: 188.9439
+3_DSST, 14_boat8: 11/12
+fps: 154.0684
+3_DSST, 14_boat8: 12/12
+fps: 153.9369
+4_KCF_GaussHog, 14_boat8: 1/12
+fps: 1219.2995
+4_KCF_GaussHog, 14_boat8: 2/12
+fps: 1193.3798
+4_KCF_GaussHog, 14_boat8: 3/12
+fps: 1138.9389
+4_KCF_GaussHog, 14_boat8: 4/12
+fps: 1133.6199
+4_KCF_GaussHog, 14_boat8: 5/12
+fps: 1053.0054
+4_KCF_GaussHog, 14_boat8: 6/12
+fps: 1060.3567
+4_KCF_GaussHog, 14_boat8: 7/12
+fps: 1031.9404
+4_KCF_GaussHog, 14_boat8: 8/12
+fps: 1027.1513
+4_KCF_GaussHog, 14_boat8: 9/12
+fps: 1380.5029
+4_KCF_GaussHog, 14_boat8: 10/12
+fps: 1296.6118
+4_KCF_GaussHog, 14_boat8: 11/12
+fps: 1002.441
+4_KCF_GaussHog, 14_boat8: 12/12
+fps: 841.0377
+5_KCF_LinearGray, 14_boat8: 1/12
+fps: 1953.1417
+5_KCF_LinearGray, 14_boat8: 2/12
+fps: 2008.2735
+5_KCF_LinearGray, 14_boat8: 3/12
+fps: 2016.0875
+5_KCF_LinearGray, 14_boat8: 4/12
+fps: 2100.9628
+5_KCF_LinearGray, 14_boat8: 5/12
+fps: 1674.5464
+5_KCF_LinearGray, 14_boat8: 6/12
+fps: 1729.1954
+5_KCF_LinearGray, 14_boat8: 7/12
+fps: 1767.3543
+5_KCF_LinearGray, 14_boat8: 8/12
+fps: 1836.8108
+5_KCF_LinearGray, 14_boat8: 9/12
+fps: 2616.5011
+5_KCF_LinearGray, 14_boat8: 10/12
+fps: 2171.2395
+5_KCF_LinearGray, 14_boat8: 11/12
+fps: 1856.4994
+5_KCF_LinearGray, 14_boat8: 12/12
+fps: 1933.5208
+6_SAMF, 14_boat8: 1/12
+fps: 18.9825
+6_SAMF, 14_boat8: 2/12
+fps: 19.1563
+6_SAMF, 14_boat8: 3/12
+fps: 18.845
+6_SAMF, 14_boat8: 4/12
+fps: 16.0919
+6_SAMF, 14_boat8: 5/12
+fps: 18.4003
+6_SAMF, 14_boat8: 6/12
+fps: 14.6155
+6_SAMF, 14_boat8: 7/12
+fps: 14.8495
+6_SAMF, 14_boat8: 8/12
+fps: 15.2769
+6_SAMF, 14_boat8: 9/12
+fps: 15.4896
+6_SAMF, 14_boat8: 10/12
+fps: 16.2916
+6_SAMF, 14_boat8: 11/12
+fps: 15.3705
+6_SAMF, 14_boat8: 12/12
+fps: 15.7378
+7_SRDCF, 14_boat8: 1/12
+fps: 34.6901
+7_SRDCF, 14_boat8: 2/12
+fps: 35.5966
+7_SRDCF, 14_boat8: 3/12
+fps: 35.7341
+7_SRDCF, 14_boat8: 4/12
+fps: 36.6035
+7_SRDCF, 14_boat8: 5/12
+fps: 28.2918
+7_SRDCF, 14_boat8: 6/12
+fps: 28.8173
+7_SRDCF, 14_boat8: 7/12
+fps: 29.2282
+7_SRDCF, 14_boat8: 8/12
+fps: 29.011
+7_SRDCF, 14_boat8: 9/12
+fps: 14.5617
+7_SRDCF, 14_boat8: 10/12
+fps: 49.2132
+7_SRDCF, 14_boat8: 11/12
+fps: 29.5422
+7_SRDCF, 14_boat8: 12/12
+fps: 26.336
+1_CSK, 15_boat9: 1/12
+fps: 221.5314
+1_CSK, 15_boat9: 2/12
+fps: 236.27
+1_CSK, 15_boat9: 3/12
+fps: 232.3055
+1_CSK, 15_boat9: 4/12
+fps: 237.246
+1_CSK, 15_boat9: 5/12
+fps: 162.8487
+1_CSK, 15_boat9: 6/12
+fps: 189.4657
+1_CSK, 15_boat9: 7/12
+fps: 202.9079
+1_CSK, 15_boat9: 8/12
+fps: 207.4947
+1_CSK, 15_boat9: 9/12
+fps: 225.0962
+1_CSK, 15_boat9: 10/12
+fps: 192.7907
+1_CSK, 15_boat9: 11/12
+fps: 209.8472
+1_CSK, 15_boat9: 12/12
+fps: 317.678
+2_KCF_LinearHog, 15_boat9: 1/12
+fps: 168.1988
+2_KCF_LinearHog, 15_boat9: 2/12
+fps: 164.5336
+2_KCF_LinearHog, 15_boat9: 3/12
+fps: 165.5473
+2_KCF_LinearHog, 15_boat9: 4/12
+fps: 171.4462
+2_KCF_LinearHog, 15_boat9: 5/12
+fps: 110.8933
+2_KCF_LinearHog, 15_boat9: 6/12
+fps: 109.2791
+2_KCF_LinearHog, 15_boat9: 7/12
+fps: 108.2616
+2_KCF_LinearHog, 15_boat9: 8/12
+fps: 108.9507
+2_KCF_LinearHog, 15_boat9: 9/12
+fps: 244.2355
+2_KCF_LinearHog, 15_boat9: 10/12
+fps: 182.351
+2_KCF_LinearHog, 15_boat9: 11/12
+fps: 108.1935
+2_KCF_LinearHog, 15_boat9: 12/12
+fps: 376.0039
+3_DSST, 15_boat9: 1/12
+fps: 21.6631
+3_DSST, 15_boat9: 2/12
+fps: 24.1028
+3_DSST, 15_boat9: 3/12
+fps: 24.1044
+3_DSST, 15_boat9: 4/12
+fps: 21.3398
+3_DSST, 15_boat9: 5/12
+fps: 20.4344
+3_DSST, 15_boat9: 6/12
+fps: 20.2824
+3_DSST, 15_boat9: 7/12
+fps: 20.2914
+3_DSST, 15_boat9: 8/12
+fps: 18.742
+3_DSST, 15_boat9: 9/12
+fps: 21.4116
+3_DSST, 15_boat9: 10/12
+fps: 16.9749
+3_DSST, 15_boat9: 11/12
+fps: 19.093
+3_DSST, 15_boat9: 12/12
+fps: 11.4045
+4_KCF_GaussHog, 15_boat9: 1/12
+fps: 98.9871
+4_KCF_GaussHog, 15_boat9: 2/12
+fps: 101.0631
+4_KCF_GaussHog, 15_boat9: 3/12
+fps: 100.6831
+4_KCF_GaussHog, 15_boat9: 4/12
+fps: 100.4294
+4_KCF_GaussHog, 15_boat9: 5/12
+fps: 54.7145
+4_KCF_GaussHog, 15_boat9: 6/12
+fps: 55.5032
+4_KCF_GaussHog, 15_boat9: 7/12
+fps: 53.6913
+4_KCF_GaussHog, 15_boat9: 8/12
+fps: 53.9102
+4_KCF_GaussHog, 15_boat9: 9/12
+fps: 137.1773
+4_KCF_GaussHog, 15_boat9: 10/12
+fps: 106.0998
+4_KCF_GaussHog, 15_boat9: 11/12
+fps: 55.8251
+4_KCF_GaussHog, 15_boat9: 12/12
+fps: 210.1435
+5_KCF_LinearGray, 15_boat9: 1/12
+fps: 160.0455
+5_KCF_LinearGray, 15_boat9: 2/12
+fps: 163.2761
+5_KCF_LinearGray, 15_boat9: 3/12
+fps: 171.9514
+5_KCF_LinearGray, 15_boat9: 4/12
+fps: 160.6592
+5_KCF_LinearGray, 15_boat9: 5/12
+fps: 228.4141
+5_KCF_LinearGray, 15_boat9: 6/12
+fps: 218.9507
+5_KCF_LinearGray, 15_boat9: 7/12
+fps: 227.6602
+5_KCF_LinearGray, 15_boat9: 8/12
+fps: 216.476
+5_KCF_LinearGray, 15_boat9: 9/12
+fps: 483.2261
+5_KCF_LinearGray, 15_boat9: 10/12
+fps: 220.6666
+5_KCF_LinearGray, 15_boat9: 11/12
+fps: 235.9974
+5_KCF_LinearGray, 15_boat9: 12/12
+fps: 634.5103
+6_SAMF, 15_boat9: 1/12
+fps: 7.5441
+6_SAMF, 15_boat9: 2/12
+fps: 6.6142
+6_SAMF, 15_boat9: 3/12
+fps: 6.627
+6_SAMF, 15_boat9: 4/12
+fps: 6.769
+6_SAMF, 15_boat9: 5/12
+fps: 4.8569
+6_SAMF, 15_boat9: 6/12
+fps: 4.6522
+6_SAMF, 15_boat9: 7/12
+fps: 4.9272
+6_SAMF, 15_boat9: 8/12
+fps: 5.1671
+6_SAMF, 15_boat9: 9/12
+fps: 8.1368
+6_SAMF, 15_boat9: 10/12
+fps: 7.0654
+6_SAMF, 15_boat9: 11/12
+fps: 5.3144
+6_SAMF, 15_boat9: 12/12
+fps: 17.1026
+7_SRDCF, 15_boat9: 1/12
+fps: 7.1372
+7_SRDCF, 15_boat9: 2/12
+fps: 7.1656
+7_SRDCF, 15_boat9: 3/12
+fps: 7.0791
+7_SRDCF, 15_boat9: 4/12
+fps: 6.9984
+7_SRDCF, 15_boat9: 5/12
+fps: 7.0666
+7_SRDCF, 15_boat9: 6/12
+fps: 7.2192
+7_SRDCF, 15_boat9: 7/12
+fps: 7.1806
+7_SRDCF, 15_boat9: 8/12
+fps: 7.1989
+7_SRDCF, 15_boat9: 9/12
+fps: 6.9979
+7_SRDCF, 15_boat9: 10/12
+fps: 7.0049
+7_SRDCF, 15_boat9: 11/12
+fps: 7.0623
+7_SRDCF, 15_boat9: 12/12
+fps: 6.9454
+1_CSK, 16_building1: 1/12
+fps: 389.0321
+1_CSK, 16_building1: 2/12
+fps: 402.8078
+1_CSK, 16_building1: 3/12
+fps: 409.121
+1_CSK, 16_building1: 4/12
+fps: 410.2641
+1_CSK, 16_building1: 5/12
+fps: 406.9224
+1_CSK, 16_building1: 6/12
+fps: 377.6925
+1_CSK, 16_building1: 7/12
+fps: 397.2243
+1_CSK, 16_building1: 8/12
+fps: 392.5958
+1_CSK, 16_building1: 9/12
+fps: 578.8901
+1_CSK, 16_building1: 10/12
+fps: 245.5207
+1_CSK, 16_building1: 11/12
+fps: 381.2153
+1_CSK, 16_building1: 12/12
+fps: 233.7103
+2_KCF_LinearHog, 16_building1: 1/12
+fps: 423.6637
+2_KCF_LinearHog, 16_building1: 2/12
+fps: 440.9756
+2_KCF_LinearHog, 16_building1: 3/12
+fps: 442.2738
+2_KCF_LinearHog, 16_building1: 4/12
+fps: 460.93
+2_KCF_LinearHog, 16_building1: 5/12
+fps: 354.1419
+2_KCF_LinearHog, 16_building1: 6/12
+fps: 364.0733
+2_KCF_LinearHog, 16_building1: 7/12
+fps: 350.4344
+2_KCF_LinearHog, 16_building1: 8/12
+fps: 372.5179
+2_KCF_LinearHog, 16_building1: 9/12
+fps: 535.6211
+2_KCF_LinearHog, 16_building1: 10/12
+fps: 500.0432
+2_KCF_LinearHog, 16_building1: 11/12
+fps: 358.0943
+2_KCF_LinearHog, 16_building1: 12/12
+fps: 343.1496
+3_DSST, 16_building1: 1/12
+fps: 53.1727
+3_DSST, 16_building1: 2/12
+fps: 53.5645
+3_DSST, 16_building1: 3/12
+fps: 54.8472
+3_DSST, 16_building1: 4/12
+fps: 53.1495
+3_DSST, 16_building1: 5/12
+fps: 45.9354
+3_DSST, 16_building1: 6/12
+fps: 47.2584
+3_DSST, 16_building1: 7/12
+fps: 48.1014
+3_DSST, 16_building1: 8/12
+fps: 47.8736
+3_DSST, 16_building1: 9/12
+fps: 70.7962
+3_DSST, 16_building1: 10/12
+fps: 46.0602
+3_DSST, 16_building1: 11/12
+fps: 48.1517
+3_DSST, 16_building1: 12/12
+fps: 32.4571
+4_KCF_GaussHog, 16_building1: 1/12
+fps: 265.6271
+4_KCF_GaussHog, 16_building1: 2/12
+fps: 261.287
+4_KCF_GaussHog, 16_building1: 3/12
+fps: 264.1335
+4_KCF_GaussHog, 16_building1: 4/12
+fps: 262.5603
+4_KCF_GaussHog, 16_building1: 5/12
+fps: 204.2995
+4_KCF_GaussHog, 16_building1: 6/12
+fps: 211.5108
+4_KCF_GaussHog, 16_building1: 7/12
+fps: 206.5838
+4_KCF_GaussHog, 16_building1: 8/12
+fps: 208.4299
+4_KCF_GaussHog, 16_building1: 9/12
+fps: 296.7481
+4_KCF_GaussHog, 16_building1: 10/12
+fps: 274.011
+4_KCF_GaussHog, 16_building1: 11/12
+fps: 208.0925
+4_KCF_GaussHog, 16_building1: 12/12
+fps: 173.1411
+5_KCF_LinearGray, 16_building1: 1/12
+fps: 711.0974
+5_KCF_LinearGray, 16_building1: 2/12
+fps: 726.5607
+5_KCF_LinearGray, 16_building1: 3/12
+fps: 751.3991
+5_KCF_LinearGray, 16_building1: 4/12
+fps: 671.9255
+5_KCF_LinearGray, 16_building1: 5/12
+fps: 615.9965
+5_KCF_LinearGray, 16_building1: 6/12
+fps: 604.8967
+5_KCF_LinearGray, 16_building1: 7/12
+fps: 610.171
+5_KCF_LinearGray, 16_building1: 8/12
+fps: 565.317
+5_KCF_LinearGray, 16_building1: 9/12
+fps: 831.3539
+5_KCF_LinearGray, 16_building1: 10/12
+fps: 717.6433
+5_KCF_LinearGray, 16_building1: 11/12
+fps: 608.1455
+5_KCF_LinearGray, 16_building1: 12/12
+fps: 496.165
+6_SAMF, 16_building1: 1/12
+fps: 12.5581
+6_SAMF, 16_building1: 2/12
+fps: 12.4015
+6_SAMF, 16_building1: 3/12
+fps: 12.516
+6_SAMF, 16_building1: 4/12
+fps: 12.6295
+6_SAMF, 16_building1: 5/12
+fps: 11.4166
+6_SAMF, 16_building1: 6/12
+fps: 11.4426
+6_SAMF, 16_building1: 7/12
+fps: 11.3303
+6_SAMF, 16_building1: 8/12
+fps: 11.4302
+6_SAMF, 16_building1: 9/12
+fps: 14.1852
+6_SAMF, 16_building1: 10/12
+fps: 12.6241
+6_SAMF, 16_building1: 11/12
+fps: 10.8065
+6_SAMF, 16_building1: 12/12
+fps: 10.5158
+7_SRDCF, 16_building1: 1/12
+fps: 8.5497
+7_SRDCF, 16_building1: 2/12
+fps: 8.0929
+7_SRDCF, 16_building1: 3/12
+fps: 8.1905
+7_SRDCF, 16_building1: 4/12
+fps: 7.9228
+7_SRDCF, 16_building1: 5/12
+fps: 8.0009
+7_SRDCF, 16_building1: 6/12
+fps: 8.1652
+7_SRDCF, 16_building1: 7/12
+fps: 8.1517
+7_SRDCF, 16_building1: 8/12
+fps: 8.1281
+7_SRDCF, 16_building1: 9/12
+fps: 13.1438
+7_SRDCF, 16_building1: 10/12
+fps: 11.0639
+7_SRDCF, 16_building1: 11/12
+fps: 7.9182
+7_SRDCF, 16_building1: 12/12
+fps: 7.4024
+1_CSK, 17_building2: 1/12
+fps: 358.0402
+1_CSK, 17_building2: 2/12
+fps: 382.538
+1_CSK, 17_building2: 3/12
+fps: 370.8224
+1_CSK, 17_building2: 4/12
+fps: 375.7039
+1_CSK, 17_building2: 5/12
+fps: 561.643
+1_CSK, 17_building2: 6/12
+fps: 546.7857
+1_CSK, 17_building2: 7/12
+fps: 540.7518
+1_CSK, 17_building2: 8/12
+fps: 552.6502
+1_CSK, 17_building2: 9/12
+fps: 727.1582
+1_CSK, 17_building2: 10/12
+fps: 793.3103
+1_CSK, 17_building2: 11/12
+fps: 554.2801
+1_CSK, 17_building2: 12/12
+fps: 477.0921
+2_KCF_LinearHog, 17_building2: 1/12
+fps: 441.1376
+2_KCF_LinearHog, 17_building2: 2/12
+fps: 447.4415
+2_KCF_LinearHog, 17_building2: 3/12
+fps: 448.9958
+2_KCF_LinearHog, 17_building2: 4/12
+fps: 449.9113
+2_KCF_LinearHog, 17_building2: 5/12
+fps: 558.0832
+2_KCF_LinearHog, 17_building2: 6/12
+fps: 567.6162
+2_KCF_LinearHog, 17_building2: 7/12
+fps: 550.6603
+2_KCF_LinearHog, 17_building2: 8/12
+fps: 568.5099
+2_KCF_LinearHog, 17_building2: 9/12
+fps: 677.3223
+2_KCF_LinearHog, 17_building2: 10/12
+fps: 624.2636
+2_KCF_LinearHog, 17_building2: 11/12
+fps: 553.8874
+2_KCF_LinearHog, 17_building2: 12/12
+fps: 514.1443
+3_DSST, 17_building2: 1/12
+fps: 57.3203
+3_DSST, 17_building2: 2/12
+fps: 56.5894
+3_DSST, 17_building2: 3/12
+fps: 57.8202
+3_DSST, 17_building2: 4/12
+fps: 54.7515
+3_DSST, 17_building2: 5/12
+fps: 57.5406
+3_DSST, 17_building2: 6/12
+fps: 59.2902
+3_DSST, 17_building2: 7/12
+fps: 59.4662
+3_DSST, 17_building2: 8/12
+fps: 58.9332
+3_DSST, 17_building2: 9/12
+fps: 83.5269
+3_DSST, 17_building2: 10/12
+fps: 76.9065
+3_DSST, 17_building2: 11/12
+fps: 57.2552
+3_DSST, 17_building2: 12/12
+fps: 52.0174
+4_KCF_GaussHog, 17_building2: 1/12
+fps: 234.0888
+4_KCF_GaussHog, 17_building2: 2/12
+fps: 235.1499
+4_KCF_GaussHog, 17_building2: 3/12
+fps: 242.2739
+4_KCF_GaussHog, 17_building2: 4/12
+fps: 245.7527
+4_KCF_GaussHog, 17_building2: 5/12
+fps: 306.2569
+4_KCF_GaussHog, 17_building2: 6/12
+fps: 311.3722
+4_KCF_GaussHog, 17_building2: 7/12
+fps: 313.2596
+4_KCF_GaussHog, 17_building2: 8/12
+fps: 312.2974
+4_KCF_GaussHog, 17_building2: 9/12
+fps: 367.7743
+4_KCF_GaussHog, 17_building2: 10/12
+fps: 332.0485
+4_KCF_GaussHog, 17_building2: 11/12
+fps: 300.5885
+4_KCF_GaussHog, 17_building2: 12/12
+fps: 277.9752
+5_KCF_LinearGray, 17_building2: 1/12
+fps: 938.338
+5_KCF_LinearGray, 17_building2: 2/12
+fps: 958.6676
+5_KCF_LinearGray, 17_building2: 3/12
+fps: 958.9098
+5_KCF_LinearGray, 17_building2: 4/12
+fps: 913.4328
+5_KCF_LinearGray, 17_building2: 5/12
+fps: 771.6958
+5_KCF_LinearGray, 17_building2: 6/12
+fps: 782.8272
+5_KCF_LinearGray, 17_building2: 7/12
+fps: 779.3759
+5_KCF_LinearGray, 17_building2: 8/12
+fps: 785.5181
+5_KCF_LinearGray, 17_building2: 9/12
+fps: 872.7535
+5_KCF_LinearGray, 17_building2: 10/12
+fps: 938.8419
+5_KCF_LinearGray, 17_building2: 11/12
+fps: 854.4983
+5_KCF_LinearGray, 17_building2: 12/12
+fps: 597.4081
+6_SAMF, 17_building2: 1/12
+fps: 13.9699
+6_SAMF, 17_building2: 2/12
+fps: 13.8509
+6_SAMF, 17_building2: 3/12
+fps: 13.9037
+6_SAMF, 17_building2: 4/12
+fps: 13.5947
+6_SAMF, 17_building2: 5/12
+fps: 13.4294
+6_SAMF, 17_building2: 6/12
+fps: 13.5912
+6_SAMF, 17_building2: 7/12
+fps: 13.2935
+6_SAMF, 17_building2: 8/12
+fps: 13.3505
+6_SAMF, 17_building2: 9/12
+fps: 14.5064
+6_SAMF, 17_building2: 10/12
+fps: 14.0925
+6_SAMF, 17_building2: 11/12
+fps: 13.6333
+6_SAMF, 17_building2: 12/12
+fps: 12.7172
+7_SRDCF, 17_building2: 1/12
+fps: 12.466
+7_SRDCF, 17_building2: 2/12
+fps: 12.8184
+7_SRDCF, 17_building2: 3/12
+fps: 12.9504
+7_SRDCF, 17_building2: 4/12
+fps: 13.1769
+7_SRDCF, 17_building2: 5/12
+fps: 11.0576
+7_SRDCF, 17_building2: 6/12
+fps: 10.8182
+7_SRDCF, 17_building2: 7/12
+fps: 10.9563
+7_SRDCF, 17_building2: 8/12
+fps: 10.9257
+7_SRDCF, 17_building2: 9/12
+fps: 21.2763
+7_SRDCF, 17_building2: 10/12
+fps: 17.6084
+7_SRDCF, 17_building2: 11/12
+fps: 10.8249
+7_SRDCF, 17_building2: 12/12
+fps: 9.4674
+1_CSK, 18_building3: 1/12
+fps: 585.318
+1_CSK, 18_building3: 2/12
+fps: 609.8225
+1_CSK, 18_building3: 3/12
+fps: 611.0437
+1_CSK, 18_building3: 4/12
+fps: 607.0067
+1_CSK, 18_building3: 5/12
+fps: 666.1722
+1_CSK, 18_building3: 6/12
+fps: 680.5804
+1_CSK, 18_building3: 7/12
+fps: 668.2692
+1_CSK, 18_building3: 8/12
+fps: 641.1516
+1_CSK, 18_building3: 9/12
+fps: 781.1359
+1_CSK, 18_building3: 10/12
+fps: 1104.7088
+1_CSK, 18_building3: 11/12
+fps: 619.8293
+1_CSK, 18_building3: 12/12
+fps: 397.6109
+2_KCF_LinearHog, 18_building3: 1/12
+fps: 543.2368
+2_KCF_LinearHog, 18_building3: 2/12
+fps: 566.6904
+2_KCF_LinearHog, 18_building3: 3/12
+fps: 573.6135
+2_KCF_LinearHog, 18_building3: 4/12
+fps: 608.1645
+2_KCF_LinearHog, 18_building3: 5/12
+fps: 553.6969
+2_KCF_LinearHog, 18_building3: 6/12
+fps: 558.7963
+2_KCF_LinearHog, 18_building3: 7/12
+fps: 570.2211
+2_KCF_LinearHog, 18_building3: 8/12
+fps: 550.5763
+2_KCF_LinearHog, 18_building3: 9/12
+fps: 855.7004
+2_KCF_LinearHog, 18_building3: 10/12
+fps: 793.78
+2_KCF_LinearHog, 18_building3: 11/12
+fps: 571.9616
+2_KCF_LinearHog, 18_building3: 12/12
+fps: 464.6507
+3_DSST, 18_building3: 1/12
+fps: 80.7082
+3_DSST, 18_building3: 2/12
+fps: 80.676
+3_DSST, 18_building3: 3/12
+fps: 79.899
+3_DSST, 18_building3: 4/12
+fps: 81.7639
+3_DSST, 18_building3: 5/12
+fps: 77.6317
+3_DSST, 18_building3: 6/12
+fps: 78.6536
+3_DSST, 18_building3: 7/12
+fps: 76.3304
+3_DSST, 18_building3: 8/12
+fps: 77.4657
+3_DSST, 18_building3: 9/12
+fps: 93.5019
+3_DSST, 18_building3: 10/12
+fps: 96.5129
+3_DSST, 18_building3: 11/12
+fps: 75.8839
+3_DSST, 18_building3: 12/12
+fps: 62.0117
+4_KCF_GaussHog, 18_building3: 1/12
+fps: 354.3577
+4_KCF_GaussHog, 18_building3: 2/12
+fps: 347.3133
+4_KCF_GaussHog, 18_building3: 3/12
+fps: 346.7126
+4_KCF_GaussHog, 18_building3: 4/12
+fps: 345.0683
+4_KCF_GaussHog, 18_building3: 5/12
+fps: 325.1077
+4_KCF_GaussHog, 18_building3: 6/12
+fps: 318.2772
+4_KCF_GaussHog, 18_building3: 7/12
+fps: 322.2621
+4_KCF_GaussHog, 18_building3: 8/12
+fps: 319.784
+4_KCF_GaussHog, 18_building3: 9/12
+fps: 469.8393
+4_KCF_GaussHog, 18_building3: 10/12
+fps: 452.6387
+4_KCF_GaussHog, 18_building3: 11/12
+fps: 327.1732
+4_KCF_GaussHog, 18_building3: 12/12
+fps: 282.0029
+5_KCF_LinearGray, 18_building3: 1/12
+fps: 1047.1998
+5_KCF_LinearGray, 18_building3: 2/12
+fps: 1076.0644
+5_KCF_LinearGray, 18_building3: 3/12
+fps: 1055.536
+5_KCF_LinearGray, 18_building3: 4/12
+fps: 1087.3215
+5_KCF_LinearGray, 18_building3: 5/12
+fps: 954.6864
+5_KCF_LinearGray, 18_building3: 6/12
+fps: 972.1797
+5_KCF_LinearGray, 18_building3: 7/12
+fps: 982.6513
+5_KCF_LinearGray, 18_building3: 8/12
+fps: 942.2564
+5_KCF_LinearGray, 18_building3: 9/12
+fps: 1233.0163
+5_KCF_LinearGray, 18_building3: 10/12
+fps: 1138.8082
+5_KCF_LinearGray, 18_building3: 11/12
+fps: 939.0256
+5_KCF_LinearGray, 18_building3: 12/12
+fps: 463.1611
+6_SAMF, 18_building3: 1/12
+fps: 14.3768
+6_SAMF, 18_building3: 2/12
+fps: 14.112
+6_SAMF, 18_building3: 3/12
+fps: 14.2391
+6_SAMF, 18_building3: 4/12
+fps: 14.1664
+6_SAMF, 18_building3: 5/12
+fps: 14.1317
+6_SAMF, 18_building3: 6/12
+fps: 14.3326
+6_SAMF, 18_building3: 7/12
+fps: 14.0208
+6_SAMF, 18_building3: 8/12
+fps: 14.2769
+6_SAMF, 18_building3: 9/12
+fps: 16.0256
+6_SAMF, 18_building3: 10/12
+fps: 15.2322
+6_SAMF, 18_building3: 11/12
+fps: 14.0873
+6_SAMF, 18_building3: 12/12
+fps: 13.7982
+7_SRDCF, 18_building3: 1/12
+fps: 15.5482
+7_SRDCF, 18_building3: 2/12
+fps: 15.8974
+7_SRDCF, 18_building3: 3/12
+fps: 16.3478
+7_SRDCF, 18_building3: 4/12
+fps: 16.1919
+7_SRDCF, 18_building3: 5/12
+fps: 15.4704
+7_SRDCF, 18_building3: 6/12
+fps: 15.5753
+7_SRDCF, 18_building3: 7/12
+fps: 15.1409
+7_SRDCF, 18_building3: 8/12
+fps: 15.6633
+7_SRDCF, 18_building3: 9/12
+fps: 17.5295
+7_SRDCF, 18_building3: 10/12
+fps: 22.325
+7_SRDCF, 18_building3: 11/12
+fps: 15.2721
+7_SRDCF, 18_building3: 12/12
+fps: 11.078
+1_CSK, 19_building4: 1/12
+fps: 247.3631
+1_CSK, 19_building4: 2/12
+fps: 244.3419
+1_CSK, 19_building4: 3/12
+fps: 248.9584
+1_CSK, 19_building4: 4/12
+fps: 245.8587
+1_CSK, 19_building4: 5/12
+fps: 231.8654
+1_CSK, 19_building4: 6/12
+fps: 219.5332
+1_CSK, 19_building4: 7/12
+fps: 225.1616
+1_CSK, 19_building4: 8/12
+fps: 212.9498
+1_CSK, 19_building4: 9/12
+fps: 388.6704
+1_CSK, 19_building4: 10/12
+fps: 310.9422
+1_CSK, 19_building4: 11/12
+fps: 212.8463
+1_CSK, 19_building4: 12/12
+fps: 345.583
+2_KCF_LinearHog, 19_building4: 1/12
+fps: 331.8533
+2_KCF_LinearHog, 19_building4: 2/12
+fps: 332.5689
+2_KCF_LinearHog, 19_building4: 3/12
+fps: 336.0099
+2_KCF_LinearHog, 19_building4: 4/12
+fps: 334.4411
+2_KCF_LinearHog, 19_building4: 5/12
+fps: 258.7739
+2_KCF_LinearHog, 19_building4: 6/12
+fps: 260.9692
+2_KCF_LinearHog, 19_building4: 7/12
+fps: 262.1675
+2_KCF_LinearHog, 19_building4: 8/12
+fps: 251.6054
+2_KCF_LinearHog, 19_building4: 9/12
+fps: 409.097
+2_KCF_LinearHog, 19_building4: 10/12
+fps: 380.2469
+2_KCF_LinearHog, 19_building4: 11/12
+fps: 257.483
+2_KCF_LinearHog, 19_building4: 12/12
+fps: 256.6378
+3_DSST, 19_building4: 1/12
+fps: 32.9245
+3_DSST, 19_building4: 2/12
+fps: 33.9185
+3_DSST, 19_building4: 3/12
+fps: 31.7547
+3_DSST, 19_building4: 4/12
+fps: 33.0524
+3_DSST, 19_building4: 5/12
+fps: 25.5479
+3_DSST, 19_building4: 6/12
+fps: 26.3824
+3_DSST, 19_building4: 7/12
+fps: 25.8174
+3_DSST, 19_building4: 8/12
+fps: 25.8378
+3_DSST, 19_building4: 9/12
+fps: 47.9299
+3_DSST, 19_building4: 10/12
+fps: 41.9863
+3_DSST, 19_building4: 11/12
+fps: 25.7354
+3_DSST, 19_building4: 12/12
+fps: 28.8888
+4_KCF_GaussHog, 19_building4: 1/12
+fps: 181.1545
+4_KCF_GaussHog, 19_building4: 2/12
+fps: 183.0712
+4_KCF_GaussHog, 19_building4: 3/12
+fps: 185.0332
+4_KCF_GaussHog, 19_building4: 4/12
+fps: 184.3978
+4_KCF_GaussHog, 19_building4: 5/12
+fps: 145.0355
+4_KCF_GaussHog, 19_building4: 6/12
+fps: 146.1154
+4_KCF_GaussHog, 19_building4: 7/12
+fps: 146.0647
+4_KCF_GaussHog, 19_building4: 8/12
+fps: 146.8941
+4_KCF_GaussHog, 19_building4: 9/12
+fps: 219.7029
+4_KCF_GaussHog, 19_building4: 10/12
+fps: 232.5063
+4_KCF_GaussHog, 19_building4: 11/12
+fps: 142.3394
+4_KCF_GaussHog, 19_building4: 12/12
+fps: 153.2094
+5_KCF_LinearGray, 19_building4: 1/12
+fps: 389.8865
+5_KCF_LinearGray, 19_building4: 2/12
+fps: 387.4006
+5_KCF_LinearGray, 19_building4: 3/12
+fps: 411.6662
+5_KCF_LinearGray, 19_building4: 4/12
+fps: 408.7169
+5_KCF_LinearGray, 19_building4: 5/12
+fps: 420.7197
+5_KCF_LinearGray, 19_building4: 6/12
+fps: 491.4367
+5_KCF_LinearGray, 19_building4: 7/12
+fps: 387.0036
+5_KCF_LinearGray, 19_building4: 8/12
+fps: 479.9919
+5_KCF_LinearGray, 19_building4: 9/12
+fps: 630.798
+5_KCF_LinearGray, 19_building4: 10/12
+fps: 501.2812
+5_KCF_LinearGray, 19_building4: 11/12
+fps: 502.5302
+5_KCF_LinearGray, 19_building4: 12/12
+fps: 470.9929
+6_SAMF, 19_building4: 1/12
+fps: 11.2554
+6_SAMF, 19_building4: 2/12
+fps: 11.064
+6_SAMF, 19_building4: 3/12
+fps: 10.9812
+6_SAMF, 19_building4: 4/12
+fps: 10.7746
+6_SAMF, 19_building4: 5/12
+fps: 9.7283
+6_SAMF, 19_building4: 6/12
+fps: 9.6112
+6_SAMF, 19_building4: 7/12
+fps: 9.1961
+6_SAMF, 19_building4: 8/12
+fps: 9.6115
+6_SAMF, 19_building4: 9/12
+fps: 12.1233
+6_SAMF, 19_building4: 10/12
+fps: 11.6239
+6_SAMF, 19_building4: 11/12
+fps: 9.517
+6_SAMF, 19_building4: 12/12
+fps: 9.5189
+7_SRDCF, 19_building4: 1/12
+fps: 6.868
+7_SRDCF, 19_building4: 2/12
+fps: 7.0291
+7_SRDCF, 19_building4: 3/12
+fps: 7.1035
+7_SRDCF, 19_building4: 4/12
+fps: 6.8231
+7_SRDCF, 19_building4: 5/12
+fps: 6.9588
+7_SRDCF, 19_building4: 6/12
+fps: 6.8684
+7_SRDCF, 19_building4: 7/12
+fps: 6.894
+7_SRDCF, 19_building4: 8/12
+fps: 6.6664
+7_SRDCF, 19_building4: 9/12
+fps: 9.4279
+7_SRDCF, 19_building4: 10/12
+fps: 7.061
+7_SRDCF, 19_building4: 11/12
+fps: 6.9016
+7_SRDCF, 19_building4: 12/12
+fps: 6.9052
+1_CSK, 20_building5: 1/12
+fps: 431.6778
+1_CSK, 20_building5: 2/12
+fps: 525.7543
+1_CSK, 20_building5: 3/12
+fps: 510.8793
+1_CSK, 20_building5: 4/12
+fps: 466.9753
+1_CSK, 20_building5: 5/12
+fps: 467.1926
+1_CSK, 20_building5: 6/12
+fps: 452.1488
+1_CSK, 20_building5: 7/12
+fps: 455.0137
+1_CSK, 20_building5: 8/12
+fps: 462.0255
+1_CSK, 20_building5: 9/12
+fps: 945.2539
+1_CSK, 20_building5: 10/12
+fps: 780.7212
+1_CSK, 20_building5: 11/12
+fps: 460.5471
+1_CSK, 20_building5: 12/12
+fps: 263.2806
+2_KCF_LinearHog, 20_building5: 1/12
+fps: 491.8613
+2_KCF_LinearHog, 20_building5: 2/12
+fps: 494.5354
+2_KCF_LinearHog, 20_building5: 3/12
+fps: 493.265
+2_KCF_LinearHog, 20_building5: 4/12
+fps: 482.4391
+2_KCF_LinearHog, 20_building5: 5/12
+fps: 495.8656
+2_KCF_LinearHog, 20_building5: 6/12
+fps: 505.3721
+2_KCF_LinearHog, 20_building5: 7/12
+fps: 514.1718
+2_KCF_LinearHog, 20_building5: 8/12
+fps: 518.2905
+2_KCF_LinearHog, 20_building5: 9/12
+fps: 534.3791
+2_KCF_LinearHog, 20_building5: 10/12
+fps: 555.7571
+2_KCF_LinearHog, 20_building5: 11/12
+fps: 476.8325
+2_KCF_LinearHog, 20_building5: 12/12
+fps: 448.1978
+3_DSST, 20_building5: 1/12
+fps: 61.4639
+3_DSST, 20_building5: 2/12
+fps: 63.4116
+3_DSST, 20_building5: 3/12
+fps: 62.8497
+3_DSST, 20_building5: 4/12
+fps: 63.5507
+3_DSST, 20_building5: 5/12
+fps: 60.0598
+3_DSST, 20_building5: 6/12
+fps: 58.7458
+3_DSST, 20_building5: 7/12
+fps: 57.3593
+3_DSST, 20_building5: 8/12
+fps: 56.7458
+3_DSST, 20_building5: 9/12
+fps: 84.0977
+3_DSST, 20_building5: 10/12
+fps: 75.3714
+3_DSST, 20_building5: 11/12
+fps: 55.8599
+3_DSST, 20_building5: 12/12
+fps: 40.345
+4_KCF_GaussHog, 20_building5: 1/12
+fps: 266.3884
+4_KCF_GaussHog, 20_building5: 2/12
+fps: 267.9513
+4_KCF_GaussHog, 20_building5: 3/12
+fps: 257.4607
+4_KCF_GaussHog, 20_building5: 4/12
+fps: 262.2827
+4_KCF_GaussHog, 20_building5: 5/12
+fps: 263.4698
+4_KCF_GaussHog, 20_building5: 6/12
+fps: 271.1699
+4_KCF_GaussHog, 20_building5: 7/12
+fps: 279.3799
+4_KCF_GaussHog, 20_building5: 8/12
+fps: 285.2986
+4_KCF_GaussHog, 20_building5: 9/12
+fps: 301.0642
+4_KCF_GaussHog, 20_building5: 10/12
+fps: 330.212
+4_KCF_GaussHog, 20_building5: 11/12
+fps: 279.8047
+4_KCF_GaussHog, 20_building5: 12/12
+fps: 258.4617
+5_KCF_LinearGray, 20_building5: 1/12
+fps: 693.6753
+5_KCF_LinearGray, 20_building5: 2/12
+fps: 704.0862
+5_KCF_LinearGray, 20_building5: 3/12
+fps: 725.418
+5_KCF_LinearGray, 20_building5: 4/12
+fps: 685.1803
+5_KCF_LinearGray, 20_building5: 5/12
+fps: 720.1893
+5_KCF_LinearGray, 20_building5: 6/12
+fps: 759.3458
+5_KCF_LinearGray, 20_building5: 7/12
+fps: 716.8331
+5_KCF_LinearGray, 20_building5: 8/12
+fps: 734.9458
+5_KCF_LinearGray, 20_building5: 9/12
+fps: 1006.6953
+5_KCF_LinearGray, 20_building5: 10/12
+fps: 994.6175
+5_KCF_LinearGray, 20_building5: 11/12
+fps: 735.3762
+5_KCF_LinearGray, 20_building5: 12/12
+fps: 463.2077
+6_SAMF, 20_building5: 1/12
+fps: 13.8101
+6_SAMF, 20_building5: 2/12
+fps: 13.7015
+6_SAMF, 20_building5: 3/12
+fps: 13.4532
+6_SAMF, 20_building5: 4/12
+fps: 13.2639
+6_SAMF, 20_building5: 5/12
+fps: 13.4715
+6_SAMF, 20_building5: 6/12
+fps: 13.4883
+6_SAMF, 20_building5: 7/12
+fps: 13.2414
+6_SAMF, 20_building5: 8/12
+fps: 13.5572
+6_SAMF, 20_building5: 9/12
+fps: 13.9287
+6_SAMF, 20_building5: 10/12
+fps: 14.1339
+6_SAMF, 20_building5: 11/12
+fps: 13.4713
+6_SAMF, 20_building5: 12/12
+fps: 12.697
+7_SRDCF, 20_building5: 1/12
+fps: 12.7607
+7_SRDCF, 20_building5: 2/12
+fps: 12.6742
+7_SRDCF, 20_building5: 3/12
+fps: 12.8209
+7_SRDCF, 20_building5: 4/12
+fps: 13.316
+7_SRDCF, 20_building5: 5/12
+fps: 11.7642
+7_SRDCF, 20_building5: 6/12
+fps: 11.7152
+7_SRDCF, 20_building5: 7/12
+fps: 11.8887
+7_SRDCF, 20_building5: 8/12
+fps: 11.7513
+7_SRDCF, 20_building5: 9/12
+fps: 20.2901
+7_SRDCF, 20_building5: 10/12
+fps: 16.9242
+7_SRDCF, 20_building5: 11/12
+fps: 11.8814
+7_SRDCF, 20_building5: 12/12
+fps: 10.2846
+1_CSK, 21_car1_1: 1/12
+fps: 172.789
+1_CSK, 21_car1_1: 2/12
+fps: 177.6079
+1_CSK, 21_car1_1: 3/12
+fps: 175.6777
+1_CSK, 21_car1_1: 4/12
+fps: 177.0478
+1_CSK, 21_car1_1: 5/12
+fps: 220.6387
+1_CSK, 21_car1_1: 6/12
+fps: 224.8149
+1_CSK, 21_car1_1: 7/12
+fps: 226.5718
+1_CSK, 21_car1_1: 8/12
+fps: 213.9362
+1_CSK, 21_car1_1: 9/12
+fps: 265.7291
+1_CSK, 21_car1_1: 10/12
+fps: 273.3398
+1_CSK, 21_car1_1: 11/12
+fps: 209.5385
+1_CSK, 21_car1_1: 12/12
+fps: 91.2445
+2_KCF_LinearHog, 21_car1_1: 1/12
+fps: 183.9956
+2_KCF_LinearHog, 21_car1_1: 2/12
+fps: 185.2209
+2_KCF_LinearHog, 21_car1_1: 3/12
+fps: 188.9701
+2_KCF_LinearHog, 21_car1_1: 4/12
+fps: 194.8391
+2_KCF_LinearHog, 21_car1_1: 5/12
+fps: 124.0561
+2_KCF_LinearHog, 21_car1_1: 6/12
+fps: 125.4536
+2_KCF_LinearHog, 21_car1_1: 7/12
+fps: 123.3864
+2_KCF_LinearHog, 21_car1_1: 8/12
+fps: 118.4167
+2_KCF_LinearHog, 21_car1_1: 9/12
+fps: 282.9353
+2_KCF_LinearHog, 21_car1_1: 10/12
+fps: 249.9656
+2_KCF_LinearHog, 21_car1_1: 11/12
+fps: 120.9517
+2_KCF_LinearHog, 21_car1_1: 12/12
+fps: 148.2043
+3_DSST, 21_car1_1: 1/12
+fps: 21.7461
+3_DSST, 21_car1_1: 2/12
+fps: 21.3863
+3_DSST, 21_car1_1: 3/12
+fps: 21.1089
+3_DSST, 21_car1_1: 4/12
+fps: 21.6981
+3_DSST, 21_car1_1: 5/12
+fps: 23.8312
+3_DSST, 21_car1_1: 6/12
+fps: 23.9527
+3_DSST, 21_car1_1: 7/12
+fps: 23.1191
+3_DSST, 21_car1_1: 8/12
+fps: 22.706
+3_DSST, 21_car1_1: 9/12
+fps: 32.5063
+3_DSST, 21_car1_1: 10/12
+fps: 29.5048
+3_DSST, 21_car1_1: 11/12
+fps: 20.4184
+3_DSST, 21_car1_1: 12/12
+fps: 12.2608
+4_KCF_GaussHog, 21_car1_1: 1/12
+fps: 95.1437
+4_KCF_GaussHog, 21_car1_1: 2/12
+fps: 96.7644
+4_KCF_GaussHog, 21_car1_1: 3/12
+fps: 92.5196
+4_KCF_GaussHog, 21_car1_1: 4/12
+fps: 98.2762
+4_KCF_GaussHog, 21_car1_1: 5/12
+fps: 63.3683
+4_KCF_GaussHog, 21_car1_1: 6/12
+fps: 64.3361
+4_KCF_GaussHog, 21_car1_1: 7/12
+fps: 64.3816
+4_KCF_GaussHog, 21_car1_1: 8/12
+fps: 64.1268
+4_KCF_GaussHog, 21_car1_1: 9/12
+fps: 149.1736
+4_KCF_GaussHog, 21_car1_1: 10/12
+fps: 127.7667
+4_KCF_GaussHog, 21_car1_1: 11/12
+fps: 59.0277
+4_KCF_GaussHog, 21_car1_1: 12/12
+fps: 76.9734
+5_KCF_LinearGray, 21_car1_1: 1/12
+fps: 230.3738
+5_KCF_LinearGray, 21_car1_1: 2/12
+fps: 234.6155
+5_KCF_LinearGray, 21_car1_1: 3/12
+fps: 214.4916
+5_KCF_LinearGray, 21_car1_1: 4/12
+fps: 229.1904
+5_KCF_LinearGray, 21_car1_1: 5/12
+fps: 263.3473
+5_KCF_LinearGray, 21_car1_1: 6/12
+fps: 274.9687
+5_KCF_LinearGray, 21_car1_1: 7/12
+fps: 261.7904
+5_KCF_LinearGray, 21_car1_1: 8/12
+fps: 260.7895
+5_KCF_LinearGray, 21_car1_1: 9/12
+fps: 297.1894
+5_KCF_LinearGray, 21_car1_1: 10/12
+fps: 375.7245
+5_KCF_LinearGray, 21_car1_1: 11/12
+fps: 263.5261
+5_KCF_LinearGray, 21_car1_1: 12/12
+fps: 162.2676
+6_SAMF, 21_car1_1: 1/12
+fps: 7.3597
+6_SAMF, 21_car1_1: 2/12
+fps: 7.7066
+6_SAMF, 21_car1_1: 3/12
+fps: 7.9042
+6_SAMF, 21_car1_1: 4/12
+fps: 7.8866
+6_SAMF, 21_car1_1: 5/12
+fps: 6.0871
+6_SAMF, 21_car1_1: 6/12
+fps: 5.9714
+6_SAMF, 21_car1_1: 7/12
+fps: 6.1506
+6_SAMF, 21_car1_1: 8/12
+fps: 6.1701
+6_SAMF, 21_car1_1: 9/12
+fps: 10.1891
+6_SAMF, 21_car1_1: 10/12
+fps: 9.2183
+6_SAMF, 21_car1_1: 11/12
+fps: 6.169
+6_SAMF, 21_car1_1: 12/12
+fps: 6.7364
+7_SRDCF, 21_car1_1: 1/12
+fps: 7.1216
+7_SRDCF, 21_car1_1: 2/12
+fps: 7.1656
+7_SRDCF, 21_car1_1: 3/12
+fps: 7.2244
+7_SRDCF, 21_car1_1: 4/12
+fps: 7.2665
+7_SRDCF, 21_car1_1: 5/12
+fps: 7.1665
+7_SRDCF, 21_car1_1: 6/12
+fps: 7.2291
+7_SRDCF, 21_car1_1: 7/12
+fps: 7.1978
+7_SRDCF, 21_car1_1: 8/12
+fps: 7.2107
+7_SRDCF, 21_car1_1: 9/12
+fps: 7.3094
+7_SRDCF, 21_car1_1: 10/12
+fps: 7.2906
+7_SRDCF, 21_car1_1: 11/12
+fps: 7.2208
+7_SRDCF, 21_car1_1: 12/12
+fps: 7.1477
+1_CSK, 22_car1_2: 1/12
+fps: 731.0819
+1_CSK, 22_car1_2: 2/12
+fps: 838.7537
+1_CSK, 22_car1_2: 3/12
+fps: 888.6889
+1_CSK, 22_car1_2: 4/12
+fps: 858.2868
+1_CSK, 22_car1_2: 5/12
+fps: 549.508
+1_CSK, 22_car1_2: 6/12
+fps: 553.8144
+1_CSK, 22_car1_2: 7/12
+fps: 535.3803
+1_CSK, 22_car1_2: 8/12
+fps: 536.4978
+1_CSK, 22_car1_2: 9/12
+fps: 1477.3437
+1_CSK, 22_car1_2: 10/12
+fps: 1169.4861
+1_CSK, 22_car1_2: 11/12
+fps: 573.3922
+1_CSK, 22_car1_2: 12/12
+fps: 368.7851
+2_KCF_LinearHog, 22_car1_2: 1/12
+fps: 605.8031
+2_KCF_LinearHog, 22_car1_2: 2/12
+fps: 615.6883
+2_KCF_LinearHog, 22_car1_2: 3/12
+fps: 594.5626
+2_KCF_LinearHog, 22_car1_2: 4/12
+fps: 624.2886
+2_KCF_LinearHog, 22_car1_2: 5/12
+fps: 568.3254
+2_KCF_LinearHog, 22_car1_2: 6/12
+fps: 568.3755
+2_KCF_LinearHog, 22_car1_2: 7/12
+fps: 573.1577
+2_KCF_LinearHog, 22_car1_2: 8/12
+fps: 578.6663
+2_KCF_LinearHog, 22_car1_2: 9/12
+fps: 994.9967
+2_KCF_LinearHog, 22_car1_2: 10/12
+fps: 798.2836
+2_KCF_LinearHog, 22_car1_2: 11/12
+fps: 582.7618
+2_KCF_LinearHog, 22_car1_2: 12/12
+fps: 478.3131
+3_DSST, 22_car1_2: 1/12
+fps: 88.7067
+3_DSST, 22_car1_2: 2/12
+fps: 87.6985
+3_DSST, 22_car1_2: 3/12
+fps: 88.0615
+3_DSST, 22_car1_2: 4/12
+fps: 90.2388
+3_DSST, 22_car1_2: 5/12
+fps: 79.4229
+3_DSST, 22_car1_2: 6/12
+fps: 79.8878
+3_DSST, 22_car1_2: 7/12
+fps: 79.2206
+3_DSST, 22_car1_2: 8/12
+fps: 79.2556
+3_DSST, 22_car1_2: 9/12
+fps: 114.9532
+3_DSST, 22_car1_2: 10/12
+fps: 105.3106
+3_DSST, 22_car1_2: 11/12
+fps: 80.0557
+3_DSST, 22_car1_2: 12/12
+fps: 63.1813
+4_KCF_GaussHog, 22_car1_2: 1/12
+fps: 335.58
+4_KCF_GaussHog, 22_car1_2: 2/12
+fps: 332.671
+4_KCF_GaussHog, 22_car1_2: 3/12
+fps: 334.58
+4_KCF_GaussHog, 22_car1_2: 4/12
+fps: 334.9528
+4_KCF_GaussHog, 22_car1_2: 5/12
+fps: 313.1389
+4_KCF_GaussHog, 22_car1_2: 6/12
+fps: 314.0715
+4_KCF_GaussHog, 22_car1_2: 7/12
+fps: 313.886
+4_KCF_GaussHog, 22_car1_2: 8/12
+fps: 312.3305
+4_KCF_GaussHog, 22_car1_2: 9/12
+fps: 547.3184
+4_KCF_GaussHog, 22_car1_2: 10/12
+fps: 443.8627
+4_KCF_GaussHog, 22_car1_2: 11/12
+fps: 311.4872
+4_KCF_GaussHog, 22_car1_2: 12/12
+fps: 260.5381
+5_KCF_LinearGray, 22_car1_2: 1/12
+fps: 1127.7857
+5_KCF_LinearGray, 22_car1_2: 2/12
+fps: 1118.9978
+5_KCF_LinearGray, 22_car1_2: 3/12
+fps: 1109.4272
+5_KCF_LinearGray, 22_car1_2: 4/12
+fps: 1112.7634
+5_KCF_LinearGray, 22_car1_2: 5/12
+fps: 915.1374
+5_KCF_LinearGray, 22_car1_2: 6/12
+fps: 901.4102
+5_KCF_LinearGray, 22_car1_2: 7/12
+fps: 922.1542
+5_KCF_LinearGray, 22_car1_2: 8/12
+fps: 914.2845
+5_KCF_LinearGray, 22_car1_2: 9/12
+fps: 1231.8385
+5_KCF_LinearGray, 22_car1_2: 10/12
+fps: 1165.4888
+5_KCF_LinearGray, 22_car1_2: 11/12
+fps: 888.5386
+5_KCF_LinearGray, 22_car1_2: 12/12
+fps: 750.3968
+6_SAMF, 22_car1_2: 1/12
+fps: 14.6803
+6_SAMF, 22_car1_2: 2/12
+fps: 14.5816
+6_SAMF, 22_car1_2: 3/12
+fps: 14.5451
+6_SAMF, 22_car1_2: 4/12
+fps: 14.615
+6_SAMF, 22_car1_2: 5/12
+fps: 13.9859
+6_SAMF, 22_car1_2: 6/12
+fps: 13.9473
+6_SAMF, 22_car1_2: 7/12
+fps: 13.9692
+6_SAMF, 22_car1_2: 8/12
+fps: 14.0221
+6_SAMF, 22_car1_2: 9/12
+fps: 16.9832
+6_SAMF, 22_car1_2: 10/12
+fps: 16.0048
+6_SAMF, 22_car1_2: 11/12
+fps: 13.9789
+6_SAMF, 22_car1_2: 12/12
+fps: 14.1396
+7_SRDCF, 22_car1_2: 1/12
+fps: 22.9402
+7_SRDCF, 22_car1_2: 2/12
+fps: 22.7872
+7_SRDCF, 22_car1_2: 3/12
+fps: 22.9318
+7_SRDCF, 22_car1_2: 4/12
+fps: 23.0656
+7_SRDCF, 22_car1_2: 5/12
+fps: 16.5487
+7_SRDCF, 22_car1_2: 6/12
+fps: 16.4178
+7_SRDCF, 22_car1_2: 7/12
+fps: 16.6418
+7_SRDCF, 22_car1_2: 8/12
+fps: 16.6284
+7_SRDCF, 22_car1_2: 9/12
+fps: 21.5363
+7_SRDCF, 22_car1_2: 10/12
+fps: 16.1239
+7_SRDCF, 22_car1_2: 11/12
+fps: 16.7146
+7_SRDCF, 22_car1_2: 12/12
+fps: 15.706
+1_CSK, 23_car1_3: 1/12
+fps: 652.3038
+1_CSK, 23_car1_3: 2/12
+fps: 730.3549
+1_CSK, 23_car1_3: 3/12
+fps: 763.6878
+1_CSK, 23_car1_3: 4/12
+fps: 730.664
+1_CSK, 23_car1_3: 5/12
+fps: 451.3505
+1_CSK, 23_car1_3: 6/12
+fps: 454.7227
+1_CSK, 23_car1_3: 7/12
+fps: 477.1762
+1_CSK, 23_car1_3: 8/12
+fps: 461.4239
+1_CSK, 23_car1_3: 9/12
+fps: 1176.2181
+1_CSK, 23_car1_3: 10/12
+fps: 967.9636
+1_CSK, 23_car1_3: 11/12
+fps: 463.2161
+1_CSK, 23_car1_3: 12/12
+fps: 636.6294
+2_KCF_LinearHog, 23_car1_3: 1/12
+fps: 694.1777
+2_KCF_LinearHog, 23_car1_3: 2/12
+fps: 722.4632
+2_KCF_LinearHog, 23_car1_3: 3/12
+fps: 726.024
+2_KCF_LinearHog, 23_car1_3: 4/12
+fps: 709.6971
+2_KCF_LinearHog, 23_car1_3: 5/12
+fps: 581.143
+2_KCF_LinearHog, 23_car1_3: 6/12
+fps: 598.0658
+2_KCF_LinearHog, 23_car1_3: 7/12
+fps: 580.2588
+2_KCF_LinearHog, 23_car1_3: 8/12
+fps: 573.7327
+2_KCF_LinearHog, 23_car1_3: 9/12
+fps: 945.7295
+2_KCF_LinearHog, 23_car1_3: 10/12
+fps: 800.9007
+2_KCF_LinearHog, 23_car1_3: 11/12
+fps: 578.8917
+2_KCF_LinearHog, 23_car1_3: 12/12
+fps: 588.8604
+3_DSST, 23_car1_3: 1/12
+fps: 89.611
+3_DSST, 23_car1_3: 2/12
+fps: 89.9676
+3_DSST, 23_car1_3: 3/12
+fps: 91.653
+3_DSST, 23_car1_3: 4/12
+fps: 89.7743
+3_DSST, 23_car1_3: 5/12
+fps: 76.7287
+3_DSST, 23_car1_3: 6/12
+fps: 76.5246
+3_DSST, 23_car1_3: 7/12
+fps: 75.6545
+3_DSST, 23_car1_3: 8/12
+fps: 76.3376
+3_DSST, 23_car1_3: 9/12
+fps: 108.0623
+3_DSST, 23_car1_3: 10/12
+fps: 98.4085
+3_DSST, 23_car1_3: 11/12
+fps: 76.9208
+3_DSST, 23_car1_3: 12/12
+fps: 78.6214
+4_KCF_GaussHog, 23_car1_3: 1/12
+fps: 411.7453
+4_KCF_GaussHog, 23_car1_3: 2/12
+fps: 417.9332
+4_KCF_GaussHog, 23_car1_3: 3/12
+fps: 405.368
+4_KCF_GaussHog, 23_car1_3: 4/12
+fps: 416.4497
+4_KCF_GaussHog, 23_car1_3: 5/12
+fps: 313.1456
+4_KCF_GaussHog, 23_car1_3: 6/12
+fps: 309.5717
+4_KCF_GaussHog, 23_car1_3: 7/12
+fps: 307.4183
+4_KCF_GaussHog, 23_car1_3: 8/12
+fps: 311.0126
+4_KCF_GaussHog, 23_car1_3: 9/12
+fps: 506.9195
+4_KCF_GaussHog, 23_car1_3: 10/12
+fps: 483.5718
+4_KCF_GaussHog, 23_car1_3: 11/12
+fps: 314.8277
+4_KCF_GaussHog, 23_car1_3: 12/12
+fps: 335.7382
+5_KCF_LinearGray, 23_car1_3: 1/12
+fps: 750.9559
+5_KCF_LinearGray, 23_car1_3: 2/12
+fps: 750.3963
+5_KCF_LinearGray, 23_car1_3: 3/12
+fps: 737.9493
+5_KCF_LinearGray, 23_car1_3: 4/12
+fps: 758.9004
+5_KCF_LinearGray, 23_car1_3: 5/12
+fps: 909.3456
+5_KCF_LinearGray, 23_car1_3: 6/12
+fps: 934.1834
+5_KCF_LinearGray, 23_car1_3: 7/12
+fps: 924.7709
+5_KCF_LinearGray, 23_car1_3: 8/12
+fps: 902.3038
+5_KCF_LinearGray, 23_car1_3: 9/12
+fps: 1269.8742
+5_KCF_LinearGray, 23_car1_3: 10/12
+fps: 745.0259
+5_KCF_LinearGray, 23_car1_3: 11/12
+fps: 922.488
+5_KCF_LinearGray, 23_car1_3: 12/12
+fps: 804.6692
+6_SAMF, 23_car1_3: 1/12
+fps: 15.4462
+6_SAMF, 23_car1_3: 2/12
+fps: 15.3382
+6_SAMF, 23_car1_3: 3/12
+fps: 15.2386
+6_SAMF, 23_car1_3: 4/12
+fps: 15.2322
+6_SAMF, 23_car1_3: 5/12
+fps: 14.1388
+6_SAMF, 23_car1_3: 6/12
+fps: 14.1076
+6_SAMF, 23_car1_3: 7/12
+fps: 14.1117
+6_SAMF, 23_car1_3: 8/12
+fps: 14.0644
+6_SAMF, 23_car1_3: 9/12
+fps: 16.8879
+6_SAMF, 23_car1_3: 10/12
+fps: 16.4124
+6_SAMF, 23_car1_3: 11/12
+fps: 14.1575
+6_SAMF, 23_car1_3: 12/12
+fps: 14.4222
+7_SRDCF, 23_car1_3: 1/12
+fps: 20.2749
+7_SRDCF, 23_car1_3: 2/12
+fps: 21.8844
+7_SRDCF, 23_car1_3: 3/12
+fps: 20.5015
+7_SRDCF, 23_car1_3: 4/12
+fps: 20.2704
+7_SRDCF, 23_car1_3: 5/12
+fps: 18.2146
+7_SRDCF, 23_car1_3: 6/12
+fps: 19.0942
+7_SRDCF, 23_car1_3: 7/12
+fps: 17.829
+7_SRDCF, 23_car1_3: 8/12
+fps: 18.4732
+7_SRDCF, 23_car1_3: 9/12
+fps: 17.1797
+7_SRDCF, 23_car1_3: 10/12
+fps: 15.9349
+7_SRDCF, 23_car1_3: 11/12
+fps: 17.9537
+7_SRDCF, 23_car1_3: 12/12
+fps: 15.1666
+1_CSK, 24_car2: 1/12
+fps: 1048.7398
+1_CSK, 24_car2: 2/12
+fps: 1152.4235
+1_CSK, 24_car2: 3/12
+fps: 1205.644
+1_CSK, 24_car2: 4/12
+fps: 1157.0445
+1_CSK, 24_car2: 5/12
+fps: 847.0946
+1_CSK, 24_car2: 6/12
+fps: 888.3694
+1_CSK, 24_car2: 7/12
+fps: 883.4466
+1_CSK, 24_car2: 8/12
+fps: 859.8049
+1_CSK, 24_car2: 9/12
+fps: 1194.9679
+1_CSK, 24_car2: 10/12
+fps: 1365.163
+1_CSK, 24_car2: 11/12
+fps: 852.0547
+1_CSK, 24_car2: 12/12
+fps: 580.1024
+2_KCF_LinearHog, 24_car2: 1/12
+fps: 790.0543
+2_KCF_LinearHog, 24_car2: 2/12
+fps: 815.6642
+2_KCF_LinearHog, 24_car2: 3/12
+fps: 794.9791
+2_KCF_LinearHog, 24_car2: 4/12
+fps: 823.847
+2_KCF_LinearHog, 24_car2: 5/12
+fps: 669.6678
+2_KCF_LinearHog, 24_car2: 6/12
+fps: 680.6868
+2_KCF_LinearHog, 24_car2: 7/12
+fps: 670.0125
+2_KCF_LinearHog, 24_car2: 8/12
+fps: 696.0746
+2_KCF_LinearHog, 24_car2: 9/12
+fps: 962.3798
+2_KCF_LinearHog, 24_car2: 10/12
+fps: 952.2938
+2_KCF_LinearHog, 24_car2: 11/12
+fps: 676.6569
+2_KCF_LinearHog, 24_car2: 12/12
+fps: 637.7065
+3_DSST, 24_car2: 1/12
+fps: 102.6923
+3_DSST, 24_car2: 2/12
+fps: 104.8663
+3_DSST, 24_car2: 3/12
+fps: 103.9799
+3_DSST, 24_car2: 4/12
+fps: 105.666
+3_DSST, 24_car2: 5/12
+fps: 90.2319
+3_DSST, 24_car2: 6/12
+fps: 88.3433
+3_DSST, 24_car2: 7/12
+fps: 91.2957
+3_DSST, 24_car2: 8/12
+fps: 86.1426
+3_DSST, 24_car2: 9/12
+fps: 118.8413
+3_DSST, 24_car2: 10/12
+fps: 108.7092
+3_DSST, 24_car2: 11/12
+fps: 91.4009
+3_DSST, 24_car2: 12/12
+fps: 82.5613
+4_KCF_GaussHog, 24_car2: 1/12
+fps: 465.2383
+4_KCF_GaussHog, 24_car2: 2/12
+fps: 459.6111
+4_KCF_GaussHog, 24_car2: 3/12
+fps: 470.2564
+4_KCF_GaussHog, 24_car2: 4/12
+fps: 458.4954
+4_KCF_GaussHog, 24_car2: 5/12
+fps: 403.7202
+4_KCF_GaussHog, 24_car2: 6/12
+fps: 388.3021
+4_KCF_GaussHog, 24_car2: 7/12
+fps: 399.5482
+4_KCF_GaussHog, 24_car2: 8/12
+fps: 396.4713
+4_KCF_GaussHog, 24_car2: 9/12
+fps: 558.433
+4_KCF_GaussHog, 24_car2: 10/12
+fps: 523.5733
+4_KCF_GaussHog, 24_car2: 11/12
+fps: 402.3586
+4_KCF_GaussHog, 24_car2: 12/12
+fps: 363.8359
+5_KCF_LinearGray, 24_car2: 1/12
+fps: 1287.5219
+5_KCF_LinearGray, 24_car2: 2/12
+fps: 1302.2605
+5_KCF_LinearGray, 24_car2: 3/12
+fps: 1298.0211
+5_KCF_LinearGray, 24_car2: 4/12
+fps: 1332.8544
+5_KCF_LinearGray, 24_car2: 5/12
+fps: 1001.3166
+5_KCF_LinearGray, 24_car2: 6/12
+fps: 1003.348
+5_KCF_LinearGray, 24_car2: 7/12
+fps: 1024.4042
+5_KCF_LinearGray, 24_car2: 8/12
+fps: 1025.169
+5_KCF_LinearGray, 24_car2: 9/12
+fps: 1524.8741
+5_KCF_LinearGray, 24_car2: 10/12
+fps: 1148.9224
+5_KCF_LinearGray, 24_car2: 11/12
+fps: 1002.7273
+5_KCF_LinearGray, 24_car2: 12/12
+fps: 619.5055
+6_SAMF, 24_car2: 1/12
+fps: 16.2861
+6_SAMF, 24_car2: 2/12
+fps: 16.2508
+6_SAMF, 24_car2: 3/12
+fps: 16.226
+6_SAMF, 24_car2: 4/12
+fps: 16.2017
+6_SAMF, 24_car2: 5/12
+fps: 15.2081
+6_SAMF, 24_car2: 6/12
+fps: 15.1216
+6_SAMF, 24_car2: 7/12
+fps: 15.0503
+6_SAMF, 24_car2: 8/12
+fps: 15.0771
+6_SAMF, 24_car2: 9/12
+fps: 17.067
+6_SAMF, 24_car2: 10/12
+fps: 16.8936
+6_SAMF, 24_car2: 11/12
+fps: 15.0945
+6_SAMF, 24_car2: 12/12
+fps: 14.7211
+7_SRDCF, 24_car2: 1/12
+fps: 14.577
+7_SRDCF, 24_car2: 2/12
+fps: 14.474
+7_SRDCF, 24_car2: 3/12
+fps: 14.4488
+7_SRDCF, 24_car2: 4/12
+fps: 14.6678
+7_SRDCF, 24_car2: 5/12
+fps: 23.0093
+7_SRDCF, 24_car2: 6/12
+fps: 22.6723
+7_SRDCF, 24_car2: 7/12
+fps: 22.4491
+7_SRDCF, 24_car2: 8/12
+fps: 22.9033
+7_SRDCF, 24_car2: 9/12
+fps: 23.6996
+7_SRDCF, 24_car2: 10/12
+fps: 19.9105
+7_SRDCF, 24_car2: 11/12
+fps: 22.8612
+7_SRDCF, 24_car2: 12/12
+fps: 18.7826
+1_CSK, 25_car3: 1/12
+fps: 725.1748
+1_CSK, 25_car3: 2/12
+fps: 790.4094
+1_CSK, 25_car3: 3/12
+fps: 797.2504
+1_CSK, 25_car3: 4/12
+fps: 787.5684
+1_CSK, 25_car3: 5/12
+fps: 1040.0961
+1_CSK, 25_car3: 6/12
+fps: 1044.9295
+1_CSK, 25_car3: 7/12
+fps: 1057.5747
+1_CSK, 25_car3: 8/12
+fps: 1064.1423
+1_CSK, 25_car3: 9/12
+fps: 1704.2082
+1_CSK, 25_car3: 10/12
+fps: 933.9105
+1_CSK, 25_car3: 11/12
+fps: 1050.5853
+1_CSK, 25_car3: 12/12
+fps: 843.6223
+2_KCF_LinearHog, 25_car3: 1/12
+fps: 927.8037
+2_KCF_LinearHog, 25_car3: 2/12
+fps: 916.1467
+2_KCF_LinearHog, 25_car3: 3/12
+fps: 907.0599
+2_KCF_LinearHog, 25_car3: 4/12
+fps: 905.6332
+2_KCF_LinearHog, 25_car3: 5/12
+fps: 850.6363
+2_KCF_LinearHog, 25_car3: 6/12
+fps: 809.861
+2_KCF_LinearHog, 25_car3: 7/12
+fps: 824.0122
+2_KCF_LinearHog, 25_car3: 8/12
+fps: 836.3086
+2_KCF_LinearHog, 25_car3: 9/12
+fps: 1142.6115
+2_KCF_LinearHog, 25_car3: 10/12
+fps: 960.5895
+2_KCF_LinearHog, 25_car3: 11/12
+fps: 840.8596
+2_KCF_LinearHog, 25_car3: 12/12
+fps: 764.0303
+3_DSST, 25_car3: 1/12
+fps: 93.9332
+3_DSST, 25_car3: 2/12
+fps: 94.754
+3_DSST, 25_car3: 3/12
+fps: 94.1134
+3_DSST, 25_car3: 4/12
+fps: 93.7392
+3_DSST, 25_car3: 5/12
+fps: 100.6812
+3_DSST, 25_car3: 6/12
+fps: 100.5645
+3_DSST, 25_car3: 7/12
+fps: 100.3964
+3_DSST, 25_car3: 8/12
+fps: 99.1497
+3_DSST, 25_car3: 9/12
+fps: 131.5074
+3_DSST, 25_car3: 10/12
+fps: 106.7292
+3_DSST, 25_car3: 11/12
+fps: 100.8438
+3_DSST, 25_car3: 12/12
+fps: 91.5379
+4_KCF_GaussHog, 25_car3: 1/12
+fps: 487.9682
+4_KCF_GaussHog, 25_car3: 2/12
+fps: 493.5678
+4_KCF_GaussHog, 25_car3: 3/12
+fps: 490.2738
+4_KCF_GaussHog, 25_car3: 4/12
+fps: 489.3479
+4_KCF_GaussHog, 25_car3: 5/12
+fps: 462.5341
+4_KCF_GaussHog, 25_car3: 6/12
+fps: 450.5998
+4_KCF_GaussHog, 25_car3: 7/12
+fps: 461.7909
+4_KCF_GaussHog, 25_car3: 8/12
+fps: 456.8805
+4_KCF_GaussHog, 25_car3: 9/12
+fps: 646.2586
+4_KCF_GaussHog, 25_car3: 10/12
+fps: 518.473
+4_KCF_GaussHog, 25_car3: 11/12
+fps: 465.0857
+4_KCF_GaussHog, 25_car3: 12/12
+fps: 413.3532
+5_KCF_LinearGray, 25_car3: 1/12
+fps: 1429.8586
+5_KCF_LinearGray, 25_car3: 2/12
+fps: 1469.8958
+5_KCF_LinearGray, 25_car3: 3/12
+fps: 1405.795
+5_KCF_LinearGray, 25_car3: 4/12
+fps: 1468.4602
+5_KCF_LinearGray, 25_car3: 5/12
+fps: 1305.6349
+5_KCF_LinearGray, 25_car3: 6/12
+fps: 1311.4719
+5_KCF_LinearGray, 25_car3: 7/12
+fps: 1282.1729
+5_KCF_LinearGray, 25_car3: 8/12
+fps: 1262.5176
+5_KCF_LinearGray, 25_car3: 9/12
+fps: 1275.9567
+5_KCF_LinearGray, 25_car3: 10/12
+fps: 1411.1699
+5_KCF_LinearGray, 25_car3: 11/12
+fps: 1303.5988
+5_KCF_LinearGray, 25_car3: 12/12
+fps: 666.3965
+6_SAMF, 25_car3: 1/12
+fps: 16.6205
+6_SAMF, 25_car3: 2/12
+fps: 16.5337
+6_SAMF, 25_car3: 3/12
+fps: 16.4946
+6_SAMF, 25_car3: 4/12
+fps: 16.5222
+6_SAMF, 25_car3: 5/12
+fps: 15.9969
+6_SAMF, 25_car3: 6/12
+fps: 15.9905
+6_SAMF, 25_car3: 7/12
+fps: 15.952
+6_SAMF, 25_car3: 8/12
+fps: 16.004
+6_SAMF, 25_car3: 9/12
+fps: 17.4063
+6_SAMF, 25_car3: 10/12
+fps: 16.6385
+6_SAMF, 25_car3: 11/12
+fps: 15.8928
+6_SAMF, 25_car3: 12/12
+fps: 15.01
+7_SRDCF, 25_car3: 1/12
+fps: 17.5481
+7_SRDCF, 25_car3: 2/12
+fps: 17.7043
+7_SRDCF, 25_car3: 3/12
+fps: 17.5069
+7_SRDCF, 25_car3: 4/12
+fps: 17.5306
+7_SRDCF, 25_car3: 5/12
+fps: 24.327
+7_SRDCF, 25_car3: 6/12
+fps: 24.2468
+7_SRDCF, 25_car3: 7/12
+fps: 24.4222
+7_SRDCF, 25_car3: 8/12
+fps: 24.4789
+7_SRDCF, 25_car3: 9/12
+fps: 25.2192
+7_SRDCF, 25_car3: 10/12
+fps: 22.233
+7_SRDCF, 25_car3: 11/12
+fps: 24.3486
+7_SRDCF, 25_car3: 12/12
+fps: 19.5781
+1_CSK, 26_car4: 1/12
+fps: 685.0683
+1_CSK, 26_car4: 2/12
+fps: 753.6458
+1_CSK, 26_car4: 3/12
+fps: 726.5656
+1_CSK, 26_car4: 4/12
+fps: 735.989
+1_CSK, 26_car4: 5/12
+fps: 623.8321
+1_CSK, 26_car4: 6/12
+fps: 628.825
+1_CSK, 26_car4: 7/12
+fps: 606.6828
+1_CSK, 26_car4: 8/12
+fps: 659.0675
+1_CSK, 26_car4: 9/12
+fps: 1182.8086
+1_CSK, 26_car4: 10/12
+fps: 515.9515
+1_CSK, 26_car4: 11/12
+fps: 638.636
+1_CSK, 26_car4: 12/12
+fps: 529.0294
+2_KCF_LinearHog, 26_car4: 1/12
+fps: 643.9622
+2_KCF_LinearHog, 26_car4: 2/12
+fps: 636.4162
+2_KCF_LinearHog, 26_car4: 3/12
+fps: 602.3767
+2_KCF_LinearHog, 26_car4: 4/12
+fps: 587.0222
+2_KCF_LinearHog, 26_car4: 5/12
+fps: 534.4489
+2_KCF_LinearHog, 26_car4: 6/12
+fps: 493.8903
+2_KCF_LinearHog, 26_car4: 7/12
+fps: 467.065
+2_KCF_LinearHog, 26_car4: 8/12
+fps: 415.7247
+2_KCF_LinearHog, 26_car4: 9/12
+fps: 814.8888
+2_KCF_LinearHog, 26_car4: 10/12
+fps: 688.8569
+2_KCF_LinearHog, 26_car4: 11/12
+fps: 440.6657
+2_KCF_LinearHog, 26_car4: 12/12
+fps: 485.1891
+3_DSST, 26_car4: 1/12
+fps: 75.1643
+3_DSST, 26_car4: 2/12
+fps: 79.7273
+3_DSST, 26_car4: 3/12
+fps: 82.7786
+3_DSST, 26_car4: 4/12
+fps: 83.3397
+3_DSST, 26_car4: 5/12
+fps: 71.7378
+3_DSST, 26_car4: 6/12
+fps: 75.8512
+3_DSST, 26_car4: 7/12
+fps: 69.2067
+3_DSST, 26_car4: 8/12
+fps: 73.4191
+3_DSST, 26_car4: 9/12
+fps: 96.1985
+3_DSST, 26_car4: 10/12
+fps: 73.0458
+3_DSST, 26_car4: 11/12
+fps: 68.1328
+3_DSST, 26_car4: 12/12
+fps: 63.2872
+4_KCF_GaussHog, 26_car4: 1/12
+fps: 363.6723
+4_KCF_GaussHog, 26_car4: 2/12
+fps: 357.4897
+4_KCF_GaussHog, 26_car4: 3/12
+fps: 354.7867
+4_KCF_GaussHog, 26_car4: 4/12
+fps: 344.8477
+4_KCF_GaussHog, 26_car4: 5/12
+fps: 305.7002
+4_KCF_GaussHog, 26_car4: 6/12
+fps: 275.5924
+4_KCF_GaussHog, 26_car4: 7/12
+fps: 267.3551
+4_KCF_GaussHog, 26_car4: 8/12
+fps: 231.5097
+4_KCF_GaussHog, 26_car4: 9/12
+fps: 483.6976
+4_KCF_GaussHog, 26_car4: 10/12
+fps: 372.8166
+4_KCF_GaussHog, 26_car4: 11/12
+fps: 230.654
+4_KCF_GaussHog, 26_car4: 12/12
+fps: 270.256
+5_KCF_LinearGray, 26_car4: 1/12
+fps: 841.7145
+5_KCF_LinearGray, 26_car4: 2/12
+fps: 860.6348
+5_KCF_LinearGray, 26_car4: 3/12
+fps: 852.7052
+5_KCF_LinearGray, 26_car4: 4/12
+fps: 842.8005
+5_KCF_LinearGray, 26_car4: 5/12
+fps: 465.8162
+5_KCF_LinearGray, 26_car4: 6/12
+fps: 566.4985
+5_KCF_LinearGray, 26_car4: 7/12
+fps: 587.3529
+5_KCF_LinearGray, 26_car4: 8/12
+fps: 830.0358
+5_KCF_LinearGray, 26_car4: 9/12
+fps: 1276.8519
+5_KCF_LinearGray, 26_car4: 10/12
+fps: 842.9986
+5_KCF_LinearGray, 26_car4: 11/12
+fps: 863.4913
+5_KCF_LinearGray, 26_car4: 12/12
+fps: 747.8109
+6_SAMF, 26_car4: 1/12
+fps: 13.8578
+6_SAMF, 26_car4: 2/12
+fps: 13.7402
+6_SAMF, 26_car4: 3/12
+fps: 13.9489
+6_SAMF, 26_car4: 4/12
+fps: 14.5502
+6_SAMF, 26_car4: 5/12
+fps: 14.723
+6_SAMF, 26_car4: 6/12
+fps: 14.3582
+6_SAMF, 26_car4: 7/12
+fps: 14.4612
+6_SAMF, 26_car4: 8/12
+fps: 14.0369
+6_SAMF, 26_car4: 9/12
+fps: 16.3059
+6_SAMF, 26_car4: 10/12
+fps: 15.1964
+6_SAMF, 26_car4: 11/12
+fps: 13.9803
+6_SAMF, 26_car4: 12/12
+fps: 14.0036
+7_SRDCF, 26_car4: 1/12
+fps: 17.0341
+7_SRDCF, 26_car4: 2/12
+fps: 16.9953
+7_SRDCF, 26_car4: 3/12
+fps: 17.1183
+7_SRDCF, 26_car4: 4/12
+fps: 17.6636
+7_SRDCF, 26_car4: 5/12
+fps: 15.4225
+7_SRDCF, 26_car4: 6/12
+fps: 13.9563
+7_SRDCF, 26_car4: 7/12
+fps: 13.8718
+7_SRDCF, 26_car4: 8/12
+fps: 14.0009
+7_SRDCF, 26_car4: 9/12
+fps: 16.8999
+7_SRDCF, 26_car4: 10/12
+fps: 20.2454
+7_SRDCF, 26_car4: 11/12
+fps: 13.8431
+7_SRDCF, 26_car4: 12/12
+fps: 12.4775
+1_CSK, 27_car5: 1/12
+fps: 160.9658
+1_CSK, 27_car5: 2/12
+fps: 155.6009
+1_CSK, 27_car5: 3/12
+fps: 155.4787
+1_CSK, 27_car5: 4/12
+fps: 155.1298
+1_CSK, 27_car5: 5/12
+fps: 98.9008
+1_CSK, 27_car5: 6/12
+fps: 104.2861
+1_CSK, 27_car5: 7/12
+fps: 94.7529
+1_CSK, 27_car5: 8/12
+fps: 92.8107
+1_CSK, 27_car5: 9/12
+fps: 202.992
+1_CSK, 27_car5: 10/12
+fps: 190.0281
+1_CSK, 27_car5: 11/12
+fps: 99.1173
+1_CSK, 27_car5: 12/12
+fps: 104.6457
+2_KCF_LinearHog, 27_car5: 1/12
+fps: 134.9817
+2_KCF_LinearHog, 27_car5: 2/12
+fps: 143.7727
+2_KCF_LinearHog, 27_car5: 3/12
+fps: 141.0755
+2_KCF_LinearHog, 27_car5: 4/12
+fps: 139.0039
+2_KCF_LinearHog, 27_car5: 5/12
+fps: 93.1022
+2_KCF_LinearHog, 27_car5: 6/12
+fps: 93.4942
+2_KCF_LinearHog, 27_car5: 7/12
+fps: 87.9175
+2_KCF_LinearHog, 27_car5: 8/12
+fps: 94.485
+2_KCF_LinearHog, 27_car5: 9/12
+fps: 199.3131
+2_KCF_LinearHog, 27_car5: 10/12
+fps: 162.4205
+2_KCF_LinearHog, 27_car5: 11/12
+fps: 92.8587
+2_KCF_LinearHog, 27_car5: 12/12
+fps: 107.1404
+3_DSST, 27_car5: 1/12
+fps: 4.3102
+3_DSST, 27_car5: 2/12
+fps: 4.2288
+3_DSST, 27_car5: 3/12
+fps: 4.1958
+3_DSST, 27_car5: 4/12
+fps: 4.194
+3_DSST, 27_car5: 5/12
+fps: 3.6868
+3_DSST, 27_car5: 6/12
+fps: 3.6773
+3_DSST, 27_car5: 7/12
+fps: 3.6729
+3_DSST, 27_car5: 8/12
+fps: 3.6333
+3_DSST, 27_car5: 9/12
+fps: 6.4555
+3_DSST, 27_car5: 10/12
+fps: 5.5817
+3_DSST, 27_car5: 11/12
+fps: 3.6448
+3_DSST, 27_car5: 12/12
+fps: 2.1766
+4_KCF_GaussHog, 27_car5: 1/12
+fps: 74.2718
+4_KCF_GaussHog, 27_car5: 2/12
+fps: 75.7795
+4_KCF_GaussHog, 27_car5: 3/12
+fps: 74.6171
+4_KCF_GaussHog, 27_car5: 4/12
+fps: 75.502
+4_KCF_GaussHog, 27_car5: 5/12
+fps: 50.9108
+4_KCF_GaussHog, 27_car5: 6/12
+fps: 50.3899
+4_KCF_GaussHog, 27_car5: 7/12
+fps: 51.032
+4_KCF_GaussHog, 27_car5: 8/12
+fps: 50.813
+4_KCF_GaussHog, 27_car5: 9/12
+fps: 105.0339
+4_KCF_GaussHog, 27_car5: 10/12
+fps: 89.01
+4_KCF_GaussHog, 27_car5: 11/12
+fps: 50.2498
+4_KCF_GaussHog, 27_car5: 12/12
+fps: 60.3476
+5_KCF_LinearGray, 27_car5: 1/12
+fps: 217.6683
+5_KCF_LinearGray, 27_car5: 2/12
+fps: 224.83
+5_KCF_LinearGray, 27_car5: 3/12
+fps: 225.3348
+5_KCF_LinearGray, 27_car5: 4/12
+fps: 235.0902
+5_KCF_LinearGray, 27_car5: 5/12
+fps: 129.9341
+5_KCF_LinearGray, 27_car5: 6/12
+fps: 121.063
+5_KCF_LinearGray, 27_car5: 7/12
+fps: 130.0568
+5_KCF_LinearGray, 27_car5: 8/12
+fps: 128.8595
+5_KCF_LinearGray, 27_car5: 9/12
+fps: 348.1756
+5_KCF_LinearGray, 27_car5: 10/12
+fps: 273.3366
+5_KCF_LinearGray, 27_car5: 11/12
+fps: 126.772
+5_KCF_LinearGray, 27_car5: 12/12
+fps: 161.0657
+6_SAMF, 27_car5: 1/12
+fps: 7.9596
+6_SAMF, 27_car5: 2/12
+fps: 7.9216
+6_SAMF, 27_car5: 3/12
+fps: 7.8873
+6_SAMF, 27_car5: 4/12
+fps: 7.8825
+6_SAMF, 27_car5: 5/12
+fps: 6.5388
+6_SAMF, 27_car5: 6/12
+fps: 6.5202
+6_SAMF, 27_car5: 7/12
+fps: 6.6175
+6_SAMF, 27_car5: 8/12
+fps: 6.5388
+6_SAMF, 27_car5: 9/12
+fps: 10.5934
+6_SAMF, 27_car5: 10/12
+fps: 9.1266
+6_SAMF, 27_car5: 11/12
+fps: 6.5748
+6_SAMF, 27_car5: 12/12
+fps: 6.3688
+7_SRDCF, 27_car5: 1/12
+fps: 6.4305
+7_SRDCF, 27_car5: 2/12
+fps: 6.4749
+7_SRDCF, 27_car5: 3/12
+fps: 6.4063
+7_SRDCF, 27_car5: 4/12
+fps: 6.4144
+7_SRDCF, 27_car5: 5/12
+fps: 6.3179
+7_SRDCF, 27_car5: 6/12
+fps: 6.2798
+7_SRDCF, 27_car5: 7/12
+fps: 6.3171
+7_SRDCF, 27_car5: 8/12
+fps: 6.2541
+7_SRDCF, 27_car5: 9/12
+fps: 6.7583
+7_SRDCF, 27_car5: 10/12
+fps: 6.6199
+7_SRDCF, 27_car5: 11/12
+fps: 6.2138
+7_SRDCF, 27_car5: 12/12
+fps: 6.1056
+1_CSK, 28_car6_1: 1/12
+fps: 304.8798
+1_CSK, 28_car6_1: 2/12
+fps: 295.9238
+1_CSK, 28_car6_1: 3/12
+fps: 296.0296
+1_CSK, 28_car6_1: 4/12
+fps: 289.2769
+1_CSK, 28_car6_1: 5/12
+fps: 260.5175
+1_CSK, 28_car6_1: 6/12
+fps: 259.4129
+1_CSK, 28_car6_1: 7/12
+fps: 256.7524
+1_CSK, 28_car6_1: 8/12
+fps: 257.1458
+1_CSK, 28_car6_1: 9/12
+fps: 229.7047
+1_CSK, 28_car6_1: 10/12
+fps: 189.9785
+1_CSK, 28_car6_1: 11/12
+fps: 253.1386
+1_CSK, 28_car6_1: 12/12
+fps: 283.6818
+2_KCF_LinearHog, 28_car6_1: 1/12
+fps: 324.0971
+2_KCF_LinearHog, 28_car6_1: 2/12
+fps: 341.9497
+2_KCF_LinearHog, 28_car6_1: 3/12
+fps: 337.5409
+2_KCF_LinearHog, 28_car6_1: 4/12
+fps: 323.9413
+2_KCF_LinearHog, 28_car6_1: 5/12
+fps: 280.0821
+2_KCF_LinearHog, 28_car6_1: 6/12
+fps: 293.5756
+2_KCF_LinearHog, 28_car6_1: 7/12
+fps: 316.8318
+2_KCF_LinearHog, 28_car6_1: 8/12
+fps: 291.5009
+2_KCF_LinearHog, 28_car6_1: 9/12
+fps: 140.5699
+2_KCF_LinearHog, 28_car6_1: 10/12
+fps: 421.8035
+2_KCF_LinearHog, 28_car6_1: 11/12
+fps: 300.3207
+2_KCF_LinearHog, 28_car6_1: 12/12
+fps: 271.9303
+3_DSST, 28_car6_1: 1/12
+fps: 13.0079
+3_DSST, 28_car6_1: 2/12
+fps: 13.0043
+3_DSST, 28_car6_1: 3/12
+fps: 12.4881
+3_DSST, 28_car6_1: 4/12
+fps: 13.1942
+3_DSST, 28_car6_1: 5/12
+fps: 9.1044
+3_DSST, 28_car6_1: 6/12
+fps: 9.7466
+3_DSST, 28_car6_1: 7/12
+fps: 9.232
+3_DSST, 28_car6_1: 8/12
+fps: 9.8686
+3_DSST, 28_car6_1: 9/12
+fps: 18.9054
+3_DSST, 28_car6_1: 10/12
+fps: 13.0899
+3_DSST, 28_car6_1: 11/12
+fps: 9.6807
+3_DSST, 28_car6_1: 12/12
+fps: 7.6631
+4_KCF_GaussHog, 28_car6_1: 1/12
+fps: 167.0556
+4_KCF_GaussHog, 28_car6_1: 2/12
+fps: 171.0205
+4_KCF_GaussHog, 28_car6_1: 3/12
+fps: 163.9057
+4_KCF_GaussHog, 28_car6_1: 4/12
+fps: 169.4033
+4_KCF_GaussHog, 28_car6_1: 5/12
+fps: 161.8214
+4_KCF_GaussHog, 28_car6_1: 6/12
+fps: 158.8129
+4_KCF_GaussHog, 28_car6_1: 7/12
+fps: 165.0245
+4_KCF_GaussHog, 28_car6_1: 8/12
+fps: 161.2841
+4_KCF_GaussHog, 28_car6_1: 9/12
+fps: 77.1981
+4_KCF_GaussHog, 28_car6_1: 10/12
+fps: 221.3591
+4_KCF_GaussHog, 28_car6_1: 11/12
+fps: 163.0523
+4_KCF_GaussHog, 28_car6_1: 12/12
+fps: 151.19
+5_KCF_LinearGray, 28_car6_1: 1/12
+fps: 365.2893
+5_KCF_LinearGray, 28_car6_1: 2/12
+fps: 358.2107
+5_KCF_LinearGray, 28_car6_1: 3/12
+fps: 349.3664
+5_KCF_LinearGray, 28_car6_1: 4/12
+fps: 362.9932
+5_KCF_LinearGray, 28_car6_1: 5/12
+fps: 406.9361
+5_KCF_LinearGray, 28_car6_1: 6/12
+fps: 405.0701
+5_KCF_LinearGray, 28_car6_1: 7/12
+fps: 396.7976
+5_KCF_LinearGray, 28_car6_1: 8/12
+fps: 414.3626
+5_KCF_LinearGray, 28_car6_1: 9/12
+fps: 282.8176
+5_KCF_LinearGray, 28_car6_1: 10/12
+fps: 729.8122
+5_KCF_LinearGray, 28_car6_1: 11/12
+fps: 384.5313
+5_KCF_LinearGray, 28_car6_1: 12/12
+fps: 344.3848
+6_SAMF, 28_car6_1: 1/12
+fps: 16.1212
+6_SAMF, 28_car6_1: 2/12
+fps: 15.9277
+6_SAMF, 28_car6_1: 3/12
+fps: 15.8824
+6_SAMF, 28_car6_1: 4/12
+fps: 16.1035
+6_SAMF, 28_car6_1: 5/12
+fps: 14.447
+6_SAMF, 28_car6_1: 6/12
+fps: 14.6099
+6_SAMF, 28_car6_1: 7/12
+fps: 14.7499
+6_SAMF, 28_car6_1: 8/12
+fps: 14.52
+6_SAMF, 28_car6_1: 9/12
+fps: 6.697
+6_SAMF, 28_car6_1: 10/12
+fps: 18.6491
+6_SAMF, 28_car6_1: 11/12
+fps: 14.6652
+6_SAMF, 28_car6_1: 12/12
+fps: 13.7319
+7_SRDCF, 28_car6_1: 1/12
+fps: 6.0577
+7_SRDCF, 28_car6_1: 2/12
+fps: 6.1156
+7_SRDCF, 28_car6_1: 3/12
+fps: 6.1259
+7_SRDCF, 28_car6_1: 4/12
+fps: 6.1421
+7_SRDCF, 28_car6_1: 5/12
+fps: 5.9537
+7_SRDCF, 28_car6_1: 6/12
+fps: 5.9293
+7_SRDCF, 28_car6_1: 7/12
+fps: 5.9455
+7_SRDCF, 28_car6_1: 8/12
+fps: 5.9479
+7_SRDCF, 28_car6_1: 9/12
+fps: 6.5407
+7_SRDCF, 28_car6_1: 10/12
+fps: 6.3179
+7_SRDCF, 28_car6_1: 11/12
+fps: 5.9883
+7_SRDCF, 28_car6_1: 12/12
+fps: 5.6881
+1_CSK, 29_car6_2: 1/12
+fps: 134.9205
+1_CSK, 29_car6_2: 2/12
+fps: 130.1752
+1_CSK, 29_car6_2: 3/12
+fps: 129.609
+1_CSK, 29_car6_2: 4/12
+fps: 129.7227
+1_CSK, 29_car6_2: 5/12
+fps: 94.4394
+1_CSK, 29_car6_2: 6/12
+fps: 95.4858
+1_CSK, 29_car6_2: 7/12
+fps: 91.2122
+1_CSK, 29_car6_2: 8/12
+fps: 96.6584
+1_CSK, 29_car6_2: 9/12
+fps: 271.9095
+1_CSK, 29_car6_2: 10/12
+fps: 174.379
+1_CSK, 29_car6_2: 11/12
+fps: 92.6197
+1_CSK, 29_car6_2: 12/12
+fps: 148.7143
+2_KCF_LinearHog, 29_car6_2: 1/12
+fps: 131.8639
+2_KCF_LinearHog, 29_car6_2: 2/12
+fps: 129.9582
+2_KCF_LinearHog, 29_car6_2: 3/12
+fps: 131.2419
+2_KCF_LinearHog, 29_car6_2: 4/12
+fps: 127.5522
+2_KCF_LinearHog, 29_car6_2: 5/12
+fps: 82.5856
+2_KCF_LinearHog, 29_car6_2: 6/12
+fps: 83.3696
+2_KCF_LinearHog, 29_car6_2: 7/12
+fps: 82.4745
+2_KCF_LinearHog, 29_car6_2: 8/12
+fps: 83.2057
+2_KCF_LinearHog, 29_car6_2: 9/12
+fps: 200.2928
+2_KCF_LinearHog, 29_car6_2: 10/12
+fps: 150.9305
+2_KCF_LinearHog, 29_car6_2: 11/12
+fps: 82.3596
+2_KCF_LinearHog, 29_car6_2: 12/12
+fps: 96.9149
+3_DSST, 29_car6_2: 1/12
+fps: 3.7384
+3_DSST, 29_car6_2: 2/12
+fps: 3.5527
+3_DSST, 29_car6_2: 3/12
+fps: 3.4347
+3_DSST, 29_car6_2: 4/12
+fps: 3.7346
+3_DSST, 29_car6_2: 5/12
+fps: 3.012
+3_DSST, 29_car6_2: 6/12
+fps: 3.0777
+3_DSST, 29_car6_2: 7/12
+fps: 2.8971
+3_DSST, 29_car6_2: 8/12
+fps: 3.0516
+3_DSST, 29_car6_2: 9/12
+fps: 7.2446
+3_DSST, 29_car6_2: 10/12
+fps: 5.8915
+3_DSST, 29_car6_2: 11/12
+fps: 2.9809
+3_DSST, 29_car6_2: 12/12
+fps: 3.0679
+4_KCF_GaussHog, 29_car6_2: 1/12
+fps: 77.2667
+4_KCF_GaussHog, 29_car6_2: 2/12
+fps: 77.4227
+4_KCF_GaussHog, 29_car6_2: 3/12
+fps: 77.8138
+4_KCF_GaussHog, 29_car6_2: 4/12
+fps: 77.323
+4_KCF_GaussHog, 29_car6_2: 5/12
+fps: 43.4493
+4_KCF_GaussHog, 29_car6_2: 6/12
+fps: 43.2012
+4_KCF_GaussHog, 29_car6_2: 7/12
+fps: 44.0094
+4_KCF_GaussHog, 29_car6_2: 8/12
+fps: 43.9373
+4_KCF_GaussHog, 29_car6_2: 9/12
+fps: 115.3122
+4_KCF_GaussHog, 29_car6_2: 10/12
+fps: 83.8513
+4_KCF_GaussHog, 29_car6_2: 11/12
+fps: 44.3641
+4_KCF_GaussHog, 29_car6_2: 12/12
+fps: 56.4416
+5_KCF_LinearGray, 29_car6_2: 1/12
+fps: 174.6335
+5_KCF_LinearGray, 29_car6_2: 2/12
+fps: 178.1828
+5_KCF_LinearGray, 29_car6_2: 3/12
+fps: 184.5851
+5_KCF_LinearGray, 29_car6_2: 4/12
+fps: 182.4972
+5_KCF_LinearGray, 29_car6_2: 5/12
+fps: 114.0653
+5_KCF_LinearGray, 29_car6_2: 6/12
+fps: 115.4584
+5_KCF_LinearGray, 29_car6_2: 7/12
+fps: 118.1429
+5_KCF_LinearGray, 29_car6_2: 8/12
+fps: 118.694
+5_KCF_LinearGray, 29_car6_2: 9/12
+fps: 259.7641
+5_KCF_LinearGray, 29_car6_2: 10/12
+fps: 164.554
+5_KCF_LinearGray, 29_car6_2: 11/12
+fps: 114.6763
+5_KCF_LinearGray, 29_car6_2: 12/12
+fps: 131.2152
+6_SAMF, 29_car6_2: 1/12
+fps: 7.822
+6_SAMF, 29_car6_2: 2/12
+fps: 7.8598
+6_SAMF, 29_car6_2: 3/12
+fps: 7.7834
+6_SAMF, 29_car6_2: 4/12
+fps: 7.8786
+6_SAMF, 29_car6_2: 5/12
+fps: 5.7321
+6_SAMF, 29_car6_2: 6/12
+fps: 5.6915
+6_SAMF, 29_car6_2: 7/12
+fps: 5.7465
+6_SAMF, 29_car6_2: 8/12
+fps: 5.7653
+6_SAMF, 29_car6_2: 9/12
+fps: 10.8466
+6_SAMF, 29_car6_2: 10/12
+fps: 8.5257
+6_SAMF, 29_car6_2: 11/12
+fps: 5.7596
+6_SAMF, 29_car6_2: 12/12
+fps: 5.8708
+7_SRDCF, 29_car6_2: 1/12
+fps: 5.0666
+7_SRDCF, 29_car6_2: 2/12
+fps: 4.8746
+7_SRDCF, 29_car6_2: 3/12
+fps: 5.1888
+7_SRDCF, 29_car6_2: 4/12
+fps: 4.8697
+7_SRDCF, 29_car6_2: 5/12
+fps: 5.052
+7_SRDCF, 29_car6_2: 6/12
+fps: 4.8524
+7_SRDCF, 29_car6_2: 7/12
+fps: 5.0685
+7_SRDCF, 29_car6_2: 8/12
+fps: 4.7337
+7_SRDCF, 29_car6_2: 9/12
+fps: 5.4407
+7_SRDCF, 29_car6_2: 10/12
+fps: 5.2523
+7_SRDCF, 29_car6_2: 11/12
+fps: 4.8735
+7_SRDCF, 29_car6_2: 12/12
+fps: 4.7984
+1_CSK, 30_car6_3: 1/12
+fps: 235.394
+1_CSK, 30_car6_3: 2/12
+fps: 226.5509
+1_CSK, 30_car6_3: 3/12
+fps: 232.0468
+1_CSK, 30_car6_3: 4/12
+fps: 227.6994
+1_CSK, 30_car6_3: 5/12
+fps: 183.8939
+1_CSK, 30_car6_3: 6/12
+fps: 180.6768
+1_CSK, 30_car6_3: 7/12
+fps: 180.7149
+1_CSK, 30_car6_3: 8/12
+fps: 184.587
+1_CSK, 30_car6_3: 9/12
+fps: 325.1888
+1_CSK, 30_car6_3: 10/12
+fps: 296.3013
+1_CSK, 30_car6_3: 11/12
+fps: 180.9141
+1_CSK, 30_car6_3: 12/12
+fps: 146.2756
+2_KCF_LinearHog, 30_car6_3: 1/12
+fps: 226.2591
+2_KCF_LinearHog, 30_car6_3: 2/12
+fps: 229.7239
+2_KCF_LinearHog, 30_car6_3: 3/12
+fps: 226.0559
+2_KCF_LinearHog, 30_car6_3: 4/12
+fps: 228.6022
+2_KCF_LinearHog, 30_car6_3: 5/12
+fps: 198.423
+2_KCF_LinearHog, 30_car6_3: 6/12
+fps: 202.469
+2_KCF_LinearHog, 30_car6_3: 7/12
+fps: 201.068
+2_KCF_LinearHog, 30_car6_3: 8/12
+fps: 200.8202
+2_KCF_LinearHog, 30_car6_3: 9/12
+fps: 342.1699
+2_KCF_LinearHog, 30_car6_3: 10/12
+fps: 229.7301
+2_KCF_LinearHog, 30_car6_3: 11/12
+fps: 202.7389
+2_KCF_LinearHog, 30_car6_3: 12/12
+fps: 179.7282
+3_DSST, 30_car6_3: 1/12
+fps: 5.8988
+3_DSST, 30_car6_3: 2/12
+fps: 5.84
+3_DSST, 30_car6_3: 3/12
+fps: 5.6799
+3_DSST, 30_car6_3: 4/12
+fps: 5.727
+3_DSST, 30_car6_3: 5/12
+fps: 6.5537
+3_DSST, 30_car6_3: 6/12
+fps: 6.4549
+3_DSST, 30_car6_3: 7/12
+fps: 5.7687
+3_DSST, 30_car6_3: 8/12
+fps: 5.991
+3_DSST, 30_car6_3: 9/12
+fps: 11.483
+3_DSST, 30_car6_3: 10/12
+fps: 10.2798
+3_DSST, 30_car6_3: 11/12
+fps: 6.6357
+3_DSST, 30_car6_3: 12/12
+fps: 4.0955
+4_KCF_GaussHog, 30_car6_3: 1/12
+fps: 121.0056
+4_KCF_GaussHog, 30_car6_3: 2/12
+fps: 120.3149
+4_KCF_GaussHog, 30_car6_3: 3/12
+fps: 120.3936
+4_KCF_GaussHog, 30_car6_3: 4/12
+fps: 121.22
+4_KCF_GaussHog, 30_car6_3: 5/12
+fps: 110.4838
+4_KCF_GaussHog, 30_car6_3: 6/12
+fps: 110.7312
+4_KCF_GaussHog, 30_car6_3: 7/12
+fps: 114.9404
+4_KCF_GaussHog, 30_car6_3: 8/12
+fps: 107.2356
+4_KCF_GaussHog, 30_car6_3: 9/12
+fps: 184.6053
+4_KCF_GaussHog, 30_car6_3: 10/12
+fps: 119.6941
+4_KCF_GaussHog, 30_car6_3: 11/12
+fps: 116.1701
+4_KCF_GaussHog, 30_car6_3: 12/12
+fps: 100.0239
+5_KCF_LinearGray, 30_car6_3: 1/12
+fps: 443.0927
+5_KCF_LinearGray, 30_car6_3: 2/12
+fps: 439.9808
+5_KCF_LinearGray, 30_car6_3: 3/12
+fps: 451.6763
+5_KCF_LinearGray, 30_car6_3: 4/12
+fps: 430.26
+5_KCF_LinearGray, 30_car6_3: 5/12
+fps: 383.543
+5_KCF_LinearGray, 30_car6_3: 6/12
+fps: 392.0336
+5_KCF_LinearGray, 30_car6_3: 7/12
+fps: 402.0795
+5_KCF_LinearGray, 30_car6_3: 8/12
+fps: 372.9536
+5_KCF_LinearGray, 30_car6_3: 9/12
+fps: 392.441
+5_KCF_LinearGray, 30_car6_3: 10/12
+fps: 338.9925
+5_KCF_LinearGray, 30_car6_3: 11/12
+fps: 380.9062
+5_KCF_LinearGray, 30_car6_3: 12/12
+fps: 197.8895
+6_SAMF, 30_car6_3: 1/12
+fps: 12.1609
+6_SAMF, 30_car6_3: 2/12
+fps: 11.0406
+6_SAMF, 30_car6_3: 3/12
+fps: 10.9004
+6_SAMF, 30_car6_3: 4/12
+fps: 11.3577
+6_SAMF, 30_car6_3: 5/12
+fps: 10.5069
+6_SAMF, 30_car6_3: 6/12
+fps: 10.9298
+6_SAMF, 30_car6_3: 7/12
+fps: 10.6519
+6_SAMF, 30_car6_3: 8/12
+fps: 10.5755
+6_SAMF, 30_car6_3: 9/12
+fps: 14.9987
+6_SAMF, 30_car6_3: 10/12
+fps: 11.5469
+6_SAMF, 30_car6_3: 11/12
+fps: 10.4587
+6_SAMF, 30_car6_3: 12/12
+fps: 9.4817
+7_SRDCF, 30_car6_3: 1/12
+fps: 6.9703
+7_SRDCF, 30_car6_3: 2/12
+fps: 6.6811
+7_SRDCF, 30_car6_3: 3/12
+fps: 6.4017
+7_SRDCF, 30_car6_3: 4/12
+fps: 6.7323
+7_SRDCF, 30_car6_3: 5/12
+fps: 6.7007
+7_SRDCF, 30_car6_3: 6/12
+fps: 6.9504
+7_SRDCF, 30_car6_3: 7/12
+fps: 6.8245
+7_SRDCF, 30_car6_3: 8/12
+fps: 6.6488
+7_SRDCF, 30_car6_3: 9/12
+fps: 7.22
+7_SRDCF, 30_car6_3: 10/12
+fps: 7.1387
+7_SRDCF, 30_car6_3: 11/12
+fps: 6.9054
+7_SRDCF, 30_car6_3: 12/12
+fps: 6.6665
+1_CSK, 31_car6_4: 1/12
+fps: 297.3685
+1_CSK, 31_car6_4: 2/12
+fps: 300.5217
+1_CSK, 31_car6_4: 3/12
+fps: 288.5388
+1_CSK, 31_car6_4: 4/12
+fps: 289.6428
+1_CSK, 31_car6_4: 5/12
+fps: 280.5756
+1_CSK, 31_car6_4: 6/12
+fps: 271.5193
+1_CSK, 31_car6_4: 7/12
+fps: 281.2922
+1_CSK, 31_car6_4: 8/12
+fps: 284.8592
+1_CSK, 31_car6_4: 9/12
+fps: 238.38
+1_CSK, 31_car6_4: 10/12
+fps: 204.4583
+1_CSK, 31_car6_4: 11/12
+fps: 291.124
+1_CSK, 31_car6_4: 12/12
+fps: 325.7726
+2_KCF_LinearHog, 31_car6_4: 1/12
+fps: 458.7917
+2_KCF_LinearHog, 31_car6_4: 2/12
+fps: 435.627
+2_KCF_LinearHog, 31_car6_4: 3/12
+fps: 435.6091
+2_KCF_LinearHog, 31_car6_4: 4/12
+fps: 452.4542
+2_KCF_LinearHog, 31_car6_4: 5/12
+fps: 335.663
+2_KCF_LinearHog, 31_car6_4: 6/12
+fps: 348.6159
+2_KCF_LinearHog, 31_car6_4: 7/12
+fps: 344.0363
+2_KCF_LinearHog, 31_car6_4: 8/12
+fps: 352.3239
+2_KCF_LinearHog, 31_car6_4: 9/12
+fps: 423.1393
+2_KCF_LinearHog, 31_car6_4: 10/12
+fps: 459.4271
+2_KCF_LinearHog, 31_car6_4: 11/12
+fps: 364.8044
+2_KCF_LinearHog, 31_car6_4: 12/12
+fps: 333.7906
+3_DSST, 31_car6_4: 1/12
+fps: 41.4215
+3_DSST, 31_car6_4: 2/12
+fps: 42.7561
+3_DSST, 31_car6_4: 3/12
+fps: 37.381
+3_DSST, 31_car6_4: 4/12
+fps: 42.7807
+3_DSST, 31_car6_4: 5/12
+fps: 34.0406
+3_DSST, 31_car6_4: 6/12
+fps: 34.6121
+3_DSST, 31_car6_4: 7/12
+fps: 36.0688
+3_DSST, 31_car6_4: 8/12
+fps: 34.6626
+3_DSST, 31_car6_4: 9/12
+fps: 45.1813
+3_DSST, 31_car6_4: 10/12
+fps: 40.3312
+3_DSST, 31_car6_4: 11/12
+fps: 36.1781
+3_DSST, 31_car6_4: 12/12
+fps: 34.1584
+4_KCF_GaussHog, 31_car6_4: 1/12
+fps: 249.9279
+4_KCF_GaussHog, 31_car6_4: 2/12
+fps: 240.3784
+4_KCF_GaussHog, 31_car6_4: 3/12
+fps: 251.3922
+4_KCF_GaussHog, 31_car6_4: 4/12
+fps: 265.2675
+4_KCF_GaussHog, 31_car6_4: 5/12
+fps: 191.6577
+4_KCF_GaussHog, 31_car6_4: 6/12
+fps: 194.2813
+4_KCF_GaussHog, 31_car6_4: 7/12
+fps: 190.7945
+4_KCF_GaussHog, 31_car6_4: 8/12
+fps: 195.8259
+4_KCF_GaussHog, 31_car6_4: 9/12
+fps: 232.7016
+4_KCF_GaussHog, 31_car6_4: 10/12
+fps: 270.9107
+4_KCF_GaussHog, 31_car6_4: 11/12
+fps: 194.5116
+4_KCF_GaussHog, 31_car6_4: 12/12
+fps: 183.6833
+5_KCF_LinearGray, 31_car6_4: 1/12
+fps: 479.7083
+5_KCF_LinearGray, 31_car6_4: 2/12
+fps: 477.4176
+5_KCF_LinearGray, 31_car6_4: 3/12
+fps: 488.0525
+5_KCF_LinearGray, 31_car6_4: 4/12
+fps: 487.9862
+5_KCF_LinearGray, 31_car6_4: 5/12
+fps: 451.3912
+5_KCF_LinearGray, 31_car6_4: 6/12
+fps: 434.9144
+5_KCF_LinearGray, 31_car6_4: 7/12
+fps: 493.635
+5_KCF_LinearGray, 31_car6_4: 8/12
+fps: 466.1091
+5_KCF_LinearGray, 31_car6_4: 9/12
+fps: 738.3647
+5_KCF_LinearGray, 31_car6_4: 10/12
+fps: 638.723
+5_KCF_LinearGray, 31_car6_4: 11/12
+fps: 453.885
+5_KCF_LinearGray, 31_car6_4: 12/12
+fps: 357.5071
+6_SAMF, 31_car6_4: 1/12
+fps: 12.7119
+6_SAMF, 31_car6_4: 2/12
+fps: 12.7796
+6_SAMF, 31_car6_4: 3/12
+fps: 12.742
+6_SAMF, 31_car6_4: 4/12
+fps: 12.7955
+6_SAMF, 31_car6_4: 5/12
+fps: 11.3784
+6_SAMF, 31_car6_4: 6/12
+fps: 11.1635
+6_SAMF, 31_car6_4: 7/12
+fps: 11.0431
+6_SAMF, 31_car6_4: 8/12
+fps: 10.6024
+6_SAMF, 31_car6_4: 9/12
+fps: 13.1104
+6_SAMF, 31_car6_4: 10/12
+fps: 13.1077
+6_SAMF, 31_car6_4: 11/12
+fps: 11.1025
+6_SAMF, 31_car6_4: 12/12
+fps: 10.3471
+7_SRDCF, 31_car6_4: 1/12
+fps: 7.5664
+7_SRDCF, 31_car6_4: 2/12
+fps: 7.5783
+7_SRDCF, 31_car6_4: 3/12
+fps: 7.5997
+7_SRDCF, 31_car6_4: 4/12
+fps: 7.9029
+7_SRDCF, 31_car6_4: 5/12
+fps: 6.6051
+7_SRDCF, 31_car6_4: 6/12
+fps: 6.6416
+7_SRDCF, 31_car6_4: 7/12
+fps: 6.5682
+7_SRDCF, 31_car6_4: 8/12
+fps: 6.5785
+7_SRDCF, 31_car6_4: 9/12
+fps: 12.1588
+7_SRDCF, 31_car6_4: 10/12
+fps: 9.6982
+7_SRDCF, 31_car6_4: 11/12
+fps: 6.5938
+7_SRDCF, 31_car6_4: 12/12
+fps: 6.4778
+1_CSK, 32_car6_5: 1/12
+fps: 196.2445
+1_CSK, 32_car6_5: 2/12
+fps: 183.5847
+1_CSK, 32_car6_5: 3/12
+fps: 183.3369
+1_CSK, 32_car6_5: 4/12
+fps: 185.6586
+1_CSK, 32_car6_5: 5/12
+fps: 254.3374
+1_CSK, 32_car6_5: 6/12
+fps: 247.7022
+1_CSK, 32_car6_5: 7/12
+fps: 247.4502
+1_CSK, 32_car6_5: 8/12
+fps: 251.5469
+1_CSK, 32_car6_5: 9/12
+fps: 230.2137
+1_CSK, 32_car6_5: 10/12
+fps: 208.2836
+1_CSK, 32_car6_5: 11/12
+fps: 251.4337
+1_CSK, 32_car6_5: 12/12
+fps: 338.3153
+2_KCF_LinearHog, 32_car6_5: 1/12
+fps: 255.4805
+2_KCF_LinearHog, 32_car6_5: 2/12
+fps: 254.7589
+2_KCF_LinearHog, 32_car6_5: 3/12
+fps: 265.8029
+2_KCF_LinearHog, 32_car6_5: 4/12
+fps: 255.6465
+2_KCF_LinearHog, 32_car6_5: 5/12
+fps: 260.8623
+2_KCF_LinearHog, 32_car6_5: 6/12
+fps: 264.5751
+2_KCF_LinearHog, 32_car6_5: 7/12
+fps: 268.9691
+2_KCF_LinearHog, 32_car6_5: 8/12
+fps: 263.7982
+2_KCF_LinearHog, 32_car6_5: 9/12
+fps: 126.4555
+2_KCF_LinearHog, 32_car6_5: 10/12
+fps: 358.5628
+2_KCF_LinearHog, 32_car6_5: 11/12
+fps: 263.7881
+2_KCF_LinearHog, 32_car6_5: 12/12
+fps: 247.2643
+3_DSST, 32_car6_5: 1/12
+fps: 9.598
+3_DSST, 32_car6_5: 2/12
+fps: 9.6936
+3_DSST, 32_car6_5: 3/12
+fps: 9.2744
+3_DSST, 32_car6_5: 4/12
+fps: 10.3139
+3_DSST, 32_car6_5: 5/12
+fps: 6.5251
+3_DSST, 32_car6_5: 6/12
+fps: 6.797
+3_DSST, 32_car6_5: 7/12
+fps: 7.3524
+3_DSST, 32_car6_5: 8/12
+fps: 7.3893
+3_DSST, 32_car6_5: 9/12
+fps: 18.4812
+3_DSST, 32_car6_5: 10/12
+fps: 9.8898
+3_DSST, 32_car6_5: 11/12
+fps: 5.2722
+3_DSST, 32_car6_5: 12/12
+fps: 5.4772
+4_KCF_GaussHog, 32_car6_5: 1/12
+fps: 108.8409
+4_KCF_GaussHog, 32_car6_5: 2/12
+fps: 118.0353
+4_KCF_GaussHog, 32_car6_5: 3/12
+fps: 111.8155
+4_KCF_GaussHog, 32_car6_5: 4/12
+fps: 115.016
+4_KCF_GaussHog, 32_car6_5: 5/12
+fps: 117.6604
+4_KCF_GaussHog, 32_car6_5: 6/12
+fps: 113.3864
+4_KCF_GaussHog, 32_car6_5: 7/12
+fps: 90.3505
+4_KCF_GaussHog, 32_car6_5: 8/12
+fps: 77.4961
+4_KCF_GaussHog, 32_car6_5: 9/12
+fps: 31.9819
+4_KCF_GaussHog, 32_car6_5: 10/12
+fps: 104.023
+4_KCF_GaussHog, 32_car6_5: 11/12
+fps: 76.8299
+4_KCF_GaussHog, 32_car6_5: 12/12
+fps: 80.132
+5_KCF_LinearGray, 32_car6_5: 1/12
+fps: 169.8102
+5_KCF_LinearGray, 32_car6_5: 2/12
+fps: 169.9808
+5_KCF_LinearGray, 32_car6_5: 3/12
+fps: 254.3287
+5_KCF_LinearGray, 32_car6_5: 4/12
+fps: 259.7595
+5_KCF_LinearGray, 32_car6_5: 5/12
+fps: 231.5154
+5_KCF_LinearGray, 32_car6_5: 6/12
+fps: 233.0892
+5_KCF_LinearGray, 32_car6_5: 7/12
+fps: 234.7849
+5_KCF_LinearGray, 32_car6_5: 8/12
+fps: 235.4518
+5_KCF_LinearGray, 32_car6_5: 9/12
+fps: 173.6566
+5_KCF_LinearGray, 32_car6_5: 10/12
+fps: 434.7001
+5_KCF_LinearGray, 32_car6_5: 11/12
+fps: 234.9705
+5_KCF_LinearGray, 32_car6_5: 12/12
+fps: 255.3042
+6_SAMF, 32_car6_5: 1/12
+fps: 9.8626
+6_SAMF, 32_car6_5: 2/12
+fps: 9.9458
+6_SAMF, 32_car6_5: 3/12
+fps: 9.8902
+6_SAMF, 32_car6_5: 4/12
+fps: 9.9025
+6_SAMF, 32_car6_5: 5/12
+fps: 9.5071
+6_SAMF, 32_car6_5: 6/12
+fps: 11.501
+6_SAMF, 32_car6_5: 7/12
+fps: 9.8388
+6_SAMF, 32_car6_5: 8/12
+fps: 12.1797
+6_SAMF, 32_car6_5: 9/12
+fps: 5.7976
+6_SAMF, 32_car6_5: 10/12
+fps: 17.8496
+6_SAMF, 32_car6_5: 11/12
+fps: 13.6625
+6_SAMF, 32_car6_5: 12/12
+fps: 13.2892
+7_SRDCF, 32_car6_5: 1/12
+fps: 7.1253
+7_SRDCF, 32_car6_5: 2/12
+fps: 6.8802
+7_SRDCF, 32_car6_5: 3/12
+fps: 6.3306
+7_SRDCF, 32_car6_5: 4/12
+fps: 7.3988
+7_SRDCF, 32_car6_5: 5/12
+fps: 6.5162
+7_SRDCF, 32_car6_5: 6/12
+fps: 6.6042
+7_SRDCF, 32_car6_5: 7/12
+fps: 6.5971
+7_SRDCF, 32_car6_5: 8/12
+fps: 6.8178
+7_SRDCF, 32_car6_5: 9/12
+fps: 7.3926
+7_SRDCF, 32_car6_5: 10/12
+fps: 7.3632
+7_SRDCF, 32_car6_5: 11/12
+fps: 6.9028
+7_SRDCF, 32_car6_5: 12/12
+fps: 6.8499
+1_CSK, 33_car7: 1/12
+fps: 496.3266
+1_CSK, 33_car7: 2/12
+fps: 527.4431
+1_CSK, 33_car7: 3/12
+fps: 524.7064
+1_CSK, 33_car7: 4/12
+fps: 518.7334
+1_CSK, 33_car7: 5/12
+fps: 481.1562
+1_CSK, 33_car7: 6/12
+fps: 487.9348
+1_CSK, 33_car7: 7/12
+fps: 486.8625
+1_CSK, 33_car7: 8/12
+fps: 485.6357
+1_CSK, 33_car7: 9/12
+fps: 808.5511
+1_CSK, 33_car7: 10/12
+fps: 649.0789
+1_CSK, 33_car7: 11/12
+fps: 491.5118
+1_CSK, 33_car7: 12/12
+fps: 234.1712
+2_KCF_LinearHog, 33_car7: 1/12
+fps: 492.5878
+2_KCF_LinearHog, 33_car7: 2/12
+fps: 496.8286
+2_KCF_LinearHog, 33_car7: 3/12
+fps: 510.6944
+2_KCF_LinearHog, 33_car7: 4/12
+fps: 505.8238
+2_KCF_LinearHog, 33_car7: 5/12
+fps: 465.6245
+2_KCF_LinearHog, 33_car7: 6/12
+fps: 468.4894
+2_KCF_LinearHog, 33_car7: 7/12
+fps: 466.7161
+2_KCF_LinearHog, 33_car7: 8/12
+fps: 471.4185
+2_KCF_LinearHog, 33_car7: 9/12
+fps: 623.575
+2_KCF_LinearHog, 33_car7: 10/12
+fps: 542.3976
+2_KCF_LinearHog, 33_car7: 11/12
+fps: 477.12
+2_KCF_LinearHog, 33_car7: 12/12
+fps: 404.4943
+3_DSST, 33_car7: 1/12
+fps: 59.7305
+3_DSST, 33_car7: 2/12
+fps: 64.3411
+3_DSST, 33_car7: 3/12
+fps: 57.4268
+3_DSST, 33_car7: 4/12
+fps: 68.09
+3_DSST, 33_car7: 5/12
+fps: 58.0399
+3_DSST, 33_car7: 6/12
+fps: 51.7322
+3_DSST, 33_car7: 7/12
+fps: 58.3949
+3_DSST, 33_car7: 8/12
+fps: 54.5258
+3_DSST, 33_car7: 9/12
+fps: 81.1042
+3_DSST, 33_car7: 10/12
+fps: 72.7311
+3_DSST, 33_car7: 11/12
+fps: 48.7957
+3_DSST, 33_car7: 12/12
+fps: 32.7362
+4_KCF_GaussHog, 33_car7: 1/12
+fps: 254.7016
+4_KCF_GaussHog, 33_car7: 2/12
+fps: 277.1856
+4_KCF_GaussHog, 33_car7: 3/12
+fps: 266.6937
+4_KCF_GaussHog, 33_car7: 4/12
+fps: 255.3964
+4_KCF_GaussHog, 33_car7: 5/12
+fps: 241.3256
+4_KCF_GaussHog, 33_car7: 6/12
+fps: 258.3805
+4_KCF_GaussHog, 33_car7: 7/12
+fps: 263.363
+4_KCF_GaussHog, 33_car7: 8/12
+fps: 262.2347
+4_KCF_GaussHog, 33_car7: 9/12
+fps: 327.7523
+4_KCF_GaussHog, 33_car7: 10/12
+fps: 273.4069
+4_KCF_GaussHog, 33_car7: 11/12
+fps: 247.5251
+4_KCF_GaussHog, 33_car7: 12/12
+fps: 212.6513
+5_KCF_LinearGray, 33_car7: 1/12
+fps: 781.92
+5_KCF_LinearGray, 33_car7: 2/12
+fps: 745.6067
+5_KCF_LinearGray, 33_car7: 3/12
+fps: 710.4823
+5_KCF_LinearGray, 33_car7: 4/12
+fps: 737.7739
+5_KCF_LinearGray, 33_car7: 5/12
+fps: 643.2414
+5_KCF_LinearGray, 33_car7: 6/12
+fps: 627.5877
+5_KCF_LinearGray, 33_car7: 7/12
+fps: 600.8102
+5_KCF_LinearGray, 33_car7: 8/12
+fps: 630.8867
+5_KCF_LinearGray, 33_car7: 9/12
+fps: 799.2597
+5_KCF_LinearGray, 33_car7: 10/12
+fps: 873.474
+5_KCF_LinearGray, 33_car7: 11/12
+fps: 640.1469
+5_KCF_LinearGray, 33_car7: 12/12
+fps: 711.6942
+6_SAMF, 33_car7: 1/12
+fps: 12.6046
+6_SAMF, 33_car7: 2/12
+fps: 11.039
+6_SAMF, 33_car7: 3/12
+fps: 11.1071
+6_SAMF, 33_car7: 4/12
+fps: 12.8676
+6_SAMF, 33_car7: 5/12
+fps: 12.4722
+6_SAMF, 33_car7: 6/12
+fps: 12.5486
+6_SAMF, 33_car7: 7/12
+fps: 12.6521
+6_SAMF, 33_car7: 8/12
+fps: 12.4474
+6_SAMF, 33_car7: 9/12
+fps: 12.498
+6_SAMF, 33_car7: 10/12
+fps: 12.4332
+6_SAMF, 33_car7: 11/12
+fps: 12.1892
+6_SAMF, 33_car7: 12/12
+fps: 11.213
+7_SRDCF, 33_car7: 1/12
+fps: 7.4905
+7_SRDCF, 33_car7: 2/12
+fps: 7.51
+7_SRDCF, 33_car7: 3/12
+fps: 8.4436
+7_SRDCF, 33_car7: 4/12
+fps: 8.3432
+7_SRDCF, 33_car7: 5/12
+fps: 7.4622
+7_SRDCF, 33_car7: 6/12
+fps: 7.9148
+7_SRDCF, 33_car7: 7/12
+fps: 7.7502
+7_SRDCF, 33_car7: 8/12
+fps: 7.7726
+7_SRDCF, 33_car7: 9/12
+fps: 16.2604
+7_SRDCF, 33_car7: 10/12
+fps: 12.479
+7_SRDCF, 33_car7: 11/12
+fps: 7.5689
+7_SRDCF, 33_car7: 12/12
+fps: 6.5788
+1_CSK, 34_car8_1: 1/12
+fps: 301.6513
+1_CSK, 34_car8_1: 2/12
+fps: 273.1657
+1_CSK, 34_car8_1: 3/12
+fps: 266.8942
+1_CSK, 34_car8_1: 4/12
+fps: 257.2069
+1_CSK, 34_car8_1: 5/12
+fps: 152.9967
+1_CSK, 34_car8_1: 6/12
+fps: 150.0161
+1_CSK, 34_car8_1: 7/12
+fps: 162.3086
+1_CSK, 34_car8_1: 8/12
+fps: 162.4237
+1_CSK, 34_car8_1: 9/12
+fps: 115.6295
+1_CSK, 34_car8_1: 10/12
+fps: 152.4883
+1_CSK, 34_car8_1: 11/12
+fps: 161.3586
+1_CSK, 34_car8_1: 12/12
+fps: 296.0534
+2_KCF_LinearHog, 34_car8_1: 1/12
+fps: 319.1072
+2_KCF_LinearHog, 34_car8_1: 2/12
+fps: 321.7291
+2_KCF_LinearHog, 34_car8_1: 3/12
+fps: 328.4672
+2_KCF_LinearHog, 34_car8_1: 4/12
+fps: 331.5282
+2_KCF_LinearHog, 34_car8_1: 5/12
+fps: 291.5479
+2_KCF_LinearHog, 34_car8_1: 6/12
+fps: 286.1438
+2_KCF_LinearHog, 34_car8_1: 7/12
+fps: 281.271
+2_KCF_LinearHog, 34_car8_1: 8/12
+fps: 267.2292
+2_KCF_LinearHog, 34_car8_1: 9/12
+fps: 149.1718
+2_KCF_LinearHog, 34_car8_1: 10/12
+fps: 105.3953
+2_KCF_LinearHog, 34_car8_1: 11/12
+fps: 256.1649
+2_KCF_LinearHog, 34_car8_1: 12/12
+fps: 187.133
+3_DSST, 34_car8_1: 1/12
+fps: 7.4067
+3_DSST, 34_car8_1: 2/12
+fps: 7.0438
+3_DSST, 34_car8_1: 3/12
+fps: 7.3318
+3_DSST, 34_car8_1: 4/12
+fps: 7.6731
+3_DSST, 34_car8_1: 5/12
+fps: 7.3389
+3_DSST, 34_car8_1: 6/12
+fps: 7.4237
+3_DSST, 34_car8_1: 7/12
+fps: 7.0162
+3_DSST, 34_car8_1: 8/12
+fps: 7.0368
+3_DSST, 34_car8_1: 9/12
+fps: 13.2614
+3_DSST, 34_car8_1: 10/12
+fps: 14.9908
+3_DSST, 34_car8_1: 11/12
+fps: 7.2545
+3_DSST, 34_car8_1: 12/12
+fps: 7.9758
+4_KCF_GaussHog, 34_car8_1: 1/12
+fps: 190.2719
+4_KCF_GaussHog, 34_car8_1: 2/12
+fps: 194.5137
+4_KCF_GaussHog, 34_car8_1: 3/12
+fps: 191.4372
+4_KCF_GaussHog, 34_car8_1: 4/12
+fps: 192.8027
+4_KCF_GaussHog, 34_car8_1: 5/12
+fps: 171.1981
+4_KCF_GaussHog, 34_car8_1: 6/12
+fps: 171.5408
+4_KCF_GaussHog, 34_car8_1: 7/12
+fps: 171.2662
+4_KCF_GaussHog, 34_car8_1: 8/12
+fps: 173.3331
+4_KCF_GaussHog, 34_car8_1: 9/12
+fps: 97.7728
+4_KCF_GaussHog, 34_car8_1: 10/12
+fps: 68.1613
+4_KCF_GaussHog, 34_car8_1: 11/12
+fps: 172.3296
+4_KCF_GaussHog, 34_car8_1: 12/12
+fps: 121.3796
+5_KCF_LinearGray, 34_car8_1: 1/12
+fps: 387.3889
+5_KCF_LinearGray, 34_car8_1: 2/12
+fps: 384.0779
+5_KCF_LinearGray, 34_car8_1: 3/12
+fps: 401.4984
+5_KCF_LinearGray, 34_car8_1: 4/12
+fps: 403.8753
+5_KCF_LinearGray, 34_car8_1: 5/12
+fps: 582.9353
+5_KCF_LinearGray, 34_car8_1: 6/12
+fps: 586.6223
+5_KCF_LinearGray, 34_car8_1: 7/12
+fps: 586.7073
+5_KCF_LinearGray, 34_car8_1: 8/12
+fps: 591.2617
+5_KCF_LinearGray, 34_car8_1: 9/12
+fps: 195.4662
+5_KCF_LinearGray, 34_car8_1: 10/12
+fps: 249.5083
+5_KCF_LinearGray, 34_car8_1: 11/12
+fps: 602.4621
+5_KCF_LinearGray, 34_car8_1: 12/12
+fps: 443.2985
+6_SAMF, 34_car8_1: 1/12
+fps: 17.1305
+6_SAMF, 34_car8_1: 2/12
+fps: 17.1683
+6_SAMF, 34_car8_1: 3/12
+fps: 16.9924
+6_SAMF, 34_car8_1: 4/12
+fps: 17.0104
+6_SAMF, 34_car8_1: 5/12
+fps: 16.1282
+6_SAMF, 34_car8_1: 6/12
+fps: 16.1249
+6_SAMF, 34_car8_1: 7/12
+fps: 16.0479
+6_SAMF, 34_car8_1: 8/12
+fps: 16.125
+6_SAMF, 34_car8_1: 9/12
+fps: 7.5975
+6_SAMF, 34_car8_1: 10/12
+fps: 6.061
+6_SAMF, 34_car8_1: 11/12
+fps: 16.2601
+6_SAMF, 34_car8_1: 12/12
+fps: 12.1547
+7_SRDCF, 34_car8_1: 1/12
+fps: 5.6925
+7_SRDCF, 34_car8_1: 2/12
+fps: 5.447
+7_SRDCF, 34_car8_1: 3/12
+fps: 5.3164
+7_SRDCF, 34_car8_1: 4/12
+fps: 5.7078
+7_SRDCF, 34_car8_1: 5/12
+fps: 5.3674
+7_SRDCF, 34_car8_1: 6/12
+fps: 4.8913
+7_SRDCF, 34_car8_1: 7/12
+fps: 5.5445
+7_SRDCF, 34_car8_1: 8/12
+fps: 5.4094
+7_SRDCF, 34_car8_1: 9/12
+fps: 6.0097
+7_SRDCF, 34_car8_1: 10/12
+fps: 5.7928
+7_SRDCF, 34_car8_1: 11/12
+fps: 5.3506
+7_SRDCF, 34_car8_1: 12/12
+fps: 4.9764
+1_CSK, 35_car8_2: 1/12
+fps: 257.0038
+1_CSK, 35_car8_2: 2/12
+fps: 243.7579
+1_CSK, 35_car8_2: 3/12
+fps: 243.9403
+1_CSK, 35_car8_2: 4/12
+fps: 239.9983
+1_CSK, 35_car8_2: 5/12
+fps: 164.5512
+1_CSK, 35_car8_2: 6/12
+fps: 163.5837
+1_CSK, 35_car8_2: 7/12
+fps: 165.7086
+1_CSK, 35_car8_2: 8/12
+fps: 164.9346
+1_CSK, 35_car8_2: 9/12
+fps: 151.6305
+1_CSK, 35_car8_2: 10/12
+fps: 392.2736
+1_CSK, 35_car8_2: 11/12
+fps: 162.2733
+1_CSK, 35_car8_2: 12/12
+fps: 219.2574
+2_KCF_LinearHog, 35_car8_2: 1/12
+fps: 188.7629
+2_KCF_LinearHog, 35_car8_2: 2/12
+fps: 190.7293
+2_KCF_LinearHog, 35_car8_2: 3/12
+fps: 191.094
+2_KCF_LinearHog, 35_car8_2: 4/12
+fps: 189.8043
+2_KCF_LinearHog, 35_car8_2: 5/12
+fps: 187.5789
+2_KCF_LinearHog, 35_car8_2: 6/12
+fps: 182.3001
+2_KCF_LinearHog, 35_car8_2: 7/12
+fps: 184.4744
+2_KCF_LinearHog, 35_car8_2: 8/12
+fps: 184.2706
+2_KCF_LinearHog, 35_car8_2: 9/12
+fps: 324.6789
+2_KCF_LinearHog, 35_car8_2: 10/12
+fps: 198.3695
+2_KCF_LinearHog, 35_car8_2: 11/12
+fps: 184.6656
+2_KCF_LinearHog, 35_car8_2: 12/12
+fps: 174.4181
+3_DSST, 35_car8_2: 1/12
+fps: 7.0278
+3_DSST, 35_car8_2: 2/12
+fps: 7.1259
+3_DSST, 35_car8_2: 3/12
+fps: 7.0854
+3_DSST, 35_car8_2: 4/12
+fps: 6.9707
+3_DSST, 35_car8_2: 5/12
+fps: 7.1172
+3_DSST, 35_car8_2: 6/12
+fps: 7.1954
+3_DSST, 35_car8_2: 7/12
+fps: 7.1653
+3_DSST, 35_car8_2: 8/12
+fps: 7.2326
+3_DSST, 35_car8_2: 9/12
+fps: 10.5935
+3_DSST, 35_car8_2: 10/12
+fps: 10.9318
+3_DSST, 35_car8_2: 11/12
+fps: 7.0879
+3_DSST, 35_car8_2: 12/12
+fps: 5.6533
+4_KCF_GaussHog, 35_car8_2: 1/12
+fps: 103.6938
+4_KCF_GaussHog, 35_car8_2: 2/12
+fps: 104.4267
+4_KCF_GaussHog, 35_car8_2: 3/12
+fps: 105.3318
+4_KCF_GaussHog, 35_car8_2: 4/12
+fps: 105.2039
+4_KCF_GaussHog, 35_car8_2: 5/12
+fps: 94.2614
+4_KCF_GaussHog, 35_car8_2: 6/12
+fps: 91.0521
+4_KCF_GaussHog, 35_car8_2: 7/12
+fps: 92.9881
+4_KCF_GaussHog, 35_car8_2: 8/12
+fps: 93.4798
+4_KCF_GaussHog, 35_car8_2: 9/12
+fps: 183.6585
+4_KCF_GaussHog, 35_car8_2: 10/12
+fps: 108.7641
+4_KCF_GaussHog, 35_car8_2: 11/12
+fps: 93.1535
+4_KCF_GaussHog, 35_car8_2: 12/12
+fps: 95.2161
+5_KCF_LinearGray, 35_car8_2: 1/12
+fps: 276.008
+5_KCF_LinearGray, 35_car8_2: 2/12
+fps: 280.0826
+5_KCF_LinearGray, 35_car8_2: 3/12
+fps: 274.5975
+5_KCF_LinearGray, 35_car8_2: 4/12
+fps: 268.394
+5_KCF_LinearGray, 35_car8_2: 5/12
+fps: 312.4345
+5_KCF_LinearGray, 35_car8_2: 6/12
+fps: 310.3695
+5_KCF_LinearGray, 35_car8_2: 7/12
+fps: 312.7762
+5_KCF_LinearGray, 35_car8_2: 8/12
+fps: 315.1548
+5_KCF_LinearGray, 35_car8_2: 9/12
+fps: 560.3621
+5_KCF_LinearGray, 35_car8_2: 10/12
+fps: 526.772
+5_KCF_LinearGray, 35_car8_2: 11/12
+fps: 315.1294
+5_KCF_LinearGray, 35_car8_2: 12/12
+fps: 308.3876
+6_SAMF, 35_car8_2: 1/12
+fps: 10.8897
+6_SAMF, 35_car8_2: 2/12
+fps: 10.7639
+6_SAMF, 35_car8_2: 3/12
+fps: 10.8185
+6_SAMF, 35_car8_2: 4/12
+fps: 10.7867
+6_SAMF, 35_car8_2: 5/12
+fps: 9.9463
+6_SAMF, 35_car8_2: 6/12
+fps: 10.0736
+6_SAMF, 35_car8_2: 7/12
+fps: 10.082
+6_SAMF, 35_car8_2: 8/12
+fps: 10.0549
+6_SAMF, 35_car8_2: 9/12
+fps: 16.5072
+6_SAMF, 35_car8_2: 10/12
+fps: 11.5289
+6_SAMF, 35_car8_2: 11/12
+fps: 10.0101
+6_SAMF, 35_car8_2: 12/12
+fps: 9.6008
+7_SRDCF, 35_car8_2: 1/12
+fps: 6.2042
+7_SRDCF, 35_car8_2: 2/12
+fps: 6.3481
+7_SRDCF, 35_car8_2: 3/12
+fps: 6.3148
+7_SRDCF, 35_car8_2: 4/12
+fps: 6.1694
+7_SRDCF, 35_car8_2: 5/12
+fps: 6.179
+7_SRDCF, 35_car8_2: 6/12
+fps: 6.2538
+7_SRDCF, 35_car8_2: 7/12
+fps: 6.1271
+7_SRDCF, 35_car8_2: 8/12
+fps: 6.1281
+7_SRDCF, 35_car8_2: 9/12
+fps: 6.523
+7_SRDCF, 35_car8_2: 10/12
+fps: 6.3994
+7_SRDCF, 35_car8_2: 11/12
+fps: 6.153
+7_SRDCF, 35_car8_2: 12/12
+fps: 6.1266
+1_CSK, 36_car9: 1/12
+fps: 401.263
+1_CSK, 36_car9: 2/12
+fps: 391.9285
+1_CSK, 36_car9: 3/12
+fps: 393.8318
+1_CSK, 36_car9: 4/12
+fps: 386.4327
+1_CSK, 36_car9: 5/12
+fps: 283.5893
+1_CSK, 36_car9: 6/12
+fps: 280.267
+1_CSK, 36_car9: 7/12
+fps: 286.6727
+1_CSK, 36_car9: 8/12
+fps: 279.488
+1_CSK, 36_car9: 9/12
+fps: 249.9245
+1_CSK, 36_car9: 10/12
+fps: 340.7795
+1_CSK, 36_car9: 11/12
+fps: 284.8843
+1_CSK, 36_car9: 12/12
+fps: 173.2994
+2_KCF_LinearHog, 36_car9: 1/12
+fps: 300.1241
+2_KCF_LinearHog, 36_car9: 2/12
+fps: 308.1773
+2_KCF_LinearHog, 36_car9: 3/12
+fps: 308.2626
+2_KCF_LinearHog, 36_car9: 4/12
+fps: 296.1317
+2_KCF_LinearHog, 36_car9: 5/12
+fps: 232.7999
+2_KCF_LinearHog, 36_car9: 6/12
+fps: 225.5466
+2_KCF_LinearHog, 36_car9: 7/12
+fps: 229.619
+2_KCF_LinearHog, 36_car9: 8/12
+fps: 230.1104
+2_KCF_LinearHog, 36_car9: 9/12
+fps: 328.3156
+2_KCF_LinearHog, 36_car9: 10/12
+fps: 299.6813
+2_KCF_LinearHog, 36_car9: 11/12
+fps: 229.5928
+2_KCF_LinearHog, 36_car9: 12/12
+fps: 221.1629
+3_DSST, 36_car9: 1/12
+fps: 12.4648
+3_DSST, 36_car9: 2/12
+fps: 11.9954
+3_DSST, 36_car9: 3/12
+fps: 12.433
+3_DSST, 36_car9: 4/12
+fps: 12.5177
+3_DSST, 36_car9: 5/12
+fps: 7.7714
+3_DSST, 36_car9: 6/12
+fps: 7.3915
+3_DSST, 36_car9: 7/12
+fps: 7.7122
+3_DSST, 36_car9: 8/12
+fps: 7.7313
+3_DSST, 36_car9: 9/12
+fps: 17.0105
+3_DSST, 36_car9: 10/12
+fps: 12.5299
+3_DSST, 36_car9: 11/12
+fps: 7.7054
+3_DSST, 36_car9: 12/12
+fps: 7.4518
+4_KCF_GaussHog, 36_car9: 1/12
+fps: 171.3568
+4_KCF_GaussHog, 36_car9: 2/12
+fps: 174.2769
+4_KCF_GaussHog, 36_car9: 3/12
+fps: 174.6716
+4_KCF_GaussHog, 36_car9: 4/12
+fps: 174.3245
+4_KCF_GaussHog, 36_car9: 5/12
+fps: 130.5411
+4_KCF_GaussHog, 36_car9: 6/12
+fps: 127.9507
+4_KCF_GaussHog, 36_car9: 7/12
+fps: 128.9925
+4_KCF_GaussHog, 36_car9: 8/12
+fps: 130.871
+4_KCF_GaussHog, 36_car9: 9/12
+fps: 183.5443
+4_KCF_GaussHog, 36_car9: 10/12
+fps: 162.4016
+4_KCF_GaussHog, 36_car9: 11/12
+fps: 129.5003
+4_KCF_GaussHog, 36_car9: 12/12
+fps: 128.5156
+5_KCF_LinearGray, 36_car9: 1/12
+fps: 401.6562
+5_KCF_LinearGray, 36_car9: 2/12
+fps: 404.2794
+5_KCF_LinearGray, 36_car9: 3/12
+fps: 394.0171
+5_KCF_LinearGray, 36_car9: 4/12
+fps: 409.6644
+5_KCF_LinearGray, 36_car9: 5/12
+fps: 415.3952
+5_KCF_LinearGray, 36_car9: 6/12
+fps: 407.6162
+5_KCF_LinearGray, 36_car9: 7/12
+fps: 413.3113
+5_KCF_LinearGray, 36_car9: 8/12
+fps: 437.7543
+5_KCF_LinearGray, 36_car9: 9/12
+fps: 400.2938
+5_KCF_LinearGray, 36_car9: 10/12
+fps: 595.3771
+5_KCF_LinearGray, 36_car9: 11/12
+fps: 414.0258
+5_KCF_LinearGray, 36_car9: 12/12
+fps: 383.6101
+6_SAMF, 36_car9: 1/12
+fps: 14.9284
+6_SAMF, 36_car9: 2/12
+fps: 14.918
+6_SAMF, 36_car9: 3/12
+fps: 14.9157
+6_SAMF, 36_car9: 4/12
+fps: 14.8898
+6_SAMF, 36_car9: 5/12
+fps: 12.3257
+6_SAMF, 36_car9: 6/12
+fps: 12.2708
+6_SAMF, 36_car9: 7/12
+fps: 12.3074
+6_SAMF, 36_car9: 8/12
+fps: 12.3179
+6_SAMF, 36_car9: 9/12
+fps: 17.232
+6_SAMF, 36_car9: 10/12
+fps: 15.6332
+6_SAMF, 36_car9: 11/12
+fps: 12.3688
+6_SAMF, 36_car9: 12/12
+fps: 12.0007
+7_SRDCF, 36_car9: 1/12
+fps: 7.8911
+7_SRDCF, 36_car9: 2/12
+fps: 8.4174
+7_SRDCF, 36_car9: 3/12
+fps: 5.737
+7_SRDCF, 36_car9: 4/12
+fps: 8.3976
+7_SRDCF, 36_car9: 5/12
+fps: 8.4346
+7_SRDCF, 36_car9: 6/12
+fps: 7.6056
+7_SRDCF, 36_car9: 7/12
+fps: 8.0376
+7_SRDCF, 36_car9: 8/12
+fps: 8.3232
+7_SRDCF, 36_car9: 9/12
+fps: 9.0465
+7_SRDCF, 36_car9: 10/12
+fps: 8.298
+7_SRDCF, 36_car9: 11/12
+fps: 7.1589
+7_SRDCF, 36_car9: 12/12
+fps: 7.8629
+1_CSK, 37_car10: 1/12
+fps: 337.9227
+1_CSK, 37_car10: 2/12
+fps: 361.761
+1_CSK, 37_car10: 3/12
+fps: 373.6157
+1_CSK, 37_car10: 4/12
+fps: 361.7717
+1_CSK, 37_car10: 5/12
+fps: 398.3915
+1_CSK, 37_car10: 6/12
+fps: 386.7509
+1_CSK, 37_car10: 7/12
+fps: 373.0152
+1_CSK, 37_car10: 8/12
+fps: 401.5724
+1_CSK, 37_car10: 9/12
+fps: 390.5316
+1_CSK, 37_car10: 10/12
+fps: 309.2125
+1_CSK, 37_car10: 11/12
+fps: 396.7891
+1_CSK, 37_car10: 12/12
+fps: 316.8823
+2_KCF_LinearHog, 37_car10: 1/12
+fps: 480.146
+2_KCF_LinearHog, 37_car10: 2/12
+fps: 490.8618
+2_KCF_LinearHog, 37_car10: 3/12
+fps: 483.7616
+2_KCF_LinearHog, 37_car10: 4/12
+fps: 486.5717
+2_KCF_LinearHog, 37_car10: 5/12
+fps: 426.2091
+2_KCF_LinearHog, 37_car10: 6/12
+fps: 434.6041
+2_KCF_LinearHog, 37_car10: 7/12
+fps: 436.0221
+2_KCF_LinearHog, 37_car10: 8/12
+fps: 409.736
+2_KCF_LinearHog, 37_car10: 9/12
+fps: 541.2821
+2_KCF_LinearHog, 37_car10: 10/12
+fps: 461.4018
+2_KCF_LinearHog, 37_car10: 11/12
+fps: 301.0726
+2_KCF_LinearHog, 37_car10: 12/12
+fps: 266.2615
+3_DSST, 37_car10: 1/12
+fps: 37.689
+3_DSST, 37_car10: 2/12
+fps: 49.3875
+3_DSST, 37_car10: 3/12
+fps: 54.2948
+3_DSST, 37_car10: 4/12
+fps: 54.0341
+3_DSST, 37_car10: 5/12
+fps: 53.6484
+3_DSST, 37_car10: 6/12
+fps: 51.1688
+3_DSST, 37_car10: 7/12
+fps: 45.3386
+3_DSST, 37_car10: 8/12
+fps: 47.5061
+3_DSST, 37_car10: 9/12
+fps: 70.336
+3_DSST, 37_car10: 10/12
+fps: 61.5518
+3_DSST, 37_car10: 11/12
+fps: 55.0991
+3_DSST, 37_car10: 12/12
+fps: 42.9466
+4_KCF_GaussHog, 37_car10: 1/12
+fps: 272.9036
+4_KCF_GaussHog, 37_car10: 2/12
+fps: 270.1367
+4_KCF_GaussHog, 37_car10: 3/12
+fps: 262.3334
+4_KCF_GaussHog, 37_car10: 4/12
+fps: 247.9205
+4_KCF_GaussHog, 37_car10: 5/12
+fps: 214.1754
+4_KCF_GaussHog, 37_car10: 6/12
+fps: 224.0244
+4_KCF_GaussHog, 37_car10: 7/12
+fps: 227.1279
+4_KCF_GaussHog, 37_car10: 8/12
+fps: 231.3822
+4_KCF_GaussHog, 37_car10: 9/12
+fps: 291.1912
+4_KCF_GaussHog, 37_car10: 10/12
+fps: 276.901
+4_KCF_GaussHog, 37_car10: 11/12
+fps: 228.7388
+4_KCF_GaussHog, 37_car10: 12/12
+fps: 218.1035
+5_KCF_LinearGray, 37_car10: 1/12
+fps: 546.9141
+5_KCF_LinearGray, 37_car10: 2/12
+fps: 558.1614
+5_KCF_LinearGray, 37_car10: 3/12
+fps: 559.6245
+5_KCF_LinearGray, 37_car10: 4/12
+fps: 588.3969
+5_KCF_LinearGray, 37_car10: 5/12
+fps: 398.74
+5_KCF_LinearGray, 37_car10: 6/12
+fps: 402.7536
+5_KCF_LinearGray, 37_car10: 7/12
+fps: 390.5859
+5_KCF_LinearGray, 37_car10: 8/12
+fps: 392.1691
+5_KCF_LinearGray, 37_car10: 9/12
+fps: 832.2937
+5_KCF_LinearGray, 37_car10: 10/12
+fps: 742.7806
+5_KCF_LinearGray, 37_car10: 11/12
+fps: 395.608
+5_KCF_LinearGray, 37_car10: 12/12
+fps: 475.6015
+6_SAMF, 37_car10: 1/12
+fps: 12.7956
+6_SAMF, 37_car10: 2/12
+fps: 13.0014
+6_SAMF, 37_car10: 3/12
+fps: 13.1977
+6_SAMF, 37_car10: 4/12
+fps: 13.3112
+6_SAMF, 37_car10: 5/12
+fps: 12.6266
+6_SAMF, 37_car10: 6/12
+fps: 12.3054
+6_SAMF, 37_car10: 7/12
+fps: 12.3485
+6_SAMF, 37_car10: 8/12
+fps: 12.4838
+6_SAMF, 37_car10: 9/12
+fps: 13.6634
+6_SAMF, 37_car10: 10/12
+fps: 14.2735
+6_SAMF, 37_car10: 11/12
+fps: 12.6367
+6_SAMF, 37_car10: 12/12
+fps: 12.3055
+7_SRDCF, 37_car10: 1/12
+fps: 9.8603
+7_SRDCF, 37_car10: 2/12
+fps: 10.0747
+7_SRDCF, 37_car10: 3/12
+fps: 10.069
+7_SRDCF, 37_car10: 4/12
+fps: 9.2691
+7_SRDCF, 37_car10: 5/12
+fps: 7.1025
+7_SRDCF, 37_car10: 6/12
+fps: 7.4145
+7_SRDCF, 37_car10: 7/12
+fps: 7.5255
+7_SRDCF, 37_car10: 8/12
+fps: 7.5
+7_SRDCF, 37_car10: 9/12
+fps: 14.7848
+7_SRDCF, 37_car10: 10/12
+fps: 11.1137
+7_SRDCF, 37_car10: 11/12
+fps: 7.4908
+7_SRDCF, 37_car10: 12/12
+fps: 6.5462
+1_CSK, 38_car11: 1/12
+fps: 1853.4305
+1_CSK, 38_car11: 2/12
+fps: 1832.9163
+1_CSK, 38_car11: 3/12
+fps: 1757.0569
+1_CSK, 38_car11: 4/12
+fps: 1817.3288
+1_CSK, 38_car11: 5/12
+fps: 1649.9469
+1_CSK, 38_car11: 6/12
+fps: 1602.3203
+1_CSK, 38_car11: 7/12
+fps: 1646.2071
+1_CSK, 38_car11: 8/12
+fps: 1594.0816
+1_CSK, 38_car11: 9/12
+fps: 2421.3771
+1_CSK, 38_car11: 10/12
+fps: 2338.7673
+1_CSK, 38_car11: 11/12
+fps: 1605.7483
+1_CSK, 38_car11: 12/12
+fps: 1674.1349
+2_KCF_LinearHog, 38_car11: 1/12
+fps: 1250.1855
+2_KCF_LinearHog, 38_car11: 2/12
+fps: 1299.7883
+2_KCF_LinearHog, 38_car11: 3/12
+fps: 1321.6827
+2_KCF_LinearHog, 38_car11: 4/12
+fps: 1303.8112
+2_KCF_LinearHog, 38_car11: 5/12
+fps: 1338.5977
+2_KCF_LinearHog, 38_car11: 6/12
+fps: 1406.0531
+2_KCF_LinearHog, 38_car11: 7/12
+fps: 1301.5352
+2_KCF_LinearHog, 38_car11: 8/12
+fps: 1313.0058
+2_KCF_LinearHog, 38_car11: 9/12
+fps: 1616.4155
+2_KCF_LinearHog, 38_car11: 10/12
+fps: 1454.894
+2_KCF_LinearHog, 38_car11: 11/12
+fps: 1404.9687
+2_KCF_LinearHog, 38_car11: 12/12
+fps: 1005.9611
+3_DSST, 38_car11: 1/12
+fps: 137.8132
+3_DSST, 38_car11: 2/12
+fps: 128.5961
+3_DSST, 38_car11: 3/12
+fps: 135.7252
+3_DSST, 38_car11: 4/12
+fps: 138.2484
+3_DSST, 38_car11: 5/12
+fps: 128.9709
+3_DSST, 38_car11: 6/12
+fps: 124.0125
+3_DSST, 38_car11: 7/12
+fps: 131.2615
+3_DSST, 38_car11: 8/12
+fps: 122.7691
+3_DSST, 38_car11: 9/12
+fps: 172.4167
+3_DSST, 38_car11: 10/12
+fps: 171.4308
+3_DSST, 38_car11: 11/12
+fps: 154.1818
+3_DSST, 38_car11: 12/12
+fps: 140.6274
+4_KCF_GaussHog, 38_car11: 1/12
+fps: 1079.4086
+4_KCF_GaussHog, 38_car11: 2/12
+fps: 1106.4671
+4_KCF_GaussHog, 38_car11: 3/12
+fps: 1076.7392
+4_KCF_GaussHog, 38_car11: 4/12
+fps: 1075.818
+4_KCF_GaussHog, 38_car11: 5/12
+fps: 835.7865
+4_KCF_GaussHog, 38_car11: 6/12
+fps: 839.2918
+4_KCF_GaussHog, 38_car11: 7/12
+fps: 831.2265
+4_KCF_GaussHog, 38_car11: 8/12
+fps: 810.0494
+4_KCF_GaussHog, 38_car11: 9/12
+fps: 1288.3593
+4_KCF_GaussHog, 38_car11: 10/12
+fps: 1075.0939
+4_KCF_GaussHog, 38_car11: 11/12
+fps: 819.182
+4_KCF_GaussHog, 38_car11: 12/12
+fps: 655.4724
+5_KCF_LinearGray, 38_car11: 1/12
+fps: 1736.3616
+5_KCF_LinearGray, 38_car11: 2/12
+fps: 1725.9216
+5_KCF_LinearGray, 38_car11: 3/12
+fps: 1656.7198
+5_KCF_LinearGray, 38_car11: 4/12
+fps: 1780.5628
+5_KCF_LinearGray, 38_car11: 5/12
+fps: 1442.8161
+5_KCF_LinearGray, 38_car11: 6/12
+fps: 1416.9606
+5_KCF_LinearGray, 38_car11: 7/12
+fps: 1404.9804
+5_KCF_LinearGray, 38_car11: 8/12
+fps: 1442.7605
+5_KCF_LinearGray, 38_car11: 9/12
+fps: 1969.9653
+5_KCF_LinearGray, 38_car11: 10/12
+fps: 1556.5101
+5_KCF_LinearGray, 38_car11: 11/12
+fps: 1341.6032
+5_KCF_LinearGray, 38_car11: 12/12
+fps: 1559.983
+6_SAMF, 38_car11: 1/12
+fps: 17.4532
+6_SAMF, 38_car11: 2/12
+fps: 17.1124
+6_SAMF, 38_car11: 3/12
+fps: 16.5167
+6_SAMF, 38_car11: 4/12
+fps: 16.9363
+6_SAMF, 38_car11: 5/12
+fps: 16.6879
+6_SAMF, 38_car11: 6/12
+fps: 16.3501
+6_SAMF, 38_car11: 7/12
+fps: 16.6141
+6_SAMF, 38_car11: 8/12
+fps: 16.2293
+6_SAMF, 38_car11: 9/12
+fps: 17.5577
+6_SAMF, 38_car11: 10/12
+fps: 18.7674
+6_SAMF, 38_car11: 11/12
+fps: 18.3449
+6_SAMF, 38_car11: 12/12
+fps: 18.6673
+7_SRDCF, 38_car11: 1/12
+fps: 27.2857
+7_SRDCF, 38_car11: 2/12
+fps: 27.0112
+7_SRDCF, 38_car11: 3/12
+fps: 27.4338
+7_SRDCF, 38_car11: 4/12
+fps: 27.7459
+7_SRDCF, 38_car11: 5/12
+fps: 22.9747
+7_SRDCF, 38_car11: 6/12
+fps: 23.4174
+7_SRDCF, 38_car11: 7/12
+fps: 23.5375
+7_SRDCF, 38_car11: 8/12
+fps: 23.0279
+7_SRDCF, 38_car11: 9/12
+fps: 39.849
+7_SRDCF, 38_car11: 10/12
+fps: 34.704
+7_SRDCF, 38_car11: 11/12
+fps: 23.7307
+7_SRDCF, 38_car11: 12/12
+fps: 17.2073
+1_CSK, 39_car12: 1/12
+fps: 1632.4474
+1_CSK, 39_car12: 2/12
+fps: 1682.5707
+1_CSK, 39_car12: 3/12
+fps: 1605.25
+1_CSK, 39_car12: 4/12
+fps: 1787.1917
+1_CSK, 39_car12: 5/12
+fps: 1579.5938
+1_CSK, 39_car12: 6/12
+fps: 1566.419
+1_CSK, 39_car12: 7/12
+fps: 1559.8966
+1_CSK, 39_car12: 8/12
+fps: 1272.07
+1_CSK, 39_car12: 9/12
+fps: 2088.9849
+1_CSK, 39_car12: 10/12
+fps: 1998.8544
+1_CSK, 39_car12: 11/12
+fps: 1623.7147
+1_CSK, 39_car12: 12/12
+fps: 1695.3299
+2_KCF_LinearHog, 39_car12: 1/12
+fps: 1256.813
+2_KCF_LinearHog, 39_car12: 2/12
+fps: 1209.6618
+2_KCF_LinearHog, 39_car12: 3/12
+fps: 1233.1584
+2_KCF_LinearHog, 39_car12: 4/12
+fps: 1120.842
+2_KCF_LinearHog, 39_car12: 5/12
+fps: 1144.4167
+2_KCF_LinearHog, 39_car12: 6/12
+fps: 1064.7923
+2_KCF_LinearHog, 39_car12: 7/12
+fps: 1145.6937
+2_KCF_LinearHog, 39_car12: 8/12
+fps: 1111.1952
+2_KCF_LinearHog, 39_car12: 9/12
+fps: 1483.2914
+2_KCF_LinearHog, 39_car12: 10/12
+fps: 1424.7414
+2_KCF_LinearHog, 39_car12: 11/12
+fps: 994.5568
+2_KCF_LinearHog, 39_car12: 12/12
+fps: 1093.6723
+3_DSST, 39_car12: 1/12
+fps: 129.0164
+3_DSST, 39_car12: 2/12
+fps: 130.1818
+3_DSST, 39_car12: 3/12
+fps: 136.8108
+3_DSST, 39_car12: 4/12
+fps: 131.5901
+3_DSST, 39_car12: 5/12
+fps: 120.8433
+3_DSST, 39_car12: 6/12
+fps: 119.7624
+3_DSST, 39_car12: 7/12
+fps: 113.4798
+3_DSST, 39_car12: 8/12
+fps: 118.8425
+3_DSST, 39_car12: 9/12
+fps: 168.8852
+3_DSST, 39_car12: 10/12
+fps: 151.3848
+3_DSST, 39_car12: 11/12
+fps: 123.5501
+3_DSST, 39_car12: 12/12
+fps: 125.134
+4_KCF_GaussHog, 39_car12: 1/12
+fps: 661.0068
+4_KCF_GaussHog, 39_car12: 2/12
+fps: 677.8215
+4_KCF_GaussHog, 39_car12: 3/12
+fps: 661.0322
+4_KCF_GaussHog, 39_car12: 4/12
+fps: 675.5376
+4_KCF_GaussHog, 39_car12: 5/12
+fps: 616.254
+4_KCF_GaussHog, 39_car12: 6/12
+fps: 592.327
+4_KCF_GaussHog, 39_car12: 7/12
+fps: 607.7199
+4_KCF_GaussHog, 39_car12: 8/12
+fps: 638.6922
+4_KCF_GaussHog, 39_car12: 9/12
+fps: 919.0618
+4_KCF_GaussHog, 39_car12: 10/12
+fps: 809.194
+4_KCF_GaussHog, 39_car12: 11/12
+fps: 588.2492
+4_KCF_GaussHog, 39_car12: 12/12
+fps: 601.9235
+5_KCF_LinearGray, 39_car12: 1/12
+fps: 1909.5727
+5_KCF_LinearGray, 39_car12: 2/12
+fps: 1805.6877
+5_KCF_LinearGray, 39_car12: 3/12
+fps: 1788.8062
+5_KCF_LinearGray, 39_car12: 4/12
+fps: 1835.6251
+5_KCF_LinearGray, 39_car12: 5/12
+fps: 1394.704
+5_KCF_LinearGray, 39_car12: 6/12
+fps: 1418.835
+5_KCF_LinearGray, 39_car12: 7/12
+fps: 1393.5433
+5_KCF_LinearGray, 39_car12: 8/12
+fps: 1405.1865
+5_KCF_LinearGray, 39_car12: 9/12
+fps: 2183.9317
+5_KCF_LinearGray, 39_car12: 10/12
+fps: 1622.4846
+5_KCF_LinearGray, 39_car12: 11/12
+fps: 1357.7012
+5_KCF_LinearGray, 39_car12: 12/12
+fps: 1470.3412
+6_SAMF, 39_car12: 1/12
+fps: 17.8778
+6_SAMF, 39_car12: 2/12
+fps: 17.9852
+6_SAMF, 39_car12: 3/12
+fps: 17.923
+6_SAMF, 39_car12: 4/12
+fps: 17.7812
+6_SAMF, 39_car12: 5/12
+fps: 17.5659
+6_SAMF, 39_car12: 6/12
+fps: 17.5003
+6_SAMF, 39_car12: 7/12
+fps: 17.5987
+6_SAMF, 39_car12: 8/12
+fps: 17.605
+6_SAMF, 39_car12: 9/12
+fps: 19.0515
+6_SAMF, 39_car12: 10/12
+fps: 18.0945
+6_SAMF, 39_car12: 11/12
+fps: 17.5087
+6_SAMF, 39_car12: 12/12
+fps: 17.2588
+7_SRDCF, 39_car12: 1/12
+fps: 28.3886
+7_SRDCF, 39_car12: 2/12
+fps: 29.1943
+7_SRDCF, 39_car12: 3/12
+fps: 30.1349
+7_SRDCF, 39_car12: 4/12
+fps: 30.6747
+7_SRDCF, 39_car12: 5/12
+fps: 26.7997
+7_SRDCF, 39_car12: 6/12
+fps: 25.2858
+7_SRDCF, 39_car12: 7/12
+fps: 26.0873
+7_SRDCF, 39_car12: 8/12
+fps: 24.8686
+7_SRDCF, 39_car12: 9/12
+fps: 17.8718
+7_SRDCF, 39_car12: 10/12
+fps: 18.1078
+7_SRDCF, 39_car12: 11/12
+fps: 25.7703
+7_SRDCF, 39_car12: 12/12
+fps: 24.2541
+1_CSK, 40_car13: 1/12
+fps: 2552.825
+1_CSK, 40_car13: 2/12
+fps: 2936.2238
+1_CSK, 40_car13: 3/12
+fps: 2966.0654
+1_CSK, 40_car13: 4/12
+fps: 3025.3326
+1_CSK, 40_car13: 5/12
+fps: 3060.6751
+1_CSK, 40_car13: 6/12
+fps: 2654.3522
+1_CSK, 40_car13: 7/12
+fps: 3608.4133
+1_CSK, 40_car13: 8/12
+fps: 2381.4852
+1_CSK, 40_car13: 9/12
+fps: 4107.2436
+1_CSK, 40_car13: 10/12
+fps: 3695.3928
+1_CSK, 40_car13: 11/12
+fps: 2435.5746
+1_CSK, 40_car13: 12/12
+fps: 2078.5023
+2_KCF_LinearHog, 40_car13: 1/12
+fps: 1875.8334
+2_KCF_LinearHog, 40_car13: 2/12
+fps: 1887.2043
+2_KCF_LinearHog, 40_car13: 3/12
+fps: 1975.9552
+2_KCF_LinearHog, 40_car13: 4/12
+fps: 1964.8598
+2_KCF_LinearHog, 40_car13: 5/12
+fps: 1868.3258
+2_KCF_LinearHog, 40_car13: 6/12
+fps: 1712.4489
+2_KCF_LinearHog, 40_car13: 7/12
+fps: 1690.8065
+2_KCF_LinearHog, 40_car13: 8/12
+fps: 1760.4065
+2_KCF_LinearHog, 40_car13: 9/12
+fps: 2390.5255
+2_KCF_LinearHog, 40_car13: 10/12
+fps: 2375.5417
+2_KCF_LinearHog, 40_car13: 11/12
+fps: 1760.922
+2_KCF_LinearHog, 40_car13: 12/12
+fps: 1839.8652
+3_DSST, 40_car13: 1/12
+fps: 191.2898
+3_DSST, 40_car13: 2/12
+fps: 201.9551
+3_DSST, 40_car13: 3/12
+fps: 196.5016
+3_DSST, 40_car13: 4/12
+fps: 197.2892
+3_DSST, 40_car13: 5/12
+fps: 197.3411
+3_DSST, 40_car13: 6/12
+fps: 190.0887
+3_DSST, 40_car13: 7/12
+fps: 204.2264
+3_DSST, 40_car13: 8/12
+fps: 185.5783
+3_DSST, 40_car13: 9/12
+fps: 244.1518
+3_DSST, 40_car13: 10/12
+fps: 220.1516
+3_DSST, 40_car13: 11/12
+fps: 193.3304
+3_DSST, 40_car13: 12/12
+fps: 184.8167
+4_KCF_GaussHog, 40_car13: 1/12
+fps: 1544.6516
+4_KCF_GaussHog, 40_car13: 2/12
+fps: 1479.2425
+4_KCF_GaussHog, 40_car13: 3/12
+fps: 1479.6644
+4_KCF_GaussHog, 40_car13: 4/12
+fps: 1406.7606
+4_KCF_GaussHog, 40_car13: 5/12
+fps: 1339.4658
+4_KCF_GaussHog, 40_car13: 6/12
+fps: 1461.067
+4_KCF_GaussHog, 40_car13: 7/12
+fps: 1426.5433
+4_KCF_GaussHog, 40_car13: 8/12
+fps: 1317.4059
+4_KCF_GaussHog, 40_car13: 9/12
+fps: 1903.5649
+4_KCF_GaussHog, 40_car13: 10/12
+fps: 1549.6408
+4_KCF_GaussHog, 40_car13: 11/12
+fps: 1386.9255
+4_KCF_GaussHog, 40_car13: 12/12
+fps: 1409.891
+5_KCF_LinearGray, 40_car13: 1/12
+fps: 2334.7004
+5_KCF_LinearGray, 40_car13: 2/12
+fps: 2226.3112
+5_KCF_LinearGray, 40_car13: 3/12
+fps: 2374.8348
+5_KCF_LinearGray, 40_car13: 4/12
+fps: 2117.1849
+5_KCF_LinearGray, 40_car13: 5/12
+fps: 2749.7101
+5_KCF_LinearGray, 40_car13: 6/12
+fps: 2693.7557
+5_KCF_LinearGray, 40_car13: 7/12
+fps: 2413.9556
+5_KCF_LinearGray, 40_car13: 8/12
+fps: 2258.8599
+5_KCF_LinearGray, 40_car13: 9/12
+fps: 3063.1828
+5_KCF_LinearGray, 40_car13: 10/12
+fps: 2836.0361
+5_KCF_LinearGray, 40_car13: 11/12
+fps: 2666.5296
+5_KCF_LinearGray, 40_car13: 12/12
+fps: 2104.4518
+6_SAMF, 40_car13: 1/12
+fps: 20.5428
+6_SAMF, 40_car13: 2/12
+fps: 20.6732
+6_SAMF, 40_car13: 3/12
+fps: 20.6772
+6_SAMF, 40_car13: 4/12
+fps: 20.6369
+6_SAMF, 40_car13: 5/12
+fps: 20.4709
+6_SAMF, 40_car13: 6/12
+fps: 20.413
+6_SAMF, 40_car13: 7/12
+fps: 20.4462
+6_SAMF, 40_car13: 8/12
+fps: 20.438
+6_SAMF, 40_car13: 9/12
+fps: 21.2697
+6_SAMF, 40_car13: 10/12
+fps: 20.9298
+6_SAMF, 40_car13: 11/12
+fps: 20.2743
+6_SAMF, 40_car13: 12/12
+fps: 20.0934
+7_SRDCF, 40_car13: 1/12
+fps: 38.1257
+7_SRDCF, 40_car13: 2/12
+fps: 38.6071
+7_SRDCF, 40_car13: 3/12
+fps: 38.2242
+7_SRDCF, 40_car13: 4/12
+fps: 38.1157
+7_SRDCF, 40_car13: 5/12
+fps: 33.5287
+7_SRDCF, 40_car13: 6/12
+fps: 32.5422
+7_SRDCF, 40_car13: 7/12
+fps: 34.9774
+7_SRDCF, 40_car13: 8/12
+fps: 31.0505
+7_SRDCF, 40_car13: 9/12
+fps: 16.29
+7_SRDCF, 40_car13: 10/12
+fps: 45.7201
+7_SRDCF, 40_car13: 11/12
+fps: 31.511
+7_SRDCF, 40_car13: 12/12
+fps: 28.9164
+1_CSK, 41_car14: 1/12
+fps: 230.0574
+1_CSK, 41_car14: 2/12
+fps: 236.9617
+1_CSK, 41_car14: 3/12
+fps: 237.835
+1_CSK, 41_car14: 4/12
+fps: 240.5223
+1_CSK, 41_car14: 5/12
+fps: 346.2271
+1_CSK, 41_car14: 6/12
+fps: 346.7637
+1_CSK, 41_car14: 7/12
+fps: 339.1505
+1_CSK, 41_car14: 8/12
+fps: 357.0356
+1_CSK, 41_car14: 9/12
+fps: 419.3721
+1_CSK, 41_car14: 10/12
+fps: 247.6811
+1_CSK, 41_car14: 11/12
+fps: 339.02
+1_CSK, 41_car14: 12/12
+fps: 290.829
+2_KCF_LinearHog, 41_car14: 1/12
+fps: 415.0298
+2_KCF_LinearHog, 41_car14: 2/12
+fps: 421.0971
+2_KCF_LinearHog, 41_car14: 3/12
+fps: 408.8969
+2_KCF_LinearHog, 41_car14: 4/12
+fps: 413.7558
+2_KCF_LinearHog, 41_car14: 5/12
+fps: 322.6699
+2_KCF_LinearHog, 41_car14: 6/12
+fps: 303.9948
+2_KCF_LinearHog, 41_car14: 7/12
+fps: 293.9842
+2_KCF_LinearHog, 41_car14: 8/12
+fps: 312.8387
+2_KCF_LinearHog, 41_car14: 9/12
+fps: 539.3954
+2_KCF_LinearHog, 41_car14: 10/12
+fps: 438.5513
+2_KCF_LinearHog, 41_car14: 11/12
+fps: 322.3214
+2_KCF_LinearHog, 41_car14: 12/12
+fps: 281.6348
+3_DSST, 41_car14: 1/12
+fps: 48.3386
+3_DSST, 41_car14: 2/12
+fps: 46.3102
+3_DSST, 41_car14: 3/12
+fps: 46.3841
+3_DSST, 41_car14: 4/12
+fps: 45.6811
+3_DSST, 41_car14: 5/12
+fps: 42.8668
+3_DSST, 41_car14: 6/12
+fps: 44.0511
+3_DSST, 41_car14: 7/12
+fps: 42.468
+3_DSST, 41_car14: 8/12
+fps: 42.6479
+3_DSST, 41_car14: 9/12
+fps: 66.0598
+3_DSST, 41_car14: 10/12
+fps: 45.5916
+3_DSST, 41_car14: 11/12
+fps: 43.0247
+3_DSST, 41_ca6_SAMF, 41_car14: 1/12
+fps: 12.1403
+6_SAMF, 41_car14: 2/12
+fps: 12.254
+6_SAMF, 41_car14: 3/12
+fps: 12.1822
+6_SAMF, 41_car14: 4/12
+fps: 11.9932
+6_SAMF, 41_car14: 5/12
+fps: 10.8661
+6_SAMF, 41_car14: 6/12
+fps: 10.7885
+6_SAMF, 41_car14: 7/12
+fps: 10.3015
+6_SAMF, 41_car14: 8/12
+fps: 10.1945
+6_SAMF, 41_car14: 9/12
+fps: 13.2936
+6_SAMF, 41_car14: 10/12
+fps: 10.8656
+6_SAMF, 41_car14: 11/12
+fps: 8.98
+6_SAMF, 41_car14: 12/12
+fps: 8.4114
+7_SRDCF, 41_car14: 1/12
+fps: 7.9847
+7_SRDCF, 41_car14: 2/12
+fps: 7.7394
+7_SRDCF, 41_car14: 3/12
+fps: 7.2077
+7_SRDCF, 41_car14: 4/12
+fps: 8.4606
+7_SRDCF, 41_car14: 5/12
+fps: 8.1653
+7_SRDCF, 41_car14: 6/12
+fps: 6.1579
+7_SRDCF, 41_car14: 7/12
+fps: 6.4976
+7_SRDCF, 41_car14: 8/12
+fps: 5.9022
+7_SRDCF, 41_car14: 9/12
+fps: 7.537
+7_SRDCF, 41_car14: 10/12
+fps: 6.0197
+7_SRDCF, 41_car14: 11/12
+fps: 6.0494
+7_SRDCF, 41_car14: 12/12
+fps: 6.1535
+1_CSK, 42_car15: 1/12
+fps: 2137.5994
+1_CSK, 42_car15: 2/12
+fps: 2593.4241
+1_CSK, 42_car15: 3/12
+fps: 2735.0926
+1_CSK, 42_car15: 4/12
+fps: 2769.7886
+1_CSK, 42_car15: 5/12
+fps: 2790.9191
+1_CSK, 42_car15: 6/12
+fps: 2675.0626
+1_CSK, 42_car15: 7/12
+fps: 2701.0994
+1_CSK, 42_car15: 8/12
+fps: 2879.5795
+1_CSK, 42_car15: 9/12
+fps: 3524.7257
+1_CSK, 42_car15: 10/12
+fps: 3583.4078
+1_CSK, 42_car15: 11/12
+fps: 2653.015
+1_CSK, 42_car15: 12/12
+fps: 2623.879
+2_KCF_LinearHog, 42_car15: 1/12
+fps: 1713.0418
+2_KCF_LinearHog, 42_car15: 2/12
+fps: 1832.6183
+2_KCF_LinearHog, 42_car15: 3/12
+fps: 1932.0448
+2_KCF_LinearHog, 42_car15: 4/12
+fps: 1965.7317
+2_KCF_LinearHog, 42_car15: 5/12
+fps: 1788.1858
+2_KCF_LinearHog, 42_car15: 6/12
+fps: 1736.0211
+2_KCF_LinearHog, 42_car15: 7/12
+fps: 1757.1071
+2_KCF_LinearHog, 42_car15: 8/12
+fps: 1748.3951
+2_KCF_LinearHog, 42_car15: 9/12
+fps: 2028.652
+2_KCF_LinearHog, 42_car15: 10/12
+fps: 2023.4094
+2_KCF_LinearHog, 42_car15: 11/12
+fps: 1759.8499
+2_KCF_LinearHog, 42_car15: 12/12
+fps: 1735.1733
+3_DSST, 42_car15: 1/12
+fps: 199.7042
+3_DSST, 42_car15: 2/12
+fps: 211.6146
+3_DSST, 42_car15: 3/12
+fps: 205.8614
+3_DSST, 42_car15: 4/12
+fps: 205.0066
+3_DSST, 42_car15: 5/12
+fps: 187.479
+3_DSST, 42_car15: 6/12
+fps: 186.5352
+3_DSST, 42_car15: 7/12
+fps: 182.9596
+3_DSST, 42_car15: 8/12
+fps: 182.8539
+3_DSST, 42_car15: 9/12
+fps: 225.5885
+3_DSST, 42_car15: 10/12
+fps: 218.475
+3_DSST, 42_car15: 11/12
+fps: 189.3796
+3_DSST, 42_car15: 12/12
+fps: 187.7381
+4_KCF_GaussHog, 42_car15: 1/12
+fps: 1410.3312
+4_KCF_GaussHog, 42_car15: 2/12
+fps: 1537.9066
+4_KCF_GaussHog, 42_car15: 3/12
+fps: 1604.5763
+4_KCF_GaussHog, 42_car15: 4/12
+fps: 1648.7438
+4_KCF_GaussHog, 42_car15: 5/12
+fps: 1414.1883
+4_KCF_GaussHog, 42_car15: 6/12
+fps: 1377.4186
+4_KCF_GaussHog, 42_car15: 7/12
+fps: 1394.9449
+4_KCF_GaussHog, 42_car15: 8/12
+fps: 1401.9711
+4_KCF_GaussHog, 42_car15: 9/12
+fps: 1759.2228
+4_KCF_GaussHog, 42_car15: 10/12
+fps: 1683.2721
+4_KCF_GaussHog, 42_car15: 11/12
+fps: 1416.2082
+4_KCF_GaussHog, 42_car15: 12/12
+fps: 1437.0061
+5_KCF_LinearGray, 42_car15: 1/12
+fps: 2074.9458
+5_KCF_LinearGray, 42_car15: 2/12
+fps: 2324.9243
+5_KCF_LinearGray, 42_car15: 3/12
+fps: 2406.0289
+5_KCF_LinearGray, 42_car15: 4/12
+fps: 2619.7897
+5_KCF_LinearGray, 42_car15: 5/12
+fps: 2287.5594
+5_KCF_LinearGray, 42_car15: 6/12
+fps: 2502.0806
+5_KCF_LinearGray, 42_car15: 7/12
+fps: 2372.5092
+5_KCF_LinearGray, 42_car15: 8/12
+fps: 2220.2234
+5_KCF_LinearGray, 42_car15: 9/12
+fps: 2675.7799
+5_KCF_LinearGray, 42_car15: 10/12
+fps: 2674.91
+5_KCF_LinearGray, 42_car15: 11/12
+fps: 2462.8731
+5_KCF_LinearGray, 42_car15: 12/12
+fps: 2558.2981
+6_SAMF, 42_car15: 1/12
+fps: 16.0201
+6_SAMF, 42_car15: 2/12
+fps: 15.7734
+6_SAMF, 42_car15: 3/12
+fps: 15.9263
+6_SAMF, 42_car15: 4/12
+fps: 15.9056
+6_SAMF, 42_car15: 5/12
+fps: 15.684
+6_SAMF, 42_car15: 6/12
+fps: 15.7548
+6_SAMF, 42_car15: 7/12
+fps: 15.7011
+6_SAMF, 42_car15: 8/12
+fps: 15.5856
+6_SAMF, 42_car15: 9/12
+fps: 15.9623
+6_SAMF, 42_car15: 10/12
+fps: 15.8633
+6_SAMF, 42_car15: 11/12
+fps: 15.6891
+6_SAMF, 42_car15: 12/12
+fps: 15.5829
+7_SRDCF, 42_car15: 1/12
+fps: 14.8555
+7_SRDCF, 42_car15: 2/12
+fps: 14.6291
+7_SRDCF, 42_car15: 3/12
+fps: 14.8205
+7_SRDCF, 42_car15: 4/12
+fps: 14.8043
+7_SRDCF, 42_car15: 5/12
+fps: 40.1404
+7_SRDCF, 42_car15: 6/12
+fps: 39.9748
+7_SRDCF, 42_car15: 7/12
+fps: 40.8658
+7_SRDCF, 42_car15: 8/12
+fps: 40.1359
+7_SRDCF, 42_car15: 9/12
+fps: 20.6024
+7_SRDCF, 42_car15: 10/12
+fps: 18.3219
+7_SRDCF, 42_car15: 11/12
+fps: 39.8693
+7_SRDCF, 42_car15: 12/12
+fps: 40.5249
+1_CSK, 43_car16_1: 1/12
+fps: 1506.0569
+1_CSK, 43_car16_1: 2/12
+fps: 1789.6802
+1_CSK, 43_car16_1: 3/12
+fps: 1711.6931
+1_CSK, 43_car16_1: 4/12
+fps: 1708.1353
+1_CSK, 43_car16_1: 5/12
+fps: 1472.4249
+1_CSK, 43_car16_1: 6/12
+fps: 1453.7888
+1_CSK, 43_car16_1: 7/12
+fps: 1388.6565
+1_CSK, 43_car16_1: 8/12
+fps: 1385.467
+1_CSK, 43_car16_1: 9/12
+fps: 1839.327
+1_CSK, 43_car16_1: 10/12
+fps: 1967.8039
+1_CSK, 43_car16_1: 11/12
+fps: 1445.9124
+1_CSK, 43_car16_1: 12/12
+fps: 1145.8581
+2_KCF_LinearHog, 43_car16_1: 1/12
+fps: 1127.2334
+2_KCF_LinearHog, 43_car16_1: 2/12
+fps: 1250.9307
+2_KCF_LinearHog, 43_car16_1: 3/12
+fps: 1166.3397
+2_KCF_LinearHog, 43_car16_1: 4/12
+fps: 1194.0728
+2_KCF_LinearHog, 43_car16_1: 5/12
+fps: 1027.2277
+2_KCF_LinearHog, 43_car16_1: 6/12
+fps: 998.0856
+2_KCF_LinearHog, 43_car16_1: 7/12
+fps: 1036.7121
+2_KCF_LinearHog, 43_car16_1: 8/12
+fps: 1078.5888
+2_KCF_LinearHog, 43_car16_1: 9/12
+fps: 1404.043
+2_KCF_LinearHog, 43_car16_1: 10/12
+fps: 1200.4976
+2_KCF_LinearHog, 43_car16_1: 11/12
+fps: 1056.8509
+2_KCF_LinearHog, 43_car16_1: 12/12
+fps: 944.0443
+3_DSST, 43_car16_1: 1/12
+fps: 123.7758
+3_DSST, 43_car16_1: 2/12
+fps: 127.2298
+3_DSST, 43_car16_1: 3/12
+fps: 125.0851
+3_DSST, 43_car16_1: 4/12
+fps: 124.1396
+3_DSST, 43_car16_1: 5/12
+fps: 113.0496
+3_DSST, 43_car16_1: 6/12
+fps: 113.5772
+3_DSST, 43_car16_1: 7/12
+fps: 112.3883
+3_DSST, 43_car16_1: 8/12
+fps: 112.9888
+3_DSST, 43_car16_1: 9/12
+fps: 145.7717
+3_DSST, 43_car16_1: 10/12
+fps: 136.7961
+3_DSST, 43_car16_1: 11/12
+fps: 111.9561
+3_DSST, 43_car16_1: 12/12
+fps: 101.8971
+4_KCF_GaussHog, 43_car16_1: 1/12
+fps: 676.2713
+4_KCF_GaussHog, 43_car16_1: 2/12
+fps: 665.0598
+4_KCF_GaussHog, 43_car16_1: 3/12
+fps: 672.1127
+4_KCF_GaussHog, 43_car16_1: 4/12
+fps: 662.2812
+4_KCF_GaussHog, 43_car16_1: 5/12
+fps: 600.838
+4_KCF_GaussHog, 43_car16_1: 6/12
+fps: 585.8529
+4_KCF_GaussHog, 43_car16_1: 7/12
+fps: 586.7325
+4_KCF_GaussHog, 43_car16_1: 8/12
+fps: 570.9836
+4_KCF_GaussHog, 43_car16_1: 9/12
+fps: 840.5285
+4_KCF_GaussHog, 43_car16_1: 10/12
+fps: 783.8545
+4_KCF_GaussHog, 43_car16_1: 11/12
+fps: 591.0561
+4_KCF_GaussHog, 43_car16_1: 12/12
+fps: 563.2801
+5_KCF_LinearGray, 43_car16_1: 1/12
+fps: 1581.3681
+5_KCF_LinearGray, 43_car16_1: 2/12
+fps: 1573.9789
+5_KCF_LinearGray, 43_car16_1: 3/12
+fps: 1516.6244
+5_KCF_LinearGray, 43_car16_1: 4/12
+fps: 1574.0028
+5_KCF_LinearGray, 43_car16_1: 5/12
+fps: 1443.654
+5_KCF_LinearGray, 43_car16_1: 6/12
+fps: 1467.3125
+5_KCF_LinearGray, 43_car16_1: 7/12
+fps: 1435.2164
+5_KCF_LinearGray, 43_car16_1: 8/12
+fps: 1436.3937
+5_KCF_LinearGray, 43_car16_1: 9/12
+fps: 1720.9777
+5_KCF_LinearGray, 43_car16_1: 10/12
+fps: 1616.7487
+5_KCF_LinearGray, 43_car16_1: 11/12
+fps: 1457.3318
+5_KCF_LinearGray, 43_car16_1: 12/12
+fps: 1132.3236
+6_SAMF, 43_car16_1: 1/12
+fps: 14.0462
+6_SAMF, 43_car16_1: 2/12
+fps: 14.1237
+6_SAMF, 43_car16_1: 3/12
+fps: 14.1212
+6_SAMF, 43_car16_1: 4/12
+fps: 13.7986
+6_SAMF, 43_car16_1: 5/12
+fps: 13.805
+6_SAMF, 43_car16_1: 6/12
+fps: 13.8419
+6_SAMF, 43_car16_1: 7/12
+fps: 13.8135
+6_SAMF, 43_car16_1: 8/12
+fps: 13.9205
+6_SAMF, 43_car16_1: 9/12
+fps: 14.7605
+6_SAMF, 43_car16_1: 10/12
+fps: 14.5411
+6_SAMF, 43_car16_1: 11/12
+fps: 13.8096
+6_SAMF, 43_car16_1: 12/12
+fps: 13.6081
+7_SRDCF, 43_car16_1: 1/12
+fps: 17.8613
+7_SRDCF, 43_car16_1: 2/12
+fps: 24.1873
+7_SRDCF, 43_car16_1: 3/12
+fps: 21.7739
+7_SRDCF, 43_car16_1: 4/12
+fps: 16.4951
+7_SRDCF, 43_car16_1: 5/12
+fps: 14.4093
+7_SRDCF, 43_car16_1: 6/12
+fps: 14.3033
+7_SRDCF, 43_car16_1: 7/12
+fps: 14.6287
+7_SRDCF, 43_car16_1: 8/12
+fps: 12.0108
+7_SRDCF, 43_car16_1: 9/12
+fps: 16.5495
+7_SRDCF, 43_car16_1: 10/12
+fps: 15.0292
+7_SRDCF, 43_car16_1: 11/12
+fps: 13.2309
+7_SRDCF, 43_car16_1: 12/12
+fps: 12.249
+1_CSK, 44_car16_2: 1/12
+fps: 392.659
+1_CSK, 44_car16_2: 2/12
+fps: 389.2781
+1_CSK, 44_car16_2: 3/12
+fps: 389.679
+1_CSK, 44_car16_2: 4/12
+fps: 389.4212
+1_CSK, 44_car16_2: 5/12
+fps: 205.5473
+1_CSK, 44_car16_2: 6/12
+fps: 204.6477
+1_CSK, 44_car16_2: 7/12
+fps: 206.8504
+1_CSK, 44_car16_2: 8/12
+fps: 204.4606
+1_CSK, 44_car16_2: 9/12
+fps: 438.7599
+1_CSK, 44_car16_2: 10/12
+fps: 370.9854
+1_CSK, 44_car16_2: 11/12
+fps: 205.0655
+1_CSK, 44_car16_2: 12/12
+fps: 253.3686
+2_KCF_LinearHog, 44_car16_2: 1/12
+fps: 380.3137
+2_KCF_LinearHog, 44_car16_2: 2/12
+fps: 388.6077
+2_KCF_LinearHog, 44_car16_2: 3/12
+fps: 383.2795
+2_KCF_LinearHog, 44_car16_2: 4/12
+fps: 384.1887
+2_KCF_LinearHog, 44_car16_2: 5/12
+fps: 351.7984
+2_KCF_LinearHog, 44_car16_2: 6/12
+fps: 356.2882
+2_KCF_LinearHog, 44_car16_2: 7/12
+fps: 345.3247
+2_KCF_LinearHog, 44_car16_2: 8/12
+fps: 345.8191
+2_KCF_LinearHog, 44_car16_2: 9/12
+fps: 452.0037
+2_KCF_LinearHog, 44_car16_2: 10/12
+fps: 438.7469
+2_KCF_LinearHog, 44_car16_2: 11/12
+fps: 355.6945
+2_KCF_LinearHog, 44_car16_2: 12/12
+fps: 263.7555
+3_DSST, 44_car16_2: 1/12
+fps: 53.0611
+3_DSST, 44_car16_2: 2/12
+fps: 52.1559
+3_DSST, 44_car16_2: 3/12
+fps: 52.0798
+3_DSST, 44_car16_2: 4/12
+fps: 53.3127
+3_DSST, 44_car16_2: 5/12
+fps: 37.661
+3_DSST, 44_car16_2: 6/12
+fps: 37.0944
+3_DSST, 44_car16_2: 7/12
+fps: 37.2995
+3_DSST, 44_car16_2: 8/12
+fps: 37.5584
+3_DSST, 44_car16_2: 9/12
+fps: 62.6128
+3_DSST, 44_car16_2: 10/12
+fps: 54.1419
+3_DSST, 44_car16_2: 11/12
+fps: 36.8937
+3_DSST, 44_car16_2: 12/12
+fps: 34.2658
+4_KCF_GaussHog, 44_car16_2: 1/12
+fps: 219.3034
+4_KCF_GaussHog, 44_car16_2: 2/12
+fps: 223.7555
+4_KCF_GaussHog, 44_car16_2: 3/12
+fps: 222.5742
+4_KCF_GaussHog, 44_car16_2: 4/12
+fps: 221.7633
+4_KCF_GaussHog, 44_car16_2: 5/12
+fps: 193.394
+4_KCF_GaussHog, 44_car16_2: 6/12
+fps: 192.0277
+4_KCF_GaussHog, 44_car16_2: 7/12
+fps: 197.2392
+4_KCF_GaussHog, 44_car16_2: 8/12
+fps: 195.8821
+4_KCF_GaussHog, 44_car16_2: 9/12
+fps: 251.4807
+4_KCF_GaussHog, 44_car16_2: 10/12
+fps: 231.2989
+4_KCF_GaussHog, 44_car16_2: 11/12
+fps: 195.1066
+4_KCF_GaussHog, 44_car16_2: 12/12
+fps: 133.4877
+5_KCF_LinearGray, 44_car16_2: 1/12
+fps: 705.1399
+5_KCF_LinearGray, 44_car16_2: 2/12
+fps: 709.7609
+5_KCF_LinearGray, 44_car16_2: 3/12
+fps: 699.0691
+5_KCF_LinearGray, 44_car16_2: 4/12
+fps: 706.828
+5_KCF_LinearGray, 44_car16_2: 5/12
+fps: 483.2643
+5_KCF_LinearGray, 44_car16_2: 6/12
+fps: 503.5279
+5_KCF_LinearGray, 44_car16_2: 7/12
+fps: 473.7587
+5_KCF_LinearGray, 44_car16_2: 8/12
+fps: 484.0289
+5_KCF_LinearGray, 44_car16_2: 9/12
+fps: 720.5719
+5_KCF_LinearGray, 44_car16_2: 10/12
+fps: 553.6454
+5_KCF_LinearGray, 44_car16_2: 11/12
+fps: 488.6028
+5_KCF_LinearGray, 44_car16_2: 12/12
+fps: 338.8264
+6_SAMF, 44_car16_2: 1/12
+fps: 10.2933
+6_SAMF, 44_car16_2: 2/12
+fps: 10.3451
+6_SAMF, 44_car16_2: 3/12
+fps: 10.223
+6_SAMF, 44_car16_2: 4/12
+fps: 10.3044
+6_SAMF, 44_car16_2: 5/12
+fps: 9.6546
+6_SAMF, 44_car16_2: 6/12
+fps: 9.6573
+6_SAMF, 44_car16_2: 7/12
+fps: 9.6245
+6_SAMF, 44_car16_2: 8/12
+fps: 9.6357
+6_SAMF, 44_car16_2: 9/12
+fps: 11.3795
+6_SAMF, 44_car16_2: 10/12
+fps: 10.4629
+6_SAMF, 44_car16_2: 11/12
+fps: 9.5861
+6_SAMF, 44_car16_2: 12/12
+fps: 8.4574
+7_SRDCF, 44_car16_2: 1/12
+fps: 6.124
+7_SRDCF, 44_car16_2: 2/12
+fps: 6.9339
+7_SRDCF, 44_car16_2: 3/12
+fps: 6.6686
+7_SRDCF, 44_car16_2: 4/12
+fps: 6.8017
+7_SRDCF, 44_car16_2: 5/12
+fps: 7.2887
+7_SRDCF, 44_car16_2: 6/12
+fps: 6.6348
+7_SRDCF, 44_car16_2: 7/12
+fps: 7.9278
+7_SRDCF, 44_car16_2: 8/12
+fps: 7.6663
+7_SRDCF, 44_car16_2: 9/12
+fps: 9.8755
+7_SRDCF, 44_car16_2: 10/12
+fps: 6.954
+7_SRDCF, 44_car16_2: 11/12
+fps: 5.7769
+7_SRDCF, 44_car16_2: 12/12
+fps: 5.7868
+1_CSK, 45_car17: 1/12
+fps: 1498.7997
+1_CSK, 45_car17: 2/12
+fps: 1410.1475
+1_CSK, 45_car17: 3/12
+fps: 1610.5611
+1_CSK, 45_car17: 4/12
+fps: 1396.1702
+1_CSK, 45_car17: 5/12
+fps: 1353.8889
+1_CSK, 45_car17: 6/12
+fps: 1416.0587
+1_CSK, 45_car17: 7/12
+fps: 1451.3091
+1_CSK, 45_car17: 8/12
+fps: 1012.4812
+1_CSK, 45_car17: 9/12
+fps: 1801.5285
+1_CSK, 45_car17: 10/12
+fps: 1829.5649
+1_CSK, 45_car17: 11/12
+fps: 1463.071
+1_CSK, 45_car17: 12/12
+fps: 1475.3277
+2_KCF_LinearHog, 45_car17: 1/12
+fps: 1134.4793
+2_KCF_LinearHog, 45_car17: 2/12
+fps: 1148.0358
+2_KCF_LinearHog, 45_car17: 3/12
+fps: 1280.098
+2_KCF_LinearHog, 45_car17: 4/12
+fps: 1317.9255
+2_KCF_LinearHog, 45_car17: 5/12
+fps: 1115.3248
+2_KCF_LinearHog, 45_car17: 6/12
+fps: 1195.7785
+2_KCF_LinearHog, 45_car17: 7/12
+fps: 1242.3528
+2_KCF_LinearHog, 45_car17: 8/12
+fps: 1262.3352
+2_KCF_LinearHog, 45_car17: 9/12
+fps: 1494.7134
+2_KCF_LinearHog, 45_car17: 10/12
+fps: 1311.9695
+2_KCF_LinearHog, 45_car17: 11/12
+fps: 1254.6083
+2_KCF_LinearHog, 45_car17: 12/12
+fps: 1107.0497
+3_DSST, 45_car17: 1/12
+fps: 134.7866
+3_DSST, 45_car17: 2/12
+fps: 132.0912
+3_DSST, 45_car17: 3/12
+fps: 131.244
+3_DSST, 45_car17: 4/12
+fps: 137.6093
+3_DSST, 45_car17: 5/12
+fps: 125.6286
+3_DSST, 45_car17: 6/12
+fps: 116.1559
+3_DSST, 45_car17: 7/12
+fps: 127.6092
+3_DSST, 45_car17: 8/12
+fps: 117.9928
+3_DSST, 45_car17: 9/12
+fps: 137.6661
+3_DSST, 45_car17: 10/12
+fps: 130.4679
+3_DSST, 45_car17: 11/12
+fps: 125.3776
+3_DSST, 45_car17: 12/12
+fps: 115.4832
+4_KCF_GaussHog, 45_car17: 1/12
+fps: 1025.5047
+4_KCF_GaussHog, 45_car17: 2/12
+fps: 1039.8252
+4_KCF_GaussHog, 45_car17: 3/12
+fps: 1031.6896
+4_KCF_GaussHog, 45_car17: 4/12
+fps: 991.5219
+4_KCF_GaussHog, 45_car17: 5/12
+fps: 763.0843
+4_KCF_GaussHog, 45_car17: 6/12
+fps: 780.4027
+4_KCF_GaussHog, 45_car17: 7/12
+fps: 775.2052
+4_KCF_GaussHog, 45_car17: 8/12
+fps: 756.5991
+4_KCF_GaussHog, 45_car17: 9/12
+fps: 1095.4378
+4_KCF_GaussHog, 45_car17: 10/12
+fps: 959.7844
+4_KCF_GaussHog, 45_car17: 11/12
+fps: 774.842
+4_KCF_GaussHog, 45_car17: 12/12
+fps: 646.4978
+5_KCF_LinearGray, 45_car17: 1/12
+fps: 1607.6999
+5_KCF_LinearGray, 45_car17: 2/12
+fps: 1559.5698
+5_KCF_LinearGray, 45_car17: 3/12
+fps: 1541.387
+5_KCF_LinearGray, 45_car17: 4/12
+fps: 1577.8262
+5_KCF_LinearGray, 45_car17: 5/12
+fps: 1317.6134
+5_KCF_LinearGray, 45_car17: 6/12
+fps: 1416.368
+5_KCF_LinearGray, 45_car17: 7/12
+fps: 1490.4748
+5_KCF_LinearGray, 45_car17: 8/12
+fps: 1325.716
+5_KCF_LinearGray, 45_car17: 9/12
+fps: 1675.0021
+5_KCF_LinearGray, 45_car17: 10/12
+fps: 1544.344
+5_KCF_LinearGray, 45_car17: 11/12
+fps: 1455.051
+5_KCF_LinearGray, 45_car17: 12/12
+fps: 1351.6002
+6_SAMF, 45_car17: 1/12
+fps: 17.5149
+6_SAMF, 45_car17: 2/12
+fps: 17.5935
+6_SAMF, 45_car17: 3/12
+fps: 16.9542
+6_SAMF, 45_car17: 4/12
+fps: 14.6056
+6_SAMF, 45_car17: 5/12
+fps: 13.1614
+6_SAMF, 45_car17: 6/12
+fps: 12.7441
+6_SAMF, 45_car17: 7/12
+fps: 13.1836
+6_SAMF, 45_car17: 8/12
+fps: 13.5961
+6_SAMF, 45_car17: 9/12
+fps: 14.2422
+6_SAMF, 45_car17: 10/12
+fps: 13.9252
+6_SAMF, 45_car17: 11/12
+fps: 13.1869
+6_SAMF, 45_car17: 12/12
+fps: 14.0989
+7_SRDCF, 45_car17: 1/12
+fps: 21.0371
+7_SRDCF, 45_car17: 2/12
+fps: 19.2662
+7_SRDCF, 45_car17: 3/12
+fps: 21.4902
+7_SRDCF, 45_car17: 4/12
+fps: 20.8958
+7_SRDCF, 45_car17: 5/12
+fps: 16.4473
+7_SRDCF, 45_car17: 6/12
+fps: 13.661
+7_SRDCF, 45_car17: 7/12
+fps: 16.242
+7_SRDCF, 45_car17: 8/12
+fps: 14.5075
+7_SRDCF, 45_car17: 9/12
+fps: 30.954
+7_SRDCF, 45_car17: 10/12
+fps: 24.4079
+7_SRDCF, 45_car17: 11/12
+fps: 12.6899
+7_SRDCF, 45_car17: 12/12
+fps: 12.1715
+1_CSK, 46_car18: 1/12
+fps: 84.7847
+1_CSK, 46_car18: 2/12
+fps: 80.959
+1_CSK, 46_car18: 3/12
+fps: 79.547
+1_CSK, 46_car18: 4/12
+fps: 82.1341
+1_CSK, 46_car18: 5/12
+fps: 160.4271
+1_CSK, 46_car18: 6/12
+fps: 154.042
+1_CSK, 46_car18: 7/12
+fps: 157.1186
+1_CSK, 46_car18: 8/12
+fps: 164.658
+1_CSK, 46_car18: 9/12
+fps: 201.1531
+1_CSK, 46_car18: 10/12
+fps: 105.0535
+1_CSK, 46_car18: 11/12
+fps: 152.3772
+1_CSK, 46_car18: 12/12
+fps: 296.0136
+2_KCF_LinearHog, 46_car18: 1/12
+fps: 138.5529
+2_KCF_LinearHog, 46_car18: 2/12
+fps: 136.6394
+2_KCF_LinearHog, 46_car18: 3/12
+fps: 132.5276
+2_KCF_LinearHog, 46_car18: 4/12
+fps: 131.6737
+2_KCF_LinearHog, 46_car18: 5/12
+fps: 115.4542
+2_KCF_LinearHog, 46_car18: 6/12
+fps: 117.6516
+2_KCF_LinearHog, 46_car18: 7/12
+fps: 113.6618
+2_KCF_LinearHog, 46_car18: 8/12
+fps: 126.6738
+2_KCF_LinearHog, 46_car18: 9/12
+fps: 211.8962
+2_KCF_LinearHog, 46_car18: 10/12
+fps: 163.7037
+2_KCF_LinearHog, 46_car18: 11/12
+fps: 134.6763
+2_KCF_LinearHog, 46_car18: 12/12
+fps: 347.1363
+3_DSST, 46_car18: 1/12
+fps: 10.1303
+3_DSST, 46_car18: 2/12
+fps: 10.5618
+3_DSST, 46_car18: 3/12
+fps: 9.5425
+3_DSST, 46_car18: 4/12
+fps: 10.5164
+3_DSST, 46_car18: 5/12
+fps: 12.2982
+3_DSST, 46_car18: 6/12
+fps: 6.9838
+3_DSST, 46_car18: 7/12
+fps: 12.7969
+3_DSST, 46_car18: 8/12
+fps: 13.355
+3_DSST, 46_car18: 9/12
+fps: 18.698
+3_DSST, 46_car18: 10/12
+fps: 11.4535
+3_DSST, 46_car18: 11/12
+fps: 12.9662
+3_DSST, 46_car18: 12/12
+fps: 8.0771
+4_KCF_GaussHog, 46_car18: 1/12
+fps: 79.1596
+4_KCF_GaussHog, 46_car18: 2/12
+fps: 77.891
+4_KCF_GaussHog, 46_car18: 3/12
+fps: 77.1684
+4_KCF_GaussHog, 46_car18: 4/12
+fps: 77.0129
+4_KCF_GaussHog, 46_car18: 5/12
+fps: 65.6723
+4_KCF_GaussHog, 46_car18: 6/12
+fps: 66.1031
+4_KCF_GaussHog, 46_car18: 7/12
+fps: 65.3568
+4_KCF_GaussHog, 46_car18: 8/12
+fps: 65.9904
+4_KCF_GaussHog, 46_car18: 9/12
+fps: 98.4122
+4_KCF_GaussHog, 46_car18: 10/12
+fps: 67.9012
+4_KCF_GaussHog, 46_car18: 11/12
+fps: 65.6355
+4_KCF_GaussHog, 46_car18: 12/12
+fps: 173.1605
+5_KCF_LinearGray, 46_car18: 1/12
+fps: 153.9816
+5_KCF_LinearGray, 46_car18: 2/12
+fps: 153.5742
+5_KCF_LinearGray, 46_car18: 3/12
+fps: 155.0588
+5_KCF_LinearGray, 46_car18: 4/12
+fps: 154.8369
+5_KCF_LinearGray, 46_car18: 5/12
+fps: 211.1409
+5_KCF_LinearGray, 46_car18: 6/12
+fps: 210.8442
+5_KCF_LinearGray, 46_car18: 7/12
+fps: 208.6359
+5_KCF_LinearGray, 46_car18: 8/12
+fps: 209.6341
+5_KCF_LinearGray, 46_car18: 9/12
+fps: 238.9913
+5_KCF_LinearGray, 46_car18: 10/12
+fps: 228.2472
+5_KCF_LinearGray, 46_car18: 11/12
+fps: 208.4217
+5_KCF_LinearGray, 46_car18: 12/12
+fps: 483.6811
+6_SAMF, 46_car18: 1/12
+fps: 5.6408
+6_SAMF, 46_car18: 2/12
+fps: 5.6245
+6_SAMF, 46_car18: 3/12
+fps: 5.5851
+6_SAMF, 46_car18: 4/12
+fps: 5.5962
+6_SAMF, 46_car18: 5/12
+fps: 5.014
+6_SAMF, 46_car18: 6/12
+fps: 4.9973
+6_SAMF, 46_car18: 7/12
+fps: 5.0079
+6_SAMF, 46_car18: 8/12
+fps: 5.6495
+6_SAMF, 46_car18: 9/12
+fps: 7.4919
+6_SAMF, 46_car18: 10/12
+fps: 6.3037
+6_SAMF, 46_car18: 11/12
+fps: 5.673
+6_SAMF, 46_car18: 12/12
+fps: 16.932
+7_SRDCF, 46_car18: 1/12
+fps: 5.0686
+7_SRDCF, 46_car18: 2/12
+fps: 5.26
+7_SRDCF, 46_car18: 3/12
+fps: 2.6602
+7_SRDCF, 46_car18: 4/12
+fps: 3.6141
+7_SRDCF, 46_car18: 5/12
+fps: 5.2492
+7_SRDCF, 46_car18: 6/12
+fps: 5.2925
+7_SRDCF, 46_car18: 7/12
+fps: 5.4387
+7_SRDCF, 46_car18: 8/12
+fps: 5.391
+7_SRDCF, 46_car18: 9/12
+fps: 5.7201
+7_SRDCF, 46_car18: 10/12
+fps: 5.6428
+7_SRDCF, 46_car18: 11/12
+fps: 5.6245
+7_SRDCF, 46_car18: 12/12
+fps: 5.1668
+1_CSK, 47_group1_1: 1/12
+fps: 176.5508
+1_CSK, 47_group1_1: 2/12
+fps: 173.0633
+1_CSK, 47_group1_1: 3/12
+fps: 170.7194
+1_CSK, 47_group1_1: 4/12
+fps: 170.9712
+1_CSK, 47_group1_1: 5/12
+fps: 221.7971
+1_CSK, 47_group1_1: 6/12
+fps: 224.7706
+1_CSK, 47_group1_1: 7/12
+fps: 226.4659
+1_CSK, 47_group1_1: 8/12
+fps: 224.9839
+1_CSK, 47_group1_1: 9/12
+fps: 229.4021
+1_CSK, 47_group1_1: 10/12
+fps: 252.6537
+1_CSK, 47_group1_1: 11/12
+fps: 226.6785
+1_CSK, 47_group1_1: 12/12
+fps: 275.3419
+2_KCF_LinearHog, 47_group1_1: 1/12
+fps: 256.416
+2_KCF_LinearHog, 47_group1_1: 2/12
+fps: 265.0118
+2_KCF_LinearHog, 47_group1_1: 3/12
+fps: 269.9096
+2_KCF_LinearHog, 47_group1_1: 4/12
+fps: 266.2711
+2_KCF_LinearHog, 47_group1_1: 5/12
+fps: 161.5698
+2_KCF_LinearHog, 47_group1_1: 6/12
+fps: 162.8841
+2_KCF_LinearHog, 47_group1_1: 7/12
+fps: 167.7163
+2_KCF_LinearHog, 47_group1_1: 8/12
+fps: 162.2635
+2_KCF_LinearHog, 47_group1_1: 9/12
+fps: 277.1042
+2_KCF_LinearHog, 47_group1_1: 10/12
+fps: 289.1505
+2_KCF_LinearHog, 47_group1_1: 11/12
+fps: 162.391
+2_KCF_LinearHog, 47_group1_1: 12/12
+fps: 194.3957
+3_DSST, 47_group1_1: 1/12
+fps: 20.1797
+3_DSST, 47_group1_1: 2/12
+fps: 19.6036
+3_DSST, 47_group1_1: 3/12
+fps: 19.7381
+3_DSST, 47_group1_1: 4/12
+fps: 19.5254
+3_DSST, 47_group1_1: 5/12
+fps: 20.7979
+3_DSST, 47_group1_1: 6/12
+fps: 20.1713
+3_DSST, 47_group1_1: 7/12
+fps: 20.3555
+3_DSST, 47_group1_1: 8/12
+fps: 18.6995
+3_DSST, 47_group1_1: 9/12
+fps: 35.9263
+3_DSST, 47_group1_1: 10/12
+fps: 31.7748
+3_DSST, 47_group1_1: 11/12
+fps: 20.0804
+3_DSST, 47_group1_1: 12/12
+fps: 19.355
+4_KCF_GaussHog, 47_group1_1: 1/12
+fps: 153.8312
+4_KCF_GaussHog, 47_group1_1: 2/12
+fps: 153.9543
+4_KCF_GaussHog, 47_group1_1: 3/12
+fps: 152.1241
+4_KCF_GaussHog, 47_group1_1: 4/12
+fps: 151.197
+4_KCF_GaussHog, 47_group1_1: 5/12
+fps: 90.8946
+4_KCF_GaussHog, 47_group1_1: 6/12
+fps: 91.3333
+4_KCF_GaussHog, 47_group1_1: 7/12
+fps: 90.4156
+4_KCF_GaussHog, 47_group1_1: 8/12
+fps: 90.4892
+4_KCF_GaussHog, 47_group1_1: 9/12
+fps: 151.514
+4_KCF_GaussHog, 47_group1_1: 10/12
+fps: 160.2651
+4_KCF_GaussHog, 47_group1_1: 11/12
+fps: 90.3311
+4_KCF_GaussHog, 47_group1_1: 12/12
+fps: 113.8257
+5_KCF_LinearGray, 47_group1_1: 1/12
+fps: 297.9975
+5_KCF_LinearGray, 47_group1_1: 2/12
+fps: 293.1654
+5_KCF_LinearGray, 47_group1_1: 3/12
+fps: 302.85
+5_KCF_LinearGray, 47_group1_1: 4/12
+fps: 310.0015
+5_KCF_LinearGray, 47_group1_1: 5/12
+fps: 320.015
+5_KCF_LinearGray, 47_group1_1: 6/12
+fps: 327.9507
+5_KCF_LinearGray, 47_group1_1: 7/12
+fps: 322.074
+5_KCF_LinearGray, 47_group1_1: 8/12
+fps: 323.1514
+5_KCF_LinearGray, 47_group1_1: 9/12
+fps: 420.4265
+5_KCF_LinearGray, 47_group1_1: 10/12
+fps: 492.5049
+5_KCF_LinearGray, 47_group1_1: 11/12
+fps: 314.6498
+5_KCF_LinearGray, 47_group1_1: 12/12
+fps: 253.9598
+6_SAMF, 47_group1_1: 1/12
+fps: 8.3261
+6_SAMF, 47_group1_1: 2/12
+fps: 8.4241
+6_SAMF, 47_group1_1: 3/12
+fps: 8.8941
+6_SAMF, 47_group1_1: 4/12
+fps: 8.5903
+6_SAMF, 47_group1_1: 5/12
+fps: 6.8326
+6_SAMF, 47_group1_1: 6/12
+fps: 6.8374
+6_SAMF, 47_group1_1: 7/12
+fps: 6.8165
+6_SAMF, 47_group1_1: 8/12
+fps: 6.825
+6_SAMF, 47_group1_1: 9/12
+fps: 9.2494
+6_SAMF, 47_group1_1: 10/12
+fps: 8.953
+6_SAMF, 47_group1_1: 11/12
+fps: 6.7723
+6_SAMF, 47_group1_1: 12/12
+fps: 7.1454
+7_SRDCF, 47_group1_1: 1/12
+fps: 5.8685
+7_SRDCF, 47_group1_1: 2/12
+fps: 5.4508
+7_SRDCF, 47_group1_1: 3/12
+fps: 5.5602
+7_SRDCF, 47_group1_1: 4/12
+fps: 5.424
+7_SRDCF, 47_group1_1: 5/12
+fps: 5.3294
+7_SRDCF, 47_group1_1: 6/12
+fps: 5.2053
+7_SRDCF, 47_group1_1: 7/12
+fps: 5.2121
+7_SRDCF, 47_group1_1: 8/12
+fps: 5.1614
+7_SRDCF, 47_group1_1: 9/12
+fps: 5.7769
+7_SRDCF, 47_group1_1: 10/12
+fps: 5.7494
+7_SRDCF, 47_group1_1: 11/12
+fps: 5.6192
+7_SRDCF, 47_group1_1: 12/12
+fps: 5.5933
+1_CSK, 48_group1_2: 1/12
+fps: 168.5248
+1_CSK, 48_group1_2: 2/12
+fps: 162.8177
+1_CSK, 48_group1_2: 3/12
+fps: 162.5762
+1_CSK, 48_group1_2: 4/12
+fps: 151.3723
+1_CSK, 48_group1_2: 5/12
+fps: 226.2483
+1_CSK, 48_group1_2: 6/12
+fps: 223.6609
+1_CSK, 48_group1_2: 7/12
+fps: 233.819
+1_CSK, 48_group1_2: 8/12
+fps: 246.7268
+1_CSK, 48_group1_2: 9/12
+fps: 452.1611
+1_CSK, 48_group1_2: 10/12
+fps: 221.4511
+1_CSK, 48_group1_2: 11/12
+fps: 253.3974
+1_CSK, 48_group1_2: 12/12
+fps: 243.9267
+2_KCF_LinearHog, 48_group1_2: 1/12
+fps: 342.02
+2_KCF_LinearHog, 48_group1_2: 2/12
+fps: 331.0026
+2_KCF_LinearHog, 48_group1_2: 3/12
+fps: 340.5266
+2_KCF_LinearHog, 48_group1_2: 4/12
+fps: 344.8127
+2_KCF_LinearHog, 48_group1_2: 5/12
+fps: 330.8758
+2_KCF_LinearHog, 48_group1_2: 6/12
+fps: 328.7328
+2_KCF_LinearHog, 48_group1_2: 7/12
+fps: 333.4763
+2_KCF_LinearHog, 48_group1_2: 8/12
+fps: 328.6757
+2_KCF_LinearHog, 48_group1_2: 9/12
+fps: 381.4478
+2_KCF_LinearHog, 48_group1_2: 10/12
+fps: 394.1968
+2_KCF_LinearHog, 48_group1_2: 11/12
+fps: 333.2401
+2_KCF_LinearHog, 48_group1_2: 12/12
+fps: 212.2036
+3_DSST, 48_group1_2: 1/12
+fps: 32.0206
+3_DSST, 48_group1_2: 2/12
+fps: 31.8323
+3_DSST, 48_group1_2: 3/12
+fps: 30.3883
+3_DSST, 48_group1_2: 4/12
+fps: 27.2039
+3_DSST, 48_group1_2: 5/12
+fps: 34.3263
+3_DSST, 48_group1_2: 6/12
+fps: 33.7034
+3_DSST, 48_group1_2: 7/12
+fps: 32.9839
+3_DSST, 48_group1_2: 8/12
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('readjpg', '/usr/local/MATLAB/R2018b/toolbox/matlab/imagesci/private/readjpg.m', 11)" style="font-weight:bold">readjpg</a> (<a href="matlab: opentoline('/usr/local/MATLAB/R2018b/toolbox/matlab/imagesci/private/readjpg.m',11,0)">line 11</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('imread/call_format_specific_reader', '/usr/local/MATLAB/R2018b/toolbox/matlab/imagesci/imread.p', 447)" style="font-weight:bold">imread/call_format_specific_reader</a> (<a href="matlab: opentoline('/usr/local/MATLAB/R2018b/toolbox/matlab/imagesci/imread.p',447,0)">line 447</a>)
+            [varargout{1:nargout}] = feval(fmt_s.read,
+            fullname, extraArgs{:});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('imread', '/usr/local/MATLAB/R2018b/toolbox/matlab/imagesci/imread.p', 440)" style="font-weight:bold">imread</a> (<a href="matlab: opentoline('/usr/local/MATLAB/R2018b/toolbox/matlab/imagesci/imread.p',440,0)">line 440</a>)
+    [X, map] = call_format_specific_reader();
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('dsst', '/home/shi/Tracker_Evaluation/trackers_uav/trackers/DSST/dsst.m', 85)" style="font-weight:bold">dsst</a> (<a href="matlab: opentoline('/home/shi/Tracker_Evaluation/trackers_uav/trackers/DSST/dsst.m',85,0)">line 85</a>)
+    im = imread([video_path img_files{frame}]);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run_DSST', '/home/shi/Tracker_Evaluation/trackers_uav/trackers/DSST/run_DSST.m', 37)" style="font-weight:bold">run_DSST</a> (<a href="matlab: opentoline('/home/shi/Tracker_Evaluation/trackers_uav/trackers/DSST/run_DSST.m',37,0)">line 37</a>)
+[positions, fps] = dsst(params);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_running', '/home/shi/Tracker_Evaluation/trackers_uav/main_running.m', 144)" style="font-weight:bold">main_running</a> (<a href="matlab: opentoline('/home/shi/Tracker_Evaluation/trackers_uav/main_running.m',144,0)">line 144</a>)
+                eval(funcName);
+} 
