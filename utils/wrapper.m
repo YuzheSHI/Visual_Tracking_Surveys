@@ -39,3 +39,4 @@ function [seq, init_image] = get_sequence_info(seq)
     seq.num_frames = Inf;
     seq.region = init_region;
 
+end
