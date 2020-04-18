@@ -3,17 +3,8 @@ function [seq, init_image] = get_sequence_info(seq)
     % wrapper of vot-2018 for early trackers,
     % transforming rotated bounding boxes to axis-aligned ones
 
-seq.frame = 0;
+    seq.frame = 0;
 
-if strcmpi(seq.format, 'otb')
-    seq.image_files = seq.s_frames;
-    seq = rmfield(seq, 's_frames');
-    seq.init_sz = [seq.init_rect(1,4), seq.init_rect(1,3)];
-    seq.init_pos = [seq.init_rect(1,2), seq.init_rect(1,1)] + (seq.init_sz - 1)/2;
-    seq.num_frames = numel(seq.image_files);
-    seq.rect_position = zeros(seq.num_frames, 4);
-    init_image = imread(seq.image_files{1});
-elseif strcmpi(seq.format, 'vot')
     [seq.handle, init_image_file, init_region] = vot('polygon');
     
     if isempty(init_image_file)
@@ -54,6 +45,4 @@ elseif strcmpi(seq.format, 'vot')
     seq.init_sz = min(max(round(init_sz), [1 1]), im_size(1:2));
     seq.num_frames = Inf;
     seq.region = init_region;
-else
-    error('Uknown sequence format');
-end
+
