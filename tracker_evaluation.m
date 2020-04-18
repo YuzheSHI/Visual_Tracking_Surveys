@@ -13,7 +13,7 @@ warning off all;
 
 data_path = '/media/shi/Staff/Datasets/';
 % absolute path to datasets(end with '/')
-error('Please set dataset path and comment this line!');
+% error('Please set dataset path and comment this line!');
 % comment the line above after you set dataset path
 
 datasets = {
